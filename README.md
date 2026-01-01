@@ -11,7 +11,9 @@ I've been learning that the little musical exposure I've had over the course of 
 
 I found a video recommending that piano-for-music-production would benefit more from starting out down the jazz improvization path than the classical path, which totally makes sense to me. So i'll start by going through this video until i've extracted all the value from there. Hopefully that'll leave me in a good place to figure out what my next steps are. 
 
-https://youtu.be/vEskxQv10Oc?si=OHMLj7QcGF_kCBAt
+music prod guy: https://youtu.be/UrS7m__mffE?si=VjRtSWgVWxJhrtpd
+
+jazz piano guy: https://youtu.be/vEskxQv10Oc?si=OHMLj7QcGF_kCBAt
 
 He recommends learning the 'beginner' scale pattern, one key per month, practicing 5-10 mins per day until you can do it at 80bpm. this seems really doable for a month. 
 - Learn notes of the major and minor scale in the key of C.
