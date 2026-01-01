@@ -13,6 +13,14 @@ I found a video recommending that piano-for-music-production would benefit more 
 
 https://youtu.be/vEskxQv10Oc?si=OHMLj7QcGF_kCBAt
 
+He recommends learning the 'beginner' scale pattern, one key per month, practicing 5-10 mins per day until you can do it at 80bpm. this seems really doable for a month. 
+- Learn notes of the major and minor scale in the key of C.
+- practice the scale pattern with left hand making the chords from the key;
+  - Going up: CEG (C Major), DFA (D Minor), EGB (E Minor), FAC (F Major), then continue with GBD (G Major), ACE (A Major), BDF (B Major), back to C chord.
+  - Going down: CEG, BDF, ACE, GBD, then to FAC, EGB, DFA, to CEG
+- then do it for the minor scale.
+- Then in the next month, move to a different key, like F. 
+
 -----
 After an unintentional habit that turned into a test of consistency, I've decided to keep documenting my silly levels of progress and thoughts. I haven't been coding much lately, so github might not be the best place to keep this going, but it's what i've got without too much additional friction, so I'll stick with it until there's a better option. 
 
