@@ -1,6 +1,9 @@
 # 2026-journal
 
 
+1/2/26
+Consistency is gonna be tough. I have to work in habits to regular rhythms to keep myself on track. The gym cadence is good, but i need something similar for music, and maybe a weekly event just to keep my life on a pulse. The weekly wednesday open mic night was good, but it hasnt happened over christmas/new years so it's been off the past few weeks. Need another weekly event to regularly attend. 
+
 1/1/26 
 I've settled on two near years resolutions, and they both seem to revolve around music. 
 
