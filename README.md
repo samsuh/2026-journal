@@ -9,11 +9,14 @@ https://youtu.be/jb5q-EY7iAw?si=f4Lc3MdRzpOf7GYb
 3. Learn 7ths; major 7, dom 7, minor 7, dim 7, half dim 7 (all 12) 
 4. Shells and guide tones (take a 7th chord, and remove 1 or 2 notes from teh chord to make a chord shell)
 5. Extensions and alterations (to a Cmaj7, can add three extensions; D is the 9th, F is 11th, A is 13th chord extension; C7 chord can have four alterations; Db is flat9, D# is sharp9, 11 sharp or flat 5, 13 can made it flat 13 or sharp 5)(all 12)
+
+the next few dont seem to be as fundamental, more like the guy wanted to get to "10 things" and needed more things after the first few on his list. "Learn major scales, learn chords, then start learning all the weirder chords". 
+
 6. Rootless voicings; maj7, min7, dom7 rootless voicing chords (all 12). (take a 7 chord, and add extensions and remove root). A voicing built on the 3 or B voicings built on the 7. 
 7. Block chords (all 12 keys)
 8. Drop 2 chords 
-9. Quartal voicings
-10. Upper structures
+9. Quartal voicings (4th intervals)
+10. Upper structures "Harmonize your chords". 
 
 These don't mean a lot to me yet, but a roadmap is a roadmap. Good to have some key points to look forward to. 
 
@@ -21,7 +24,7 @@ This is all kind of under "music theory" which i understand is a fundamental ski
 
 Making a song based on youtube videos, seems to consist of a few steps, which I'm still piecing together: 
 - Lay down something from inspiration or noodling. Capture some core essence of the song.
-- Fill out drums, chords, melody, and any other character. This will probably become a core portion of the song, maybe the chorus or something.
+- Fill out drums, chords, melody, and any other character like bass. This will probably become a core portion of the song, maybe the chorus or something.
 - Build the other sections of the song around it; keeping it simple for now; intro, verse, chorus, outro at the start; fill out more later. 
 
 ## 1/2/26
