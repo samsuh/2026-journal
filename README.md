@@ -4,6 +4,10 @@
 1/2/26
 Consistency is gonna be tough. I have to work in habits to regular rhythms to keep myself on track. The gym cadence is good, but i need something similar for music, and maybe a weekly event just to keep my life on a pulse. The weekly wednesday open mic night was good, but it hasnt happened over christmas/new years so it's been off the past few weeks. Need another weekly event to regularly attend. 
 
+first practice session in the books. it was really simple. setting up the keyboard, since it's not an actual piano, and connecting it to the daw, making sure it all works, and that it makes sound. everything works. played a simple C major scale for a bit, with some left hand thrown in there making major chords in the C major scale. just the same shape moving up and down while i play the normal scale with my right hand. 
+
+i couldnt figure out how to get the pedal to work with the keyboard, so that's troubleshooting i should do later. 
+
 1/1/26 
 I've settled on two near years resolutions, and they both seem to revolve around music. 
 
