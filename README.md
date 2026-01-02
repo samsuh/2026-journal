@@ -1,5 +1,21 @@
 # 2026-journal
 
+1/3/26 
+Found this guide of getting from simple chords to jazz progress. 
+https://youtu.be/jb5q-EY7iAw?si=f4Lc3MdRzpOf7GYb
+
+1. Know major scales (all 12)
+2. Learn major and minor chords (all 12)
+3. Learn 7ths; major 7, dom 7, minor 7, dim 7, half dim 7 (all 12) 
+4. Shells and guide tones (take a 7th chord, and remove 1 or 2 notes from teh chord to make a chord shell)
+5. Extensions and alterations
+6. Rootless voicings
+7. Block chords
+8. Drop 2 chords
+9. Quartal voicings
+10. Upper structures
+
+These don't mean a lot to me yet, but a roadmap is a roadmap. Good to have some key points to look forward to. 
 
 1/2/26
 Consistency is gonna be tough. I have to work in habits to regular rhythms to keep myself on track. The gym cadence is good, but i need something similar for music, and maybe a weekly event just to keep my life on a pulse. The weekly wednesday open mic night was good, but it hasnt happened over christmas/new years so it's been off the past few weeks. Need another weekly event to regularly attend. 
