@@ -1,6 +1,6 @@
 # 2026-journal
 
-1/3/26 
+## 1/3/26 
 Found this guide of getting from simple chords to jazz progress. 
 https://youtu.be/jb5q-EY7iAw?si=f4Lc3MdRzpOf7GYb
 
@@ -8,16 +8,23 @@ https://youtu.be/jb5q-EY7iAw?si=f4Lc3MdRzpOf7GYb
 2. Learn major and minor chords (all 12)
 3. Learn 7ths; major 7, dom 7, minor 7, dim 7, half dim 7 (all 12) 
 4. Shells and guide tones (take a 7th chord, and remove 1 or 2 notes from teh chord to make a chord shell)
-5. Extensions and alterations
-6. Rootless voicings
-7. Block chords
-8. Drop 2 chords
+5. Extensions and alterations (to a Cmaj7, can add three extensions; D is the 9th, F is 11th, A is 13th chord extension; C7 chord can have four alterations; Db is flat9, D# is sharp9, 11 sharp or flat 5, 13 can made it flat 13 or sharp 5)(all 12)
+6. Rootless voicings; maj7, min7, dom7 rootless voicing chords (all 12). (take a 7 chord, and add extensions and remove root). A voicing built on the 3 or B voicings built on the 7. 
+7. Block chords (all 12 keys)
+8. Drop 2 chords 
 9. Quartal voicings
 10. Upper structures
 
 These don't mean a lot to me yet, but a roadmap is a roadmap. Good to have some key points to look forward to. 
 
-1/2/26
+This is all kind of under "music theory" which i understand is a fundamental skill, and is probably worth investing time and effort into for the long term. but it's also important to recognize that i'm not trying to master music, just learn enough to apply to my short term goals of making a song and understanding song structure. 
+
+Making a song based on youtube videos, seems to consist of a few steps, which I'm still piecing together: 
+- Lay down something from inspiration or noodling. Capture some core essence of the song.
+- Fill out drums, chords, melody, and any other character. This will probably become a core portion of the song, maybe the chorus or something.
+- Build the other sections of the song around it; keeping it simple for now; intro, verse, chorus, outro at the start; fill out more later. 
+
+## 1/2/26
 Consistency is gonna be tough. I have to work in habits to regular rhythms to keep myself on track. The gym cadence is good, but i need something similar for music, and maybe a weekly event just to keep my life on a pulse. The weekly wednesday open mic night was good, but it hasnt happened over christmas/new years so it's been off the past few weeks. Need another weekly event to regularly attend. 
 
 first practice session in the books. it was really simple. setting up the keyboard, since it's not an actual piano, and connecting it to the daw, making sure it all works, and that it makes sound. everything works. played a simple C major scale for a bit, with some left hand thrown in there making major chords in the C major scale. just the same shape moving up and down while i play the normal scale with my right hand. 
@@ -26,7 +33,7 @@ i couldnt figure out how to get the pedal to work with the keyboard, so that's t
 
 Djing practiced. Mixed a bunch of songs. got stuck around 5A around 100bpm and had nowhere to go. need to build out a bit more of a library to give myself more paths to go. 
 
-1/1/26 
+## 1/1/26 
 I've settled on two near years resolutions, and they both seem to revolve around music. 
 
 1. Learn to play Keyboard and learn basics of music theory. Culmination: Write, record, and share one song created by me from scratch.
