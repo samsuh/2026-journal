@@ -8,6 +8,8 @@ first practice session in the books. it was really simple. setting up the keyboa
 
 i couldnt figure out how to get the pedal to work with the keyboard, so that's troubleshooting i should do later. 
 
+Djing practiced. Mixed a bunch of songs. got stuck around 5A around 100bpm and had nowhere to go. need to build out a bit more of a library to give myself more paths to go. 
+
 1/1/26 
 I've settled on two near years resolutions, and they both seem to revolve around music. 
 
