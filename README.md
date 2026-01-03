@@ -27,6 +27,12 @@ Making a song based on youtube videos, seems to consist of a few steps, which I'
 - Fill out drums, chords, melody, and any other character like bass. This will probably become a core portion of the song, maybe the chorus or something.
 - Build the other sections of the song around it; keeping it simple for now; intro, verse, chorus, outro at the start; fill out more later. 
 
+-----
+
+New piano chord video: https://youtu.be/IZviX7imPa8?si=diojSc5DIOuYf6w6
+
+Question: How does knowing chords translate to making new music exactly? I think it's because to create a song, you need to pick the 'feel' of the chords in the song, and pick a chord progression that goes well together. 
+
 ## 1/2/26
 Consistency is gonna be tough. I have to work in habits to regular rhythms to keep myself on track. The gym cadence is good, but i need something similar for music, and maybe a weekly event just to keep my life on a pulse. The weekly wednesday open mic night was good, but it hasnt happened over christmas/new years so it's been off the past few weeks. Need another weekly event to regularly attend. 
 
