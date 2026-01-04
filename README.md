@@ -8,6 +8,7 @@ Circle of Fifths from C:
 
 Circle of Fourths on the way down. 
 
+Maybe if i watch music theory videos over and over and hear the same basics being told to me in different iterations, itll click one day. 
 
 ## 1/4/26
 Went out last night for a coding meetup, and despite not wanting to stay out too late, ended up going out to some bars, and ended up getting home later than i originally wanted. I think i make bad decisions after having two drinks. Going home stops becoming feasible after a few drinks unless everyone goes home. 
