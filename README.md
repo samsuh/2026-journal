@@ -5,6 +5,25 @@ Went out last night for a coding meetup, and despite not wanting to stay out too
 
 Regarding music, havent had much time to practice after catching up on sleep. 
 
+Thinking through the goal of "Make a song", defining the goal more thoroughly seems like a good idea. 
+
+"Make a song" level 1: 
+- simple drum beat loop
+- simple chord progression, like a I IV V I 
+- create a simple melody in the key by pressing random notes in the key during loop 
+one segment of the song. fill it out with intro/chorus/verse sections 
+
+level 2: 
+- Make a better "real" beat
+- Spice up the chord progression, using more advanced chords than basic major chords.
+- Give some more thought to the melody and harmony
+- Give some thought to instrument/sound selection.
+
+level 3: 
+- play in the drums using drum pads instead of drawing it out, or sequencing.
+- play in the chord progressions instead of cutting it in
+- consider playing in some other parts live like guitar and bass. 
+
 ## 1/3/26 
 Found this guide of getting from simple chords to jazz progress. 
 https://youtu.be/jb5q-EY7iAw?si=f4Lc3MdRzpOf7GYb
