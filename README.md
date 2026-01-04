@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/4/26
+Went out last night for a coding meetup, and despite not wanting to stay out too late, ended up going out to some bars, and ended up getting home later than i originally wanted. I think i make bad decisions after having two drinks. Going home stops becoming feasible after a few drinks unless everyone goes home. 
+
+Regarding music, havent had much time to practice after catching up on sleep. 
+
 ## 1/3/26 
 Found this guide of getting from simple chords to jazz progress. 
 https://youtu.be/jb5q-EY7iAw?si=f4Lc3MdRzpOf7GYb
