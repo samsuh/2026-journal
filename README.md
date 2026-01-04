@@ -10,6 +10,8 @@ Circle of Fourths on the way down.
 
 Maybe if i watch music theory videos over and over and hear the same basics being told to me in different iterations, itll click one day. 
 
+DJing: i played a bunch of songs in a row. the transitions are pretty messy, but im getting more comfortable hearing more songs together. Im not improving skills at all yet, just getting used to the vibe of one song after the other, and also knowing the songs i downloaded, and im still actively listening to new tracks to build up a more comprehensive library. My transitions suck, and a lot of things are wrong; my timing are off, my cues are not set, and even if they are, i dont really know them well. i dont have any real idea concept of songs that go well together, and im all over the place with the music mix. after a while i think ill get a better sense of things going well together, which is a good place to start. 
+
 ## 1/4/26
 Went out last night for a coding meetup, and despite not wanting to stay out too late, ended up going out to some bars, and ended up getting home later than i originally wanted. I think i make bad decisions after having two drinks. Going home stops becoming feasible after a few drinks unless everyone goes home. 
 
