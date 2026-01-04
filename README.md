@@ -1,5 +1,14 @@
 # 2026-journal
 
+## 1/5/26
+Piano: I still don't know what I'm doing when it comes to piano and music theory, but learning both at the same time seems to be the way most people teach it. One exercise that I would find valuable is to start learning the ways to play the major and minor chords. Maybe move and down the circle of fifths after learning what each major chord looks like. Up in fifths, down in fourths. 
+
+Circle of Fifths from C: 
+- C > G > D > A > E > B > Gb > Db > Ab > Eb > Bb > F > C
+
+Circle of Fourths on the way down. 
+
+
 ## 1/4/26
 Went out last night for a coding meetup, and despite not wanting to stay out too late, ended up going out to some bars, and ended up getting home later than i originally wanted. I think i make bad decisions after having two drinks. Going home stops becoming feasible after a few drinks unless everyone goes home. 
 
