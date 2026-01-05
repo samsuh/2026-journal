@@ -5,6 +5,10 @@ Debating whether i want to pick up an 88 key midi controller that has a (probabl
 
 Piano practice: going through and trying to familiarize myself with the major chords in C key. starting from CEG, going through C, D, E, etc making major thirds the whole way up. coming down i need to figure out the pattern. 
 
+Music production: 
+
+I looked into a few paid courses, and none of them seemed deep enough while being comprehensive. The stuff on youtube seems to be more comprehensive, although a little less structured. But I think the youtube stuff will get me a long way, and if I still want a paid course, i can do it a little later, with more comprehension ounder my belt. 
+
 ## 1/5/26
 Piano: I still don't know what I'm doing when it comes to piano and music theory, but learning both at the same time seems to be the way most people teach it. One exercise that I would find valuable is to start learning the ways to play the major and minor chords. Maybe move and down the circle of fifths after learning what each major chord looks like. Up in fifths, down in fourths. 
 
