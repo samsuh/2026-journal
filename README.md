@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 1/6/26
+Debating whether i want to pick up an 88 key midi controller that has a (probably easy fix) broken key for super cheap. can fix it and use it, and if i dont use it, flip it back for resale with the fix. 
+
 ## 1/5/26
 Piano: I still don't know what I'm doing when it comes to piano and music theory, but learning both at the same time seems to be the way most people teach it. One exercise that I would find valuable is to start learning the ways to play the major and minor chords. Maybe move and down the circle of fifths after learning what each major chord looks like. Up in fifths, down in fourths. 
 
