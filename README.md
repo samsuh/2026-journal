@@ -5,6 +5,8 @@ Felt like a lost day, but ordered a new set of djing headphones (sennheiser hd25
 
 Ableton tutorial that's pretty good: https://youtu.be/2kg0wzKC1jI?si=6DXbaY2wH8dCWGUj
 
+I've been thinking about whether i want to buy ableton suite to get more motivated to using ableton, and was even looking at potential courses that give the education discount (save 500k krw). but i think for now, im ok with Lite version, and when im getting more serious, i should use up the free trial of suite to confirm for sure and get through whatever course im doing at the time. WHen that's done, i should consider buying a used copy transferred over (watch out for edu version, NFR untransferrable version). But by then i should be able to make much better use of the advanced capabilities of suite. 
+
 ## 1/6/26
 Debating whether i want to pick up an 88 key midi controller that has a (probably easy fix) broken key for super cheap. can fix it and use it, and if i dont use it, flip it back for resale with the fix. 
 
