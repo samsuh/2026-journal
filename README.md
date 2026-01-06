@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/7/26
+Felt like a lost day, but ordered a new set of djing headphones (sennheiser hd25s), and lost the bid for the broken 88 key keyboard, which im pretty sure is a good thing as i dont have the space to put it, it was just me being greedy. I've been looking into a few courses for music production, but the youtube ones are really good so far, and I should get through those first before buying anything else for now. 
+
+Ableton tutorial that's pretty good: https://youtu.be/2kg0wzKC1jI?si=6DXbaY2wH8dCWGUj
+
 ## 1/6/26
 Debating whether i want to pick up an 88 key midi controller that has a (probably easy fix) broken key for super cheap. can fix it and use it, and if i dont use it, flip it back for resale with the fix. 
 
