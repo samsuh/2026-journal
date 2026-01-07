@@ -7,6 +7,13 @@ Ableton tutorial that's pretty good: https://youtu.be/2kg0wzKC1jI?si=6DXbaY2wH8d
 
 I've been thinking about whether i want to buy ableton suite to get more motivated to using ableton, and was even looking at potential courses that give the education discount (save 500k krw). but i think for now, im ok with Lite version, and when im getting more serious, i should use up the free trial of suite to confirm for sure and get through whatever course im doing at the time. WHen that's done, i should consider buying a used copy transferred over (watch out for edu version, NFR untransferrable version). But by then i should be able to make much better use of the advanced capabilities of suite. 
 
+I should organize my other goals and partially completed goals. 
+- Flying: Decide if i want to get a lightsport flying license in korea. It costs about $4000 all inclusive, but is fixed wing only, and very limited in terms of what/where/how you can fly. Secondary is to figure out if i want to translate the korean flight book, and aggregate other notes into a more comprehensive 'textbook' for flying in korea. Maybe look to publish all of that at some point. Do I want to do anything with flight simulators? 
+- Programming: Lots of incomplete projects that got started over time. Maybe spend some time to aggregate and organize all of the projects, and see where i left off, and why they got stopped, and reassess whether theyd be worth completing.
+- Motorcycles: Last year was great overall, but might be worth assessing if i want to change bikes this year, and the rationale that goes into it. Also should prob buy some new gear if i plan to continue riding long term.
+- Startup stuff: anything worth pursuing in terms of startups in korea, or back in the States? I don't think so, but worth thinking through. 
+
+
 ## 1/6/26
 Debating whether i want to pick up an 88 key midi controller that has a (probably easy fix) broken key for super cheap. can fix it and use it, and if i dont use it, flip it back for resale with the fix. 
 
