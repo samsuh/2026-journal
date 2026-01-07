@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 1/8/26 
+Went to do open mic night again at uplift. it was such a quiet night. I should figure out how to dj to fill the space a playlist plays, and maybe be active in filling that space between sets or something.
+
 ## 1/7/26
 Felt like a lost day, but ordered a new set of djing headphones (sennheiser hd25s), and lost the bid for the broken 88 key keyboard, which im pretty sure is a good thing as i dont have the space to put it, it was just me being greedy. I've been looking into a few courses for music production, but the youtube ones are really good so far, and I should get through those first before buying anything else for now. 
 
