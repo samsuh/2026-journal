@@ -53,17 +53,17 @@ min chord formula: 3+4. 3 half steps then 4 more half steps
 diminished chord formula: 3+3. 3 half steps then 3 more half steps. 
 
 There's different types of chords, each with its own formula (learn this later). 
-- Major C 1-3-5 CEG
-- min Cm 1-b3-5 CEbG
-- diminished Cdim 1-b3-b5 CebGb
-- sus2 Csus2 1-2-5 CDG
-- sus4 Csus4 1-4-5 CFG
-- Major6 C6 1-3-5-6 CEGA
-- min6 Cmin6 1-b3-5-6 CEbGA 
-- Major7 Cmaj7 1-3-5-7 CEGB
-- Dominant7 C7 1-3-5-b7 CEGBb
-- min7 Cm7 1-b3-5-b7 CEbGBb
-- Half diminished Cm7b5 1-b3-b5-b7 CEbGbBb 
+- Major - C 1-3-5 - CEG
+- min - Cm 1-b3-5 - CEbG
+- diminished - Cdim 1-b3-b5 - CebGb
+- sus2 - Csus2 1-2-5 - CDG
+- sus4 - Csus4 1-4-5 - CFG
+- Major6 - C6 1-3-5-6 - CEGA
+- min6 - Cmin6 1-b3-5-6 - CEbGA 
+- Major7 - Cmaj7 1-3-5-7 - CEGB
+- Dominant7 - C7 1-3-5-b7 - CEGBb
+- min7 - Cm7 1-b3-5-b7 - CEbGBb
+- Half diminished - Cm7b5 1-b3-b5-b7 - CEbGbBb 
 
 
 ## 1/7/26
