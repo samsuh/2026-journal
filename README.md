@@ -32,7 +32,7 @@ Chromatic scale:
 - Major 7th
 - Octave
 
-This is a good video, except he keeps saying "this is quite simple, it's quite simple" when explaining things, which sucks if you dont think its simple. 
+This is a good video, except he keeps saying "this is quite simple, it's quite simple" when explaining things, which sucks if you dont think its simple.  https://youtu.be/kvGYl8SQBJ0?si=lLqMnzIs8pi6xPTW
 
 
 ## 1/7/26
