@@ -32,6 +32,8 @@ Chromatic scale:
 - Major 7th
 - Octave
 
+Different notes have different 'functions' in different contexts, so sometimes, the same notes are written in weird ways like double flats. This is called enharmonics to look up later.
+
 This is a good video, except he keeps saying "this is quite simple, it's quite simple" when explaining things, which sucks if you dont think its simple.  https://youtu.be/kvGYl8SQBJ0?si=lLqMnzIs8pi6xPTW
 
 
