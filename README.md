@@ -17,6 +17,23 @@ Scales are built from a starting root note, and either WWhWWWh for major or WhWW
 
 There's two types of "scales", a chromatic scale (using 12 notes) and a diatonic scale (using 7). I think my confusion comes from trying to translate diatonic rules to chromatic. 
 
+Chromatic scale: 
+- Root 
+- minor 2nd
+- Major 2nd
+- minor 3rd
+- Major 3rd 
+- Perfect 4th
+- Tritone
+- Perfect 5th
+- minor 6th
+- Major 6th
+- minor 7th
+- Major 7th
+- Octave
+
+This is a good video, except he keeps saying "this is quite simple, it's quite simple" when explaining things, which sucks if you dont think its simple. 
+
 
 ## 1/7/26
 Felt like a lost day, but ordered a new set of djing headphones (sennheiser hd25s), and lost the bid for the broken 88 key keyboard, which im pretty sure is a good thing as i dont have the space to put it, it was just me being greedy. I've been looking into a few courses for music production, but the youtube ones are really good so far, and I should get through those first before buying anything else for now. 
