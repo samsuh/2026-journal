@@ -19,22 +19,51 @@ There's two types of "scales", a chromatic scale (using 12 notes) and a diatonic
 
 Chromatic scale: 
 - Root 
-- minor 2nd
+- min 2nd
 - Major 2nd
-- minor 3rd
+- min 3rd
 - Major 3rd 
 - Perfect 4th
 - Tritone
 - Perfect 5th
-- minor 6th
+- min 6th
 - Major 6th
-- minor 7th
+- min 7th
 - Major 7th
 - Octave
 
 Different notes have different 'functions' in different contexts, so sometimes, the same notes are written in weird ways like double flats. This is called enharmonics to look up later.
 
 This is a good video, except he keeps saying "this is quite simple, it's quite simple" when explaining things, which sucks if you dont think its simple.  https://youtu.be/kvGYl8SQBJ0?si=lLqMnzIs8pi6xPTW
+
+Chords are built off the notes in the diatonic scale (like a C major scale)[https://youtu.be/3x8k9mxOTDA?si=eRYucGMAZmqev9sY]
+
+For chords in Major scales: 
+1. Major
+2. min
+3. min
+4. Major
+5. Major
+6. min
+7. diminished
+8. back to root Major
+
+Major chord formula: 4+3. 4 half steps then 3 more half steps 
+min chord formula: 3+4. 3 half steps then 4 more half steps 
+diminished chord formula: 3+3. 3 half steps then 3 more half steps. 
+
+There's different types of chords, each with its own formula (learn this later). 
+Major C 1-3-5 CEG
+min Cm 1-b3-5 CEbG
+diminished Cdim 1-b3-b5 CebGb
+sus2 Csus2 1-2-5 CDG
+sus4 Csus4 1-4-5 CFG
+Major6 C6 1-3-5-6 CEGA
+min6 Cmin6 1-b3-5-6 CEbGA 
+Major7 Cmaj7 1-3-5-7 CEGB
+Dominant7 C7 1-3-5-b7 CEGBb
+min7 Cm7 1-b3-5-b7 CEbGBb
+Half diminished Cm7b5 1-b3-b5-b7 CEbGbBb 
 
 
 ## 1/7/26
