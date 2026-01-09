@@ -5,6 +5,21 @@ Came across another music theory video, which i like. the beginning parts are go
 
 music theory basics: https://www.youtube.com/watch?v=QWnTVipZgT4
 
+Summary of this video: 
+- Songs = melody + chords (what about rhythm?)
+- Melodies come from scales
+- Scales are made from formulas for major (WWhWWWh) and minor (WhWWhWW)
+- Diatonic chords come from scales too
+- To make a chord progression, take a certain pattern of chords in the scale (I V vi IV)
+- Find your key
+  - Learn scales properly, and have the right answer all the time
+  - Reading music: One half step up from the #, or same key as second-last flat (if theres only one flat, it's F)
+  - By ear other other methods of learning songs; root is the one that sounds like home/resolution. Often the last note in the song. 
+- Practice by breaking down songs and figuring out what key it's in and what intervals it's made of.
+
+benefits of making the effort to learning music theory: 
+- transposing songs, understanding the music more fundamentally, playing by ear if trained to hear the underlying music (chord flavors), 
+
 ## 1/8/26 
 Went to do open mic night again at uplift. it was such a quiet night. I should figure out how to dj to fill the space a playlist plays, and maybe be active in filling that space between sets or something.
 
