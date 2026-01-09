@@ -3,6 +3,10 @@
 ## 1/10/26
 Party tonight. I need to set some weekly or short term goals instead of floating. 
 
+DJ practice, questions I need to answer: 
+- How do i record a practice set? What should I do with a practice set once recorded? youtube? soundcloud?
+- learn more about the controller controls; how to trigger effects, is it possible to beatjump specific distances while playing? how to change tempo fader mode from 6 to wide?
+
 ## 1/9/26
 Came across another music theory video, which i like. the beginning parts are good review. I'm not sure if the videos im finding are better, or if im just hearing it for the 20th time, and it's starting to make a little more sense. 
 
