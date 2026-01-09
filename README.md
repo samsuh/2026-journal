@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 1/10/26
+Party tonight. I need to set some weekly or short term goals instead of floating. 
+
 ## 1/9/26
 Came across another music theory video, which i like. the beginning parts are good review. I'm not sure if the videos im finding are better, or if im just hearing it for the 20th time, and it's starting to make a little more sense. 
 
