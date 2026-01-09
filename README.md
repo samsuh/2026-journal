@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/9/26
+Came across another music theory video, which i like. the beginning parts are good review. I'm not sure if the videos im finding are better, or if im just hearing it for the 20th time, and it's starting to make a little more sense. 
+
+music theory basics: https://www.youtube.com/watch?v=QWnTVipZgT4
+
 ## 1/8/26 
 Went to do open mic night again at uplift. it was such a quiet night. I should figure out how to dj to fill the space a playlist plays, and maybe be active in filling that space between sets or something.
 
