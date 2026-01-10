@@ -3,3 +3,5 @@
 - Research knowledge base apps like obsidian, siyuan (oss), Added 1/10/26
 - Look into denim repair
 - Decide if i want new speakers
+- look into existing referral systems instead of trying to design your own from scratch. Look for walkthroughs/tutorials if they exist, and if so, implement one for future reference.
+
