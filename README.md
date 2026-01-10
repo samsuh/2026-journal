@@ -3,6 +3,10 @@
 ## 1/11/26
 Live Sound Engineering: Sound went well tonight. no real issues. not drinking made sure i got home at a reasonable time. 
 
+### DJing
+Need to build more of a music library. Look for stuff with good bass that gets people dancing. 
+
+
 ## 1/10/26
 ### Social 
 Party tonight. I need to set some weekly or short term goals instead of floating. 
