@@ -15,6 +15,9 @@ Im going to just spend some time beatmatching by ear.
 ### Coding
 To do: look into existing referral systems instead of trying to design your own from scratch. Look for walkthroughs/tutorials if they exist, and if so, implement one for future reference. 
 
+### Personal development
+Look into knowledge base systems like obsidian, or open source alternatives like siyuan note. 
+
 ## 1/9/26
 Came across another music theory video, which i like. the beginning parts are good review. I'm not sure if the videos im finding are better, or if im just hearing it for the 20th time, and it's starting to make a little more sense. 
 
