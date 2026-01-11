@@ -1,5 +1,22 @@
 # 2026-journal
 
+## 1/12/26
+### Piano
+Breaking down the beginner scale exercise in more detail (left hand going up the C major scale)
+- left hand: start with CEG
+- right hand: go up from C scale using all white notes (major scale) CDE
+- use thumb/index/middle of right hand to play CDE, but reposition the thumb to play F. at the same time as this reposition, advance the left-hand chord up to DFA.
+- complete the right hand movement up to scale up to the root, and will start to come down the scale.
+- when coming down, advance the left hand to EGB until before you get to your right hand thumb.
+- hit right hand thumb on the F while advancing the left hand to FAC, and then below the right hand thumb, hit with right hand middle finger to keep going down.
+- when reaching the bottom of the scale (right thumb), keep going one note further (B note) using index finger. this extra note helps 'reset' to start the scale going up again, while progressing the left hand more to GBD
+
+Variations: 
+1. major going up
+2. major going down (CEG, going down with left hand to BDF, ACE)
+3. minor scale going up
+4. minor scale going down 
+
 ## 1/11/26
 ### Live Sound Engineering 
 Sound went well tonight. no real issues. not drinking made sure i got home at a reasonable time. 
