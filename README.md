@@ -11,6 +11,9 @@ Breaking down the beginner scale exercise in more detail (left hand going up the
 - hit right hand thumb on the F while advancing the left hand to FAC, and then below the right hand thumb, hit with right hand middle finger to keep going down.
 - when reaching the bottom of the scale (right thumb), keep going one note further (B note) using index finger. this extra note helps 'reset' to start the scale going up again, while progressing the left hand more to GBD
 
+### Music - audio mixing 
+https://youtu.be/TEjOdqZFvhY?si=nACpUMR4ykuLgAXi
+
 Variations: 
 1. major going up
 2. major going down (CEG, going down with left hand to BDF, ACE)
