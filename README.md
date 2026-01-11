@@ -1,7 +1,19 @@
 # 2026-journal
 
 ## 1/11/26
-Live Sound Engineering: Sound went well tonight. no real issues. not drinking made sure i got home at a reasonable time. 
+### Live Sound Engineering 
+Sound went well tonight. no real issues. not drinking made sure i got home at a reasonable time. 
+
+### Music learning
+Got a circle of fifths wheel tool. 
+
+inner ring: IV major, root major, V major 
+middle ring: ii, iii, iv
+outer ring: vii diminished
+
+
+### Diary
+- finally found some baskets that fit in the bookcase, since it apparently wasnt designed for it. theyre great, fit perfectly, and have little wheels on the bottom to let them roll out.
 
 ### DJing
 Need to build more of a music library. Look for stuff with good bass that gets people dancing. 
