@@ -13,6 +13,8 @@ The bottleneck is that I don't have enough tracks it feels like to be able to mo
 Potential solutions:
 - Get more tracks to fill in the gaps
 - Learn to mix between high bpm differences. (find quiet spot and swap pretty quick, with an effect on top the blend together)
+  - it's not a hard rule that you have to mix in key and beatmatch. song choice takes priority, and you can do a simpler transition to get to the next track, but the next track should be good.
+  - If youre gonna draw attention to yourself with flashy transitions, it better be a banger you mix into. 
 - Learn the camelot wheel better to jump more than the adjacent T keys. 
 
 ## 1/12/26
