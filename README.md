@@ -1,5 +1,20 @@
 # 2026-journal
 
+## 1/13/26
+### Audio Engineering
+Got through the video, it was really good. Great fundamentals overview. 
+
+I spent some time playing video games, which has taken a lot of time/brain power away from music-related stuff. I don't think i want to video game too much without more of a commitment to the game. 
+
+### DJing 
+I've been pasively listening to new tracks, but I'm not finding new stuff i like. I need to think more in terms of song functions in a set. intro/energy up/peak energy/ chill down like the other video mentioned. 
+The bottleneck is that I don't have enough tracks it feels like to be able to move in ways I want. I run out of songs in-key with similar enough bpm to mix in. 
+
+Potential solutions:
+- Get more tracks to fill in the gaps
+- Learn to mix between high bpm differences. (find quiet spot and swap pretty quick, with an effect on top the blend together)
+- Learn the camelot wheel better to jump more than the adjacent T keys. 
+
 ## 1/12/26
 ### Piano
 Breaking down the beginner scale exercise in more detail (left hand going up the C major scale)
