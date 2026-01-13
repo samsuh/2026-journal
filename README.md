@@ -2,6 +2,9 @@
 
 ## 1/14/26
 
+### Piano 
+Started practicing the beginner C scale exercise, going 135 up the scale left hand, and going up and down the scale right hand. getting consistent fingering is difficult. seems so basic, but it's hard to make my hand do it without reverting to more convenient ways to hit it. Only doing the first exercise still. havent moved on to the second exercise, which is chords and inversions. ill start to do that after i get comfortable with the first exercise. i need to learn the inversions though and write them down to memorize them eventually. 
+
 
 ## 1/13/26
 ### Audio Engineering
