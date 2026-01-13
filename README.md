@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 1/14/26
+
+
 ## 1/13/26
 ### Audio Engineering
 Got through the video, it was really good. Great fundamentals overview. 
