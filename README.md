@@ -16,8 +16,10 @@ Potential solutions:
   - it's not a hard rule that you have to mix in key and beatmatch. song choice takes priority, and you can do a simpler transition to get to the next track, but the next track should be good.
   - If youre gonna draw attention to yourself with flashy transitions, it better be a banger you mix into. 
 - Learn the camelot wheel better to jump more than the adjacent T keys.
-  - C major is 8B, goes circle of fifths up clockwise on the outer "B" ring, so a fifth up/clockwise from C major is G major (9B)
-  - 8A is A minor, the relative minor to 8B (C major). going clockwise on the inner "A" ring is going **down** another fifth, so a fifth down/clockwise from 8A is E minor (9A)
+  - C major is 8B
+  - 8A is A minor, the relative minor to 8B (C major).
+  - goes circle of fifths up clockwise on the outer "B" ring, so a fifth up/clockwise from C major is G major (9B)
+  - going clockwise on the inner "A" ring is going **down** another fifth, so a fifth down/clockwise from 8A is E minor (9A)
 
 ## 1/12/26
 ### Piano
