@@ -7,6 +7,8 @@ Started practicing the beginner C scale exercise, going 135 up the scale left ha
 
 Watching and following along with more tutorials from youtube. I can't tell if it's good or bad that I'm getting annoyed at them. they all spend a ton of time going over the absolute 0th step, and then introduce step 1 then blaze past steps 2 and 3 assuming people know the details, and then slow down for practice exercises on steps 4, 5, etc. there's a gap in knowledge that they maybe mention but then assume you know, then they keep moving forward without letting that info settle. 
 
+Yet another video, but this one said it a little differently. instead of talking about making chords out of the scale, it reframed it as making chords out of the do re mi's in the scale; turning the do into a chord, the re into a chord, the mi into a chord. for some reason this made it click a little bit better. 
+
 ## 1/13/26
 ### Audio Engineering
 Got through the video, it was really good. Great fundamentals overview. 
