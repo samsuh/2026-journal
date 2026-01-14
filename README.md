@@ -9,6 +9,8 @@ Watching and following along with more tutorials from youtube. I can't tell if i
 
 Yet another video, but this one said it a little differently. instead of talking about making chords out of the scale, it reframed it as making chords out of the do re mi's in the scale; turning the do into a chord, the re into a chord, the mi into a chord. for some reason this made it click a little bit better. 
 
+Hearing the different chords in the scale: https://youtu.be/3sXrWz763J8?si=8qwagOW5hmujSkx6
+
 ## 1/13/26
 ### Audio Engineering
 Got through the video, it was really good. Great fundamentals overview. 
