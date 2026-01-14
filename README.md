@@ -11,6 +11,183 @@ Yet another video, but this one said it a little differently. instead of talking
 
 Hearing the different chords in the scale: https://youtu.be/3sXrWz763J8?si=8qwagOW5hmujSkx6
 
+A chatgpt answer on explaining Modes was actually really helpful, as "it' a perspective shift, and the notes arent changing" helped. 
+
+``` 
+Modes feel mysterious until you see that they’re actually a perspective shift, not new notes.
+
+We’ll use C major and do–re–mi to make this concrete.
+
+1. First: “Do” Defines the Center
+
+In fixed-do thinking, “do” is the tonal center — the note that feels like home.
+
+In C major:
+
+Do Re Mi Fa Sol La Ti Do
+C D E F G A B C
+
+What makes this “major” is which note is treated as do.
+
+2. One Scale, Seven Possible “Do”s
+
+The C major scale has these notes:
+
+C D E F G A B
+
+If you keep the same notes, but choose a different note as do, the interval relationships from do change.
+
+That change in interval pattern = a mode.
+
+A mode is what happens when you say
+“This note is do now,”
+without changing the notes themselves.
+
+3. Modes in Do–Re–Mi Terms (C Major Notes Only)
+1️⃣ Ionian (Major Scale)
+
+Do = C
+
+Do Re Mi Fa Sol La Ti Do
+C D E F G A B C
+
+Sound: Bright, stable, “normal” major
+
+2️⃣ Dorian
+
+Do = D
+
+Do Re Me Fa Sol La Te Do
+D E F G A B C D
+
+Notice:
+
+Mi is flattened (F instead of F♯)
+
+Ti is flattened (C instead of C♯)
+
+Sound: Minor but hopeful / jazzy
+
+3️⃣ Phrygian
+
+Do = E
+
+Do Ra Me Fa Sol Le Te Do
+E F G A B C D E
+
+Key feature:
+
+Flat 2 (Ra) right above do
+
+Sound: Dark, tense, Spanish / Middle Eastern
+
+4️⃣ Lydian
+
+Do = F
+
+Do Re Mi Fi Sol La Ti Do
+F G A B C D E F
+
+Key feature:
+
+Raised 4 (Fi)
+
+Sound: Dreamy, floating, magical
+
+5️⃣ Mixolydian
+
+Do = G
+
+Do Re Mi Fa Sol La Te Do
+G A B C D E F G
+
+Key feature:
+
+Flat 7 (Te)
+
+Sound: Bluesy, rock, dominant-feeling
+
+6️⃣ Aeolian (Natural Minor)
+
+Do = A
+
+Do Re Me Fa Sol Le Te Do
+A B C D E F G A
+
+This is the natural minor scale.
+
+Sound: Sad, serious, emotional
+
+7️⃣ Locrian
+
+Do = B
+
+Do Ra Me Fa Se Le Te Do
+B C D E F G A B
+
+Key features:
+
+Flat 2
+
+Diminished 5 (Se)
+
+Sound: Unstable, tense, rarely used as a key
+
+4. Why Modes Sound Different (Core Insight)
+
+Each mode is defined by:
+
+The same notes
+
+A different do
+
+Therefore, a different interval pattern from do
+
+The emotional character comes from:
+
+Which scale degrees are altered relative to major
+
+Especially:
+
+3rd (major vs minor)
+
+2nd
+
+4th
+
+7th
+
+5. Modes Are NOT “Starting on a Different Note” (Common Trap)
+
+This is crucial:
+
+❌ “Dorian is just playing C major starting on D”
+✅ “Dorian is hearing D as do”
+
+If you don’t resolve to the new do, you’re not actually in the mode.
+
+Modes are about gravity, not order.
+
+6. One-Line Mode Summary (Using Do)
+Mode	Do Is	Flavor
+Ionian	C	Major
+Dorian	D	Minor + raised 6
+Phrygian	E	Minor + flat 2
+Lydian	F	Major + raised 4
+Mixolydian	G	Major + flat 7
+Aeolian	A	Minor
+Locrian	B	Diminished
+7. Mental Model to Keep Forever
+
+Think of modes as:
+
+“Major scale notes + a different emotional home”
+
+Or in solfège:
+
+Same syllables, new do, new story
+```
+
 ## 1/13/26
 ### Audio Engineering
 Got through the video, it was really good. Great fundamentals overview. 
