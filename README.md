@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 1/15/26
+### Piano
+More exercises for learning chords and scales intuitively and practicing them is cool: https://youtu.be/sUIZb89WIyY?si=47oaZZkMEaQ6nkrn
+
 ## 1/14/26
 
 ### Piano 
