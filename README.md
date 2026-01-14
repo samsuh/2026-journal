@@ -169,14 +169,16 @@ If you don’t resolve to the new do, you’re not actually in the mode.
 Modes are about gravity, not order.
 
 6. One-Line Mode Summary (Using Do)
-Mode	Do Is	Flavor
-Ionian	C	Major
-Dorian	D	Minor + raised 6
-Phrygian	E	Minor + flat 2
-Lydian	F	Major + raised 4
-Mixolydian	G	Major + flat 7
-Aeolian	A	Minor
-Locrian	B	Diminished
+| Mode       | Do Is | Flavor           |
+| ---------- | ----- | ---------------- |
+| Ionian     | C     | Major            |
+| Dorian     | D     | Minor + raised 6 |
+| Phrygian   | E     | Minor + flat 2   |
+| Lydian     | F     | Major + raised 4 |
+| Mixolydian | G     | Major + flat 7   |
+| Aeolian    | A     | Minor            |
+| Locrian    | B     | Diminished       |
+
 7. Mental Model to Keep Forever
 
 Think of modes as:
@@ -186,6 +188,23 @@ Think of modes as:
 Or in solfège:
 
 Same syllables, new do, new story
+```
+
+It also helped distinguish that the difference between "C major", "C Ionian", and "C Dorian". 
+- C major and C Ionian are the same exact thing, because Ionian = Major scale.
+- Those are different than C Dorian because the "tonal home" is still C, but the notes in C dorian are not the same notes as in C major.
+
+```
+| Mode       | Mode Tonic | Parent Major Scale |
+| ---------- | ---------- | ------------------ |
+| Ionian     | C          | C major            |
+| Dorian     | C          | B♭ major           |
+| Phrygian   | C          | A♭ major           |
+| Lydian     | C          | G major            |
+| Mixolydian | C          | F major            |
+| Aeolian    | C          | E♭ major           |
+| Locrian    | C          | D♭ major           |
+
 ```
 
 ## 1/13/26
