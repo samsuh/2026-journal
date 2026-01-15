@@ -15,6 +15,7 @@ Mess with this exercise to intuitively learn the connections.
 Exercise 2: Play all the notes in the scale around the circle of fifths. 
 Fingering rule for left: left side flat keys, put finger 1 (thumb) on C and F. 
 For right: Start on finger 1, and cross after finger 3. 
+If these get too easy, do 2 octave scales, or group them by every time you change thumb position. 
 
 
 ## 1/14/26
