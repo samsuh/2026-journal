@@ -2,8 +2,19 @@
 
 ## 1/15/26
 ### Piano
-More exercises for learning chords and scales intuitively and practicing them. pretty interesting video. https://youtu.be/sUIZb89WIyY?si=47oaZZkMEaQ6nkrn
+More exercises for learning chords and scales intuitively and practicing them. https://youtu.be/sUIZb89WIyY?si=47oaZZkMEaQ6nkrn
 
+Know what you want to get out of scale practice to approach it properly. 
+1. Recognizing shapes. Be able to visualize the scale notes. Recognize the shape to improvise. Can play the scale out of order (which is basically just a melody).
+
+Exercise 1: play a simple melody, and move that around the circle of fifths counterclockwise. Look for the 4th note in the scale you just played, and that's your next key. C then F.
+In order to preserve the sound of the melody, you have to move notes around (flat the B). Then F to Bb. Lower the 4th again (Eb along with the Bb).
+7th is a half step below the root.
+Mess with this exercise to intuitively learn the connections.
+
+Exercise 2: Play all the notes in the scale around the circle of fifths. 
+Fingering rule for left: left side flat keys, put finger 1 (thumb) on C and F. 
+For right: Start on finger 1, and cross after finger 3. 
 
 
 ## 1/14/26
