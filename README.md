@@ -17,6 +17,9 @@ Fingering rule for left: left side flat keys, put finger 1 (thumb) on C and F.
 For right: Start on finger 1, and cross after finger 3. 
 If these get too easy, do 2 octave scales, or group them by every time you change thumb position. Advanced exercise is "scale mush" where you mush the keyboard but only hit notes in the scale; useful for jazz improvisers.
 
+3. Ear training.
+Exercise 1: Play a simple melody and identify the intervals happening
+Exercise 2: transpose the melody to different scales 
 
 ## 1/14/26
 
