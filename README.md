@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/16/26
+### DJing
+tried recording a set, but got frazzled by messing up a transition. need to go set cues better on vocals.
+
+
 ## 1/15/26
 ### Piano
 More exercises for learning chords and scales intuitively and practicing them. https://youtu.be/sUIZb89WIyY?si=47oaZZkMEaQ6nkrn
