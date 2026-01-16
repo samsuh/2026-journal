@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 1/17/26
+I think i've hit a dopamine depletion state. I think I made good progress in the 2-3 weeks so far, but i need to rest to let things reset before i burn out and lose progress. 
+
 ## 1/16/26
 ### DJing
 tried recording a set, but got frazzled by messing up a transition. need to go set cues better on vocals.
