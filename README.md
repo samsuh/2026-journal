@@ -6,6 +6,24 @@ tried recording a set, but got frazzled by messing up a transition. need to go s
 
 Try to get a few songs mixed together really cleanly. The 'mini sets' concept from before. learn a few tracks thoroughly. 
 
+Phrasing: 
+- Intro on the Outro.
+  - First verse (or build up) of next song goes on the outro of the current song. Lots of time, but might be boring. 
+- Intro to Chorus.
+  - Mix intro of new song onto start of chorus of old song (chorus length should match intro length)
+  - Chorus ends, verse begins.
+  - Maintains energy
+- Build up to build up
+  - Mix a set amount before the buildup of new song with same amount before drop of current song. 
+  - Before drop hits, next song's chorus hits instead of current song's drop.
+- Chorus to build up
+  - mix next song's first verse to current song's chorus to line up curent buildup to next song's chorus.
+  - Boost energy. works best with electronic music
+- Chorus to Chorus mixing
+  - Next song's buildup to current Chorus.
+  - Match next song's chorusStart to current song's chorusEnd.
+  - Peak energy. Chorus after chorus. Tires crowd out. 
+
 ### Coding 
 reviewing how git works https://youtu.be/Ala6PHlYjmw?si=Tw2a5XoYurBOdGmr
 
