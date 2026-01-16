@@ -4,6 +4,8 @@
 ### DJing
 tried recording a set, but got frazzled by messing up a transition. need to go set cues better on vocals.
 
+Try to get a few songs mixed together really cleanly. The 'mini sets' concept from before. learn a few tracks thoroughly. 
+
 ### Coding 
 reviewing how git works https://youtu.be/Ala6PHlYjmw?si=Tw2a5XoYurBOdGmr
 
