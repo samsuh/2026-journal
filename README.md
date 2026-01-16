@@ -4,6 +4,9 @@
 ### DJing
 tried recording a set, but got frazzled by messing up a transition. need to go set cues better on vocals.
 
+### Coding 
+reviewing how git works https://youtu.be/Ala6PHlYjmw?si=Tw2a5XoYurBOdGmr
+
 
 ## 1/15/26
 ### Piano
