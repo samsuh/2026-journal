@@ -3,6 +3,20 @@
 ## 1/17/26
 I think i've hit a dopamine depletion state. I think I made good progress in the 2-3 weeks so far, but i need to rest to let things reset before i burn out and lose progress. 
 
+### Music Theory
+music theory for guitarists. I like how he dumbs it down. "just do this, dont ask questions, but memorize this, i promise itll be worth it later" 
+https://youtu.be/EYZk-WU1CYA?si=iAclPHdVFckuLZf7
+
+A: A C# E
+B: B D# F# 
+C: C E G
+D: D F# A 
+E: E G# B
+F: F A C
+G: G B D
+
+
+
 ## 1/16/26
 ### DJing
 tried recording a set, but got frazzled by messing up a transition. need to go set cues better on vocals.
