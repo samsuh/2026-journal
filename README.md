@@ -23,6 +23,7 @@ G: G B D
 
 I like that he reinforces the fact that some things take time to soak in and get committed to memory. Trying to get through it faster might be hindering my ability to absorb it. 
 
+I'm thinking i need even more structure to combat the burnout. Something regular and repeatable that I can do almost on autopilot. I got the flash cards from the video, which is good. It helps memorize triads and a bit about scales. Maybe pair this with practicing the scales on an instrument would help. Like do flashcards for 5-10 mins, then practice the chords and scales on instrument for 15 mins. 
 
 
 ## 1/16/26
