@@ -15,6 +15,8 @@ E: E G# B
 F: F A C
 G: G B D
 
+I like that he reinforces the fact that some things take time to soak in and get committed to memory. Trying to get through it faster might be hindering my ability to absorb it. 
+
 
 
 ## 1/16/26
