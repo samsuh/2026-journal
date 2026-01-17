@@ -1,5 +1,14 @@
 # 2026-journal
 
+## 1/18/26, Sunday
+
+I'm thinking i need even more structure to combat the burnout. Something regular and repeatable that I can do almost on autopilot. I got the flash cards from the video, which is good. It helps memorize triads and a bit about scales. Maybe pair this with practicing the scales on an instrument would help. Like do flashcards for 5-10 mins, then practice the chords and scales on instrument for 15 mins. 
+
+### Note to self
+Adding day of the week so I keep track of passing time better. 
+
+
+
 ## 1/17/26
 I think i've hit a dopamine depletion state. I think I made good progress in the 2-3 weeks so far, but i need to rest to let things reset before i burn out and lose progress. 
 
@@ -22,8 +31,6 @@ F: F A C
 G: G B D
 
 I like that he reinforces the fact that some things take time to soak in and get committed to memory. Trying to get through it faster might be hindering my ability to absorb it. 
-
-I'm thinking i need even more structure to combat the burnout. Something regular and repeatable that I can do almost on autopilot. I got the flash cards from the video, which is good. It helps memorize triads and a bit about scales. Maybe pair this with practicing the scales on an instrument would help. Like do flashcards for 5-10 mins, then practice the chords and scales on instrument for 15 mins. 
 
 
 ## 1/16/26
