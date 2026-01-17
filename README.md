@@ -8,11 +8,17 @@ music theory for guitarists. I like how he dumbs it down. "just do this, dont as
 https://youtu.be/EYZk-WU1CYA?si=iAclPHdVFckuLZf7
 
 A: A C# E
+
 B: B D# F# 
+
 C: C E G
+
 D: D F# A 
+
 E: E G# B
+
 F: F A C
+
 G: G B D
 
 I like that he reinforces the fact that some things take time to soak in and get committed to memory. Trying to get through it faster might be hindering my ability to absorb it. 
