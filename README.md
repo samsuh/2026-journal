@@ -7,6 +7,9 @@ I'm thinking i need even more structure to combat the burnout. Something regular
 ### Note to self
 Adding day of the week so I keep track of passing time better. 
 
+### Music Theory 
+I'm finding it easier to understand the music theory from the guitar teachers. maybe my brain works better in guitar scales instead of piano. 
+
 
 
 ## 1/17/26
