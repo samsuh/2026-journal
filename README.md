@@ -11,6 +11,8 @@ Adding day of the week so I keep track of passing time better.
 I'm finding it easier to understand the music theory from the guitar teachers. maybe my brain works better in guitar scales instead of piano. 
 This video is pretty straightforward without too much fluff. https://youtu.be/MrMTPG-Nzac?si=Kgt2hoxhDjeSyirN
 
+The flashcards are actually pretty good. It's really solidifying that I dont know things thoroughly, even if I get it right sometimes. I'm guessing in the neighborhood, but I dont have it yet. 
+
 
 
 ## 1/17/26
