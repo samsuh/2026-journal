@@ -9,6 +9,7 @@ Adding day of the week so I keep track of passing time better.
 
 ### Music Theory 
 I'm finding it easier to understand the music theory from the guitar teachers. maybe my brain works better in guitar scales instead of piano. 
+This video is pretty straightforward without too much fluff. https://youtu.be/MrMTPG-Nzac?si=Kgt2hoxhDjeSyirN
 
 
 
