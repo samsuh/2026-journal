@@ -13,7 +13,21 @@ This video is pretty straightforward without too much fluff. https://youtu.be/Mr
 
 The flashcards are actually pretty good. It's really solidifying that I dont know things thoroughly, even if I get it right sometimes. I'm guessing in the neighborhood, but I dont have it yet. 
 
+#### Intervals list
+- 1 note/ minor second/ half step/ semitone
+- 2 notes/ Major second/ whole step/ whole tone
+- 3 notes/ minor third/ 3 steps
+- 4 notes/ Major third
+- 5 notes/ perfect 4th
+- 6 notes/ augmented 4th/ diminished 5th
+- 7 notes/ fifth
+- 8 notes/ minor sixth
+- 9 notes/ Major sixth
+- 10 notes/ minor seventh
+- 11 notes/ Major seventh
+- 12 notes/ octave
 
+The notes are organized into seven note scales; it's easier later for the intervals to follow the seven note scale instead of counting out numbers of notes. 
 
 ## 1/17/26
 I think i've hit a dopamine depletion state. I think I made good progress in the 2-3 weeks so far, but i need to rest to let things reset before i burn out and lose progress. 
