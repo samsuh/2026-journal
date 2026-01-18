@@ -29,6 +29,16 @@ The flashcards are actually pretty good. It's really solidifying that I dont kno
 
 The notes are organized into seven note scales; it's easier later for the intervals to follow the seven note scale instead of counting out numbers of notes. 
 
+Chords come from Triads. There are four types of triads; major, minor, augmented, diminished. 
+
+#### Triads 
+- Major triad: Root + Major third (4 notes away) + fifth (7 notes away)
+- Minor triad: Root + minor third (3 notes) + fifth (7 notes)
+- Augmented triad: Root + Major third (4 notes) + augmented fifth (minor sixth/ 8 notes)
+- Diminished triad: Root + minor third (3 notes) + diminished fifth (6 notes)
+
+Sus chords remove third, and add either Major second (sus2)/ Perfect fourth (sus4)
+
 ## 1/17/26
 I think i've hit a dopamine depletion state. I think I made good progress in the 2-3 weeks so far, but i need to rest to let things reset before i burn out and lose progress. 
 
