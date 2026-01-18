@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/19/26
+### Coding 
+https://www.systemdesignhandbook.com/guides/design-bitly/
+url shortener would be a good base to build a regerral system
+
 ## 1/18/26, Sunday
 
 I'm thinking i need even more structure to combat the burnout. Something regular and repeatable that I can do almost on autopilot. I got the flash cards from the video, which is good. It helps memorize triads and a bit about scales. Maybe pair this with practicing the scales on an instrument would help. Like do flashcards for 5-10 mins, then practice the chords and scales on instrument for 15 mins. 
