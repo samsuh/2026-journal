@@ -5,6 +5,9 @@
 https://www.systemdesignhandbook.com/guides/design-bitly/
 url shortener would be a good base to build a regerral system
 
+### Music theory
+memorizing those silly triads is a lot harder than I thought it would be. it's confusing trying to memorize arbitrary numbers, since the ones i dont know blend together. I need to break it down to learn the rule behind it, so i can calculate it quickly, i think. thats better than trying to memorize eventually 12 sets of 3 random letters with no order. 
+
 ## 1/18/26, Sunday
 
 I'm thinking i need even more structure to combat the burnout. Something regular and repeatable that I can do almost on autopilot. I got the flash cards from the video, which is good. It helps memorize triads and a bit about scales. Maybe pair this with practicing the scales on an instrument would help. Like do flashcards for 5-10 mins, then practice the chords and scales on instrument for 15 mins. 
