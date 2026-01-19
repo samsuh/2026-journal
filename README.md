@@ -8,7 +8,9 @@ url shortener would be a good base to build a regerral system
 ### Music theory
 memorizing those silly triads is a lot harder than I thought it would be. it's confusing trying to memorize arbitrary numbers, since the ones i dont know blend together. I need to break it down to learn the rule behind it, so i can calculate it quickly, i think. thats better than trying to memorize eventually 12 sets of 3 random letters with no order. 
 
-- Major triads are always 4 notes to the major third, and 3 notes to the fifth. 
+- Major triads are always 4 notes to the major third, and 3 notes to the fifth.
+
+Im still memorizing them, and theyre starting to stick, but a few are still tripping me up. it helped to draw out the spacing, and start to work forwards and backwards. The spacing is helping estimate which notes they are, but sometimes im still off by a note or letter. E-G#-B (4) keeps tripping me up. 
 
 ## 1/18/26, Sunday
 
