@@ -10,7 +10,11 @@ memorizing those silly triads is a lot harder than I thought it would be. it's c
 
 - Major triads are always 4 notes to the major third, and 3 notes to the fifth.
 
-Im still memorizing them, and theyre starting to stick, but a few are still tripping me up. it helped to draw out the spacing, and start to work forwards and backwards. The spacing is helping estimate which notes they are, but sometimes im still off by a note or letter. E-G#-B (4) keeps tripping me up. 
+Im still memorizing them, and theyre starting to stick, but a few are still tripping me up. it helped to draw out the spacing, and start to work forwards and backwards. The spacing is helping estimate which notes they are, but sometimes im still off by a note or letter. 
+
+E-G#-B (4) keeps tripping me up. 
+
+D F# A too. im often off by one letter. 
 
 ## 1/18/26, Sunday
 
