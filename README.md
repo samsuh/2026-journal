@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 1/20/26
+Parents visiting today, mainly to go visit the hospital. We have a way of getting under each other's skins, and triggering each other. I have to cut them some slack; theyre not trying to piss me off, it's kind of just how they are. 
+
+### Music theory
+The flash cards are great. It seems too easy at first, but learning a simple thing thoroughly takes a lot more than being clever or smart. It takes actual mental movement. There's a lesson in there. It's not about familiarity or exposure; it's about being able to absorb it and then be able to use it on my own. Even if it seems too simple. Mastering a too-simple thing is actually harder than it seems. 
+
 ## 1/19/26
 ### Coding 
 https://www.systemdesignhandbook.com/guides/design-bitly/
