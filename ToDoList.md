@@ -1,6 +1,6 @@
 # To Do List 2026
 
-- look into existing referral systems instead of trying to design your own from scratch. Look for walkthroughs/tutorials if they exist, and if so, implement one for future reference.
+~~- look into existing referral systems instead of trying to design your own from scratch. Look for walkthroughs/tutorials if they exist, and if so, implement one for future reference.~~
 
 
 
