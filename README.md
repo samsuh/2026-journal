@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 1/22/26
+### Music theory: 
+Im getting confident with the bite sized chunk of info i had to memorize. I'm really liking this method of learning; "i promise it's important, memorize this before we do anything else. get it down really cleanly. itll be super important next". Accessible and digestible and clearly, and defined.
+
 ## 1/21/26
 Parents leaving today. 
 Got credit card reissued after it snapped in half. it'll take a week. i might as well look into getting a new card. 
