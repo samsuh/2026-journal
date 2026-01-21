@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 1/21/26
+Parents leaving today. 
+Got credit card reissued after it snapped in half. it'll take a week. i might as well look into getting a new card. 
+
 ## 1/20/26
 Parents visiting today, mainly to go visit the hospital. We have a way of getting under each other's skins, and triggering each other. I have to cut them some slack; theyre not trying to piss me off, it's kind of just how they are. 
 
