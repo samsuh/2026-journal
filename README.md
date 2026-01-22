@@ -5,6 +5,9 @@ Signed up for a credit card after my prior one snapped in half. Looked into it a
 
 I need to not forget to switch over all the auto-pay stuff to the new card. 
 
+### Music Theory
+So i feel a little betrayed by that tutorial that made things simple by showing the patterns of the sharps side of the circle of fifths. It all breaks down into garbage when you get to the flats side. The order and clarity he started with breaks down into chaos on the flats with no sense of pattern anymore, with a weak "well they add up to 7 if you think about it" in the place of structure and predictability. I've lost trust in this teacher. Might be good to try to memorize the rest of this and then fuck off. 
+
 ## 1/22/26
 ### Music theory: 
 Im getting confident with the bite sized chunk of info i had to memorize. I'm really liking this method of learning; "i promise it's important, memorize this before we do anything else. get it down really cleanly. itll be super important next". Accessible and digestible and clearly, and defined.
