@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/23/26
+Signed up for a credit card after my prior one snapped in half. Looked into it a little and got a daily spend one that gives basically 10% back on most of the major stuff i spend regularly. Might be worth getting a different one for single large purchases eventually. 
+
+I need to not forget to switch over all the auto-pay stuff to the new card. 
+
 ## 1/22/26
 ### Music theory: 
 Im getting confident with the bite sized chunk of info i had to memorize. I'm really liking this method of learning; "i promise it's important, memorize this before we do anything else. get it down really cleanly. itll be super important next". Accessible and digestible and clearly, and defined.
