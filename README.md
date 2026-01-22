@@ -4,6 +4,8 @@
 ### Music theory: 
 Im getting confident with the bite sized chunk of info i had to memorize. I'm really liking this method of learning; "i promise it's important, memorize this before we do anything else. get it down really cleanly. itll be super important next". Accessible and digestible and clearly, and defined.
 
+Apparently this way of thinking/learning doesn't work for people. Maybe I really do think differently than others. This makes it approachable, and contains the learning to a core amount that i can run thoroughly forwards/backwards/interconnectedly. Maybe this is the key for my learning. learn small chunks of fundamentals, and let my brain self-build the interconnections through repetition.
+
 ## 1/21/26
 Parents leaving today. 
 Got credit card reissued after it snapped in half. it'll take a week. i might as well look into getting a new card. 
