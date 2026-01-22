@@ -6,7 +6,7 @@ Signed up for a credit card after my prior one snapped in half. Looked into it a
 I need to not forget to switch over all the auto-pay stuff to the new card. 
 
 ### Music Theory
-So i feel a little betrayed by that tutorial that made things simple by showing the patterns of the sharps side of the circle of fifths. It all breaks down into garbage when you get to the flats side. The order and clarity he started with breaks down into chaos on the flats with no sense of pattern anymore, with a weak "well they add up to 7 if you think about it" in the place of structure and predictability. I've lost trust in this teacher. Might be good to try to memorize the rest of this and then fuck off. 
+So i feel a little betrayed by that tutorial that made things simple by showing the patterns of the sharps side of the circle of fifths. It all breaks down into garbage when you get to the flats side. The order and clarity he started with breaks down into chaos on the flats with no sense of pattern anymore, with a weak "well they add up to 7 if you think about it" in the place of structure and predictability. I've lost trust in this teacher. Might be good to try to memorize the rest of this and then fuck off. Putting these cards in some order introduces a lot of chaos back into the mix, tainting the clarity. I've put them in circle of fifths order for now, with the random overlapping 'same pitch' cards adjacent (like Cb is B; Gb is F#; Db is C#).
 
 ## 1/22/26
 ### Music theory: 
