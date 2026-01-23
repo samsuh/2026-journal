@@ -11,6 +11,10 @@ Watched a bit more of the dj course. lots of it makes sense, but I'm not interna
 ### Music Theory
 So i feel a little betrayed by that tutorial that made things simple by showing the patterns of the sharps side of the circle of fifths. It all breaks down into garbage when you get to the flats side. The order and clarity he started with breaks down into chaos on the flats with no sense of pattern anymore, with a weak "well they add up to 7 if you think about it" in the place of structure and predictability. I've lost trust in this teacher. Might be good to try to memorize the rest of this and then fuck off. Putting these cards in some order introduces a lot of chaos back into the mix, tainting the clarity. I've put them in circle of fifths order for now, with the random overlapping 'same pitch' cards adjacent (like Cb is B; Gb is F#; Db is C#).
 
+got through the whole circle of cards successfully. more should drill it in faster and cleaner removing the pausing/delay without having to think it through. 
+
+Next steps from the video are to learn how the inversions work; it's pretty simple. Root/3rd/5th is root position. moving the third to the bass note is first inversion, fifth being lowest note is 2nd inversion.
+
 ## 1/22/26
 ### Music theory: 
 Im getting confident with the bite sized chunk of info i had to memorize. I'm really liking this method of learning; "i promise it's important, memorize this before we do anything else. get it down really cleanly. itll be super important next". Accessible and digestible and clearly, and defined.
