@@ -1,12 +1,13 @@
 # 2026-journal
 
-## 1/24/26
+## 1/24/26 Saturday
 Snowing today. Looked nice. 
 
 Started playing elite dangerous again a bit. It doesn't have the same draw as before when I was really into it. But testing out the new stuff they added is fine. 
 
 I want to dedicate more regular time to studying, but I need to find a balance between rigid structure and having some structure at all. 
 
+I also feel myself losing more time, so i'm going to add the day of the week into this log. 
 
 
 ## 1/23/26
