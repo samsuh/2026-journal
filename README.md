@@ -1,5 +1,16 @@
 # 2026-journal
 
+## 1/25/26 
+### Music Theory 
+I was thinking about how learning music theory fundamentals would eventually convert from knowledge into music. At some point when I feel I have a grasp of the basics, I need to turn that into sound. Once i know the theoretical letters and connections there, learn it on an instrument, and make sounds. "Your hands must learn what your brain knows." 
+
+If possible, also good to work on ear-training at the same time to be able to hear the differences. 
+- Scale-degree recognition - "Where am i relative to root/home". Sing the scale, then jump randomly while naming the note. "Feel the difference in flat3 between C ionian and D dorian. 
+- Interval hearing - "How far did i move?" regardless of key.
+- Chord quality recognition - Major vs minor, dominant vs diminished, consonant vs tense. (play C major, then C minor, then C diminished, sing the 3rd. Try to identify chords qualities. 
+- Tension vs release - "Does this want to move or rest?" understand how progressions/phrasing works, and how music breathes. Listen for cadence, (G -> C; Dm -> G -> C), notice the difference. Feel release of Csus4 -> C. Feel the tension between ii -> V without resolving.
+The goal of ear training is not about naming the sounds, but in predicting what *should* happen next. 
+
 ## 1/24/26 Saturday
 Snowing today. Looked nice. 
 
