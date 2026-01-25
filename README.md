@@ -27,6 +27,8 @@ Start on the G scale, but use the Major 1/minor 2/minor 3/Major 4/Major 5/minor 
 - F# dimished
 - back to G Major
 
+He uses the second inversion chord using the high 3 strings (thinnest 3); Root on high E string 3rd fret (G), fifth on 3rd fret of the B string (second thinnest), and third on the 4th fret of the G string (third thinnest). 
+
 ## 1/24/26 Saturday
 Snowing today. Looked nice. 
 
