@@ -3,6 +3,9 @@
 ## 1/26/26
 Personal realization is that i am too quick to offer advice, often unsolicited. I dont know why i do it. Sometimes it's helpful and well received, and other times it's not. 
 
+### Music theory
+Test music theory on guitar with this video's intro proficiency test 
+https://youtu.be/Gg_JaooJdwE?si=B2OsCJKn8mi6NcDk
 
 ## 1/25/26 
 ### Music Theory 
