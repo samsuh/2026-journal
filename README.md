@@ -16,6 +16,17 @@ https://youtu.be/MvUgoNBTNjA?si=OCIWGauC7PuBbFFy
 
 The goal here is to approach playing chords in the scale, but to make it a little more musical by embellishing them; approaching the notes differently, arpeggiating them, sliding into them. Then using the adjacent chord to borrow notes from to give it some more movement. 
 
+His example using the G major scale emphasizes the chords in the scale. 
+Start on the G scale, but use the Major 1/minor 2/minor 3/Major 4/Major 5/minor 6/diminished 7 chord. 
+- G Major
+- A minor
+- B minor
+- C Major
+- D Major
+- E minor
+- F# dimished
+- back to G Major
+
 ## 1/24/26 Saturday
 Snowing today. Looked nice. 
 
