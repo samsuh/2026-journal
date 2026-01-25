@@ -9,7 +9,12 @@ If possible, also good to work on ear-training at the same time to be able to he
 - Interval hearing - "How far did i move?" regardless of key.
 - Chord quality recognition - Major vs minor, dominant vs diminished, consonant vs tense. (play C major, then C minor, then C diminished, sing the 3rd. Try to identify chords qualities. 
 - Tension vs release - "Does this want to move or rest?" understand how progressions/phrasing works, and how music breathes. Listen for cadence, (G -> C; Dm -> G -> C), notice the difference. Feel release of Csus4 -> C. Feel the tension between ii -> V without resolving.
-The goal of ear training is not about naming the sounds, but in predicting what *should* happen next. 
+The goal of ear training is not about naming the sounds, but in predicting what *should* happen next.
+
+This video showing how to embellish triads seems to hint at the next step after having a basic concept of scales. 
+https://youtu.be/MvUgoNBTNjA?si=OCIWGauC7PuBbFFy
+
+The goal here is to approach playing chords in the scale, but to make it a little more musical by embellishing them; approaching the notes differently, arpeggiating them, sliding into them. Then using the adjacent chord to borrow notes from to give it some more movement. 
 
 ## 1/24/26 Saturday
 Snowing today. Looked nice. 
