@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 1/26/26
+Personal realization is that i am too quick to offer advice, often unsolicited. I dont know why i do it. Sometimes it's helpful and well received, and other times it's not. 
+
+
 ## 1/25/26 
 ### Music Theory 
 I was thinking about how learning music theory fundamentals would eventually convert from knowledge into music. At some point when I feel I have a grasp of the basics, I need to turn that into sound. Once i know the theoretical letters and connections there, learn it on an instrument, and make sounds. "Your hands must learn what your brain knows." 
