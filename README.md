@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 1/27/26
+For flash cards I have the letters down, but still mess up on the number of flats and sharps. I think it's easier to memorize the wheel. Noticed that it's BEADGCF counterclockwise twice, ones for the flats, and again for the sharps. 
+C-F-Bb-Eb-Ab-Db-Gb-Cb(B), where the Bb-Eb pattern starts with Bb having 2 flats, Eb having 3 flats, etc. 
+then it goes to sharps starting at B having 5 sharps going down the number of sharps.  
+BEADGC, where B has 5 sharps, E has 4 sharps, A has 3 sharps, D has 2 sharps, etc. 
+
 ## 1/26/26
 Personal realization is that i am too quick to offer advice, often unsolicited. I dont know why i do it. Sometimes it's helpful and well received, and other times it's not. 
 
