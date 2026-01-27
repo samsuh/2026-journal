@@ -6,6 +6,9 @@ C-F-Bb-Eb-Ab-Db-Gb-Cb(B), where the Bb-Eb pattern starts with Bb having 2 flats,
 then it goes to sharps starting at B having 5 sharps going down the number of sharps.  
 BEADGC, where B has 5 sharps, E has 4 sharps, A has 3 sharps, D has 2 sharps, etc. 
 
+The physics of dissonance are an interesting base to understand music theory via physics. 
+https://youtu.be/tCsl6ZcY9ag?si=3Nu56gABDd27oRLz
+
 ## 1/26/26
 Personal realization is that i am too quick to offer advice, often unsolicited. I dont know why i do it. Sometimes it's helpful and well received, and other times it's not. 
 
