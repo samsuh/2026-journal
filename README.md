@@ -1,5 +1,10 @@
 # 2026-journal
 
+
+## 1/28/26 Wednesday
+Where did my day go? I slept super late, woke up late, then went to gym. now it's already time to goto uplift to do open mic sound. 
+
+
 ## 1/27/26
 For flash cards I have the letters down, but still mess up on the number of flats and sharps. I think it's easier to memorize the wheel. Noticed that it's BEADGCF counterclockwise twice, ones for the flats, and again for the sharps. 
 C-F-Bb-Eb-Ab-Db-Gb-Cb(B), where the Bb-Eb pattern starts with Bb having 2 flats, Eb having 3 flats, etc. 
