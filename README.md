@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 1/29/26 
+I think I'm going to buy an arturia keylab mk2 61 key version. this will get me analog lab and other stuff. this should give me a lot more ways to explore making sounds. 
+After messing with some synth sounds, I should get into more on the DAW side, push the limits of ableton live lite, then use the 1 month trial of the full suite version once I know all the lite stuff, to see if I want to upgrade. 
 
 ## 1/28/26 Wednesday
 Where did my day go? I slept super late, woke up late, then went to gym. now it's already time to goto uplift to do open mic sound. 
