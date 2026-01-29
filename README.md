@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 1/30/26
+Bought the arturia keylab mkii 61. looks and feels good. havent tested it yet, because I'm setting up the software transfer on it still. Will give it a good overview tomorrow. 
+
+I think the DAWs are pulling at me for now, which is timely. I'll move forward with ableton lite, which i got for free with hardware, and will see if i hit its limits anytime soon. After that i have the free trial period of the full ableton suite, then would be the time to decide to buy it or not. 
+
 ## 1/29/26 
 I think I'm going to buy an arturia keylab mk2 61 key version. this will get me analog lab and other stuff. this should give me a lot more ways to explore making sounds. 
 After messing with some synth sounds, I should get into more on the DAW side, push the limits of ableton live lite, then use the 1 month trial of the full suite version once I know all the lite stuff, to see if I want to upgrade. 
