@@ -4,6 +4,14 @@
 I think I'm going to buy an arturia keylab mk2 61 key version. this will get me analog lab and other stuff. this should give me a lot more ways to explore making sounds. 
 After messing with some synth sounds, I should get into more on the DAW side, push the limits of ableton live lite, then use the 1 month trial of the full suite version once I know all the lite stuff, to see if I want to upgrade. 
 
+### Music theory
+learning the wheel of fifths is starting to stagnate. I think i went too long with the pure-memorization approach without getting to the "apply it" stage. It is important fundamentals though and I can see why it's fundamental. It's unlocking a lot of the follow up concepts, theoretically, but I still cant make anything musical yet with it. 
+
+As I understand it: 
+- Functionally, everything comes down to chords, which are a collection of intervals together, which create a musical context for the rest of the music to exist within.
+- These chords, while creating context, can also move the context around, a chord progression. This chord progression typically comes from "chords in the key", which is a specific subset of "chord intervals", which inherently have either a Major/minor/(diminished) flavor because that's how the scale makes it result in being. It's not a choice whether to play Major/minor chords of different types in that key, the majorness or minorness is determined by the key, and which chord-interval it is in that key. I IV V always Major, ii iii vi always minor, 7 always diminished.
+- I havent gotten to this yet, but I think the further deviations of the chords in the progression contribute more to melody than the background flavor of the context; maybe it's just spicier backgrounds. Maybe this is also where "modes" come in? Modes maybe more about melody over a chord progression though. Still left to learn. 
+
 ## 1/28/26 Wednesday
 Where did my day go? I slept super late, woke up late, then went to gym. now it's already time to goto uplift to do open mic sound. 
 
