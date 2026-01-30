@@ -1,5 +1,10 @@
 # 2026-journal
 
+
+## 1/31/26
+Beginner python event tonight. 
+I'm feeling a little disconnected from my "communities" lately. They all feel empty. I think im just lacking substance lately. I need a bit more purpose or meaning in daily life. 
+
 ## 1/30/26
 Bought the arturia keylab mkii 61. looks and feels good. havent tested it yet, because I'm setting up the software transfer on it still. Will give it a good overview tomorrow. 
 
