@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 2/1/26
+Meetup last night was fine. Nothing too revolutionary. Met some new people, saw some people. Not super substantive, but prob best not to push it. It's fine. 
+
+Arturia software finally came through, so I'll mess with that today. 
 
 ## 1/31/26
 Beginner python event tonight. 
