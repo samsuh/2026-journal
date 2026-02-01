@@ -1,9 +1,15 @@
 # 2026-journal
 
+
+## 2/2/26
+Snowing overnight. Went grocery shopping so i plan on staying in all day tmrw. except maybe to go get coffee. maybe a good time to re-evaluate my goals for the year. 
+
 ## 2/1/26
 Meetup last night was fine. Nothing too revolutionary. Met some new people, saw some people. Not super substantive, but prob best not to push it. It's fine. 
 
 Arturia software finally came through, so I'll mess with that today. 
+
+DJ'ed for myself for a few hours and had a good time. Overall went well, hit a few clashing songs that didnt work, but only like 2-3 during 2 hours. 
 
 ## 1/31/26
 Beginner python event tonight. 
