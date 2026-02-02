@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 2/3/26
+Maybe one way to counter time blindness is to set some weekly goals, just to give the weekly block of time some bigger purpose. 
+
+Alternatively, maybe some regular checkpoints to spend time summarizing effort spent, and re-assess targets would be good. Maybe the weekly goals would be a good opportunity for that. Would also help establish some sort of time cadence/rhythm. 
 
 ## 2/2/26
 Snowing overnight. Went grocery shopping so i plan on staying in all day tmrw. except maybe to go get coffee. maybe a good time to re-evaluate my goals for the year. 
