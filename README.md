@@ -4,6 +4,9 @@
 ## 2/2/26
 Snowing overnight. Went grocery shopping so i plan on staying in all day tmrw. except maybe to go get coffee. maybe a good time to re-evaluate my goals for the year. 
 
+### Music production
+Theres lots of chat about mastering. i dont really even know what that is yet. Looking into it today. 
+
 ### DJing 
 did a lot of mixing at night, and making progress in the course. i like taking this course slowly and letting myself grow into the concepts, then sit with them and apply them slowly, just knowing they exist, and then working them in where appropriate. I'm definitely not tryharding the concepts or techniques, so it's nice that I have the space to work them in when i remember to. 
 
