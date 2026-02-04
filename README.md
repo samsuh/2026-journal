@@ -1,7 +1,16 @@
 # 2026-journal
 
 ## 2/5/26
+
+### Djing
+
 goal for the day is to get dj venue ready. 
+
+Played for a couple hours. I don't really use effects well yet. I am looking for a noise filter with an echo i think, but i need to work on getting that effect. I also want a "filter sweep" type sound, but idk where that is yet. 
+
+tempo fader range i found; shift+keylock cycles the tempo range. 
+
+i need to manage my song selection better, and not go in on the middle of a section because it sounds messy when that happens. if so, need to act faster. ideally find out how stems works and roll out the vocal stem. 
 
 ## 2/4/26
 Went to google startup campus for the web3 / ai talk. nothing special really. just some basic into that google cloud has a web3 product line, and a few notes about current capabilities of googles product lines. there also seemed to be a focus on gaming as well, but that was probably just for the event since the last speaker was a game publishing platform. 
