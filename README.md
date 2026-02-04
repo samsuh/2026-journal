@@ -1,8 +1,12 @@
 # 2026-journal
 
+## 2/5/26
+goal for the day is to get dj venue ready. 
 
 ## 2/4/26
 Went to google startup campus for the web3 / ai talk. nothing special really. just some basic into that google cloud has a web3 product line, and a few notes about current capabilities of googles product lines. there also seemed to be a focus on gaming as well, but that was probably just for the event since the last speaker was a game publishing platform. 
+
+Rekindled my interest in doing some coding to get some projects initiated. 
 
 ## 2/3/26
 Maybe one way to counter time blindness is to set some weekly goals, just to give the weekly block of time some bigger purpose. 
