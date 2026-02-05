@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 2/6/26
+Markets are still brutal. Relentless
+
 ## 2/5/26
 
 ### Djing
