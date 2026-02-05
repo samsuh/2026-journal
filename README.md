@@ -12,6 +12,9 @@ tempo fader range i found; shift+keylock cycles the tempo range.
 
 i need to manage my song selection better, and not go in on the middle of a section because it sounds messy when that happens. if so, need to act faster. ideally find out how stems works and roll out the vocal stem. 
 
+### Crypto 
+Man what a brutal time in the markets. Just endless bleeding out of every asset. "It dropped so much it cant have much left to lose before bouncing back soon" but no, just more and more falling. Brutal.
+
 ## 2/4/26
 Went to google startup campus for the web3 / ai talk. nothing special really. just some basic into that google cloud has a web3 product line, and a few notes about current capabilities of googles product lines. there also seemed to be a focus on gaming as well, but that was probably just for the event since the last speaker was a game publishing platform. 
 
