@@ -3,6 +3,8 @@
 ## 2/6/26
 Markets are still brutal. Relentless
 
+Deonic adaptation is a helluva drug. Things feel normal again despite the carnage. Back to normal and just living a regular life. Assets are just a number, and as long as there's enough for daily life, daily life isnt impacted. 
+
 ## 2/5/26
 
 ### Djing
