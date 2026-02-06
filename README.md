@@ -6,6 +6,9 @@
 
 also need to study early gameboy music to see how the interplay of melodies 'implies' other things in music. "counterpoint"; interactions of individual melodies implying harmony. 
 
+### music prod
+composition/arrangement for actually making music?
+
 ## 2/6/26
 Markets are still brutal. Relentless
 
