@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 2/7/26
+### Music theory 
+"voice leading" as a concept. have to look it up, and specifically figure out how this differs than going around triads in the circle of fifths. 
+
+also need to study early gameboy music to see how the interplay of melodies 'implies' other things in music. "counterpoint"; interactions of individual melodies implying harmony. 
+
 ## 2/6/26
 Markets are still brutal. Relentless
 
