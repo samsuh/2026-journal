@@ -12,6 +12,10 @@ composition/arrangement for actually making music?
 ### Trading
 Markets pretty stable now, but what the hell was that 
 
+### DJing/ live performance 
+https://www.instagram.com/reels/DNgcjqsPvbP/
+This video shows one guy's setup using controllers, ableton, and other stuff like sequencers and whatnot. Plays a main "song" and uses the other linked stuff to layer in more stuff on top. I dont see why he needs a dj controller in this setup though. 
+
 ### Misc
 I keep losing time. It's slipping away. I don't know where it's going, but when I'm distracted by mundane concerns, it keeps flying by. I heard all we have is time and attention, but time is out of our control. 
 
