@@ -19,6 +19,8 @@ This video shows one guy's setup using controllers, ableton, and other stuff lik
 ### Misc
 I keep losing time. It's slipping away. I don't know where it's going, but when I'm distracted by mundane concerns, it keeps flying by. I heard all we have is time and attention, but time is out of our control. 
 
+I think one of the driving reasons for getting into music was a tenuous connection between learning music, and basically learning the different ways signals act. Like making music is "Applied Signal Processing". I feel that signals are fundamental and broadly applicable to understanding deeper things like life and how the world works; like fundamental quantum physics and string theory and stuff. 
+
 ## 2/6/26
 Markets are still brutal. Relentless
 
