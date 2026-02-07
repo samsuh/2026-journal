@@ -9,6 +9,9 @@ also need to study early gameboy music to see how the interplay of melodies 'imp
 ### music prod
 composition/arrangement for actually making music?
 
+### Trading
+Markets pretty stable now, but what the hell was that 
+
 ## 2/6/26
 Markets are still brutal. Relentless
 
