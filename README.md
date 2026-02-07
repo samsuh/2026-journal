@@ -1,5 +1,30 @@
 # 2026-journal
 
+## 2/8/26 
+### Music Theory 
+1. how chords relate
+2. how harmonies are put together to sound pleasing
+
+notes. 
+C major scale. CDEFGABC. 12345678.
+you can build chords out of it: 
+- C major (Major 1), CEG
+- D minor (min 2), DFA
+- E minor (minor 3), EGB
+- F Major (Major 4), FAC
+- G Major (Major 5), GBD
+- A minor (minor 6), ACE
+- B dim (dim 7), BDF
+- C major (octave, CEG
+
+following the 'play, skip, play, skip, play' pattern on the intervals, the next note would be playing the dim7 B note. C+EGB makes it C with an E minor (minor 3 in  key of C). 
+After E minor, next would then be a D note. C+E+GBD which would be a G major chord the Major 5. 
+C+E+G+BDF, the B diminished 7 (all still in the key of C). 
+C+E+G+B+DFA, DFA is a 2nd interval, which is minor 2. so D minor. 
+C+E+G+B+D+FAC is an F Major, which is a 4th which is Major. F Major. 
+C+E+G+B+D+F+ACE is A minor, the 6th. A minor. 
+Back around to A+CEG, the octave note, which is Major. C Major. 
+
 ## 2/7/26
 ### Music theory 
 "voice leading" as a concept. have to look it up, and specifically figure out how this differs than going around triads in the circle of fifths. 
