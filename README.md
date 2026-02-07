@@ -35,6 +35,8 @@ Going backwards in the circle of thirds uses relative minors.
 The circle of fifths shows, instead, how the keys relate to each other. 
 The grouping of chords in a key nearby each other (moving window piece around the wheel) shows which keys share chords, and vice versa in which keys a chord is included. 
 
+Chords not closeby in the circle of fifths "are generally related to the key through "secondary functionalities, chromatic alterations, or borrows chord" relationships. 
+
 Note: playing the chords from the circle of thirds would go around the wheel in a pattern too. from the root, up+right to the third. from straight down to the root's 5th, then again up+right then straight down, up+right then down up+right then down. 
 
 A takeaway point is that memorizing chords and even the structure and sequence and relation of chords is good, but you dont use them sequentially like this, just as you would not go to a dictionary to look up sequences of words next to each other and use them because theyre closeby. The context matters. 
