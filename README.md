@@ -19,13 +19,14 @@ you can build chords out of it:
 - B dim (dim 7), BDF
 - C major (octave, CEG
 
-following the 'play, skip, play, skip, play' pattern on the intervals, the next note would be playing the dim7 B note. C+EGB makes it C with an E minor (minor 3 in  key of C). 
-After E minor, next would then be a D note. C+E+GBD which would be a G major chord the Major 5. 
-C+E+G+BDF, the B diminished 7 (all still in the key of C). 
-C+E+G+B+DFA, DFA is a 2nd interval, which is minor 2. so D minor. 
-C+E+G+B+D+FAC is an F Major, which is a 4th which is Major. F Major. 
-C+E+G+B+D+F+ACE is A minor, the 6th. A minor. 
-Back around to A+CEG, the octave note, which is Major. C Major. 
+following the 'play, skip, play, skip, play' pattern on the intervals, starting with CEG the root. 
+- the next note would be playing the dim7 B note. C+EGB makes it C with an E minor (minor 3 in  key of C). 
+- After E minor, next would then be a D note. C+E+ **GBD** which would be a G major chord the Major 5. 
+- C+E+G+**BDF**, the B diminished 7 (all still in the key of C). 
+- C+E+G+B+**DFA**, DFA is a 2nd interval, which is minor 2. so D minor. 
+- C+E+G+B+D+**FAC** is an F Major, which is a 4th which is Major. F Major. 
+- C+E+G+B+D+F+**ACE** is A minor, the 6th. A minor. 
+- Back around to A+**CEG**, the octave note, which is Major. C Major. 
 
 This is called **the circle of thirds**. The circle of thirds shows how chords within a single key relate to and connect to each other. 
 Going backwards in the circle of thirds uses relative minors. 
