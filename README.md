@@ -27,8 +27,10 @@ C+E+G+B+D+FAC is an F Major, which is a 4th which is Major. F Major.
 C+E+G+B+D+F+ACE is A minor, the 6th. A minor. 
 Back around to A+CEG, the octave note, which is Major. C Major. 
 
-This is called **the circle of thirds**. 
+This is called **the circle of thirds**. The circle of thirds shows how chords within a single key relate to and connect to each other. 
 Going backwards in the circle of thirds uses relative minors. 
+
+The circle of fifths shows, instead, how the keys relate to each other. 
 
 A takeaway point is that memorizing chords and even the structure and sequence and relation of chords is good, but you dont use them sequentially like this, just as you would not go to a dictionary to look up sequences of words next to each other and use them because theyre closeby. The context matters. 
 
