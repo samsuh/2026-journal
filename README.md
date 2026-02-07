@@ -12,6 +12,9 @@ composition/arrangement for actually making music?
 ### Trading
 Markets pretty stable now, but what the hell was that 
 
+### Misc
+I keep losing time. It's slipping away. I don't know where it's going, but when I'm distracted by mundane concerns, it keeps flying by. I heard all we have is time and attention, but time is out of our control. 
+
 ## 2/6/26
 Markets are still brutal. Relentless
 
