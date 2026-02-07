@@ -25,6 +25,9 @@ C+E+G+B+D+FAC is an F Major, which is a 4th which is Major. F Major.
 C+E+G+B+D+F+ACE is A minor, the 6th. A minor. 
 Back around to A+CEG, the octave note, which is Major. C Major. 
 
+This is called **the circle of thirds**. 
+Going backwards in the circle of thirds uses relative minors. 
+
 ## 2/7/26
 ### Music theory 
 "voice leading" as a concept. have to look it up, and specifically figure out how this differs than going around triads in the circle of fifths. 
