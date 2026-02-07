@@ -2,6 +2,8 @@
 
 ## 2/8/26 
 ### Music Theory 
+How chords work in music: https://youtu.be/2RCOcEu-xLQ?si=U2ZRgWVn6OYuQ2Gn
+
 1. how chords relate
 2. how harmonies are put together to sound pleasing
 
@@ -27,6 +29,8 @@ Back around to A+CEG, the octave note, which is Major. C Major.
 
 This is called **the circle of thirds**. 
 Going backwards in the circle of thirds uses relative minors. 
+
+A takeaway point is that memorizing chords and even the structure and sequence and relation of chords is good, but you dont use them sequentially like this, just as you would not go to a dictionary to look up sequences of words next to each other and use them because theyre closeby. The context matters. 
 
 ## 2/7/26
 ### Music theory 
