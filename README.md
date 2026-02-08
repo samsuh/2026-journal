@@ -3,7 +3,16 @@
 ## 2/9/26
 ### Music Theory 
 Got through a lot yesterday and the connections are forming. Need to reinforce them while theyre fresh. also need to widen but then strengthen. 
+
 https://youtu.be/rN8iiBprnnk?si=hqOqpm45GpmGordX
+
+So he's talking about noodling around on guitar without much of a plan. 
+- He starts with "any chord in any key, any version of these chords is fine", but while knowing which key. 
+- For melody, find a starting note; root note is a good start. find all the notes in that scale. So if using C, find a root C note, then find all the C major scale notes CDEFGAB.
+- Know the major/minor chords in the key. 1Maj 2min3min 4Maj5Maj 6min 7dim.
+- Play all the chords by combining finding the notes in the scale + the Majorminor sequence. use bar chords.
+- Pentatonic scale sits on the 6 (relative minor key, key of C is Aminor, exact same key; Amin Pentatonic shape works over any chord progression in C Major). 
+
 
 ## 2/8/26 
 ### Music Theory 
