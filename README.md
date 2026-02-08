@@ -7,13 +7,13 @@ Got through a lot yesterday and the connections are forming. Need to reinforce t
 https://youtu.be/rN8iiBprnnk?si=hqOqpm45GpmGordX
 
 So he's talking about noodling around on guitar without much of a plan. 
-- He starts with "any chord in any key, any version of these chords is fine", but while knowing which key. 
+- He starts with "any chord in any key, any version of these chords is fine", but while knowing which key. Start with any chord, pick the key that it's in. so C Major chord in the key of C major is an obvious one, but you can also take any other chord from C major like G major (the V chord in key of C). 
 - For melody, find a starting note; root note is a good start. find all the notes in that scale. So if using C, find a root C note, then find all the C major scale notes CDEFGAB.
 - Know the major/minor chords in the key. 1Maj 2min3min 4Maj5Maj 6min 7dim.
 - Play all the chords by combining finding the notes in the scale + the Majorminor sequence. use bar chords.
-- Pentatonic scale sits on the 6 (relative minor key, key of C is Aminor, exact same key; Amin Pentatonic shape works over any chord progression in C Major).
+- The Minor Pentatonic scale sits on the 6 (relative minor key, key of C is Aminor, exact same key; Amin Pentatonic shape works over any chord progression in C Major).
 
-Further exercise: Take any random grouping of like 4 chords in the key, turning it into a chord progression. Play and practice moving around the chord progressions. After that, you can start adding in fills or other notes from the key as notes that work in the key, but are not limited to the pentatonic shape. 
+Further exercise: Take any random grouping of like 4 chords in the key, turning it into a chord progression. Play and practice moving around the chord progressions. After that, you can start adding in fills or other notes from the key as notes that work in the key, but are not limited to the minor pentatonic shape. 
 
 
 ## 2/8/26 
