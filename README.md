@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 2/9/26
+### Music Theory 
+Got through a lot yesterday and the connections are forming. Need to reinforce them while theyre fresh. also need to widen but then strengthen. 
+https://youtu.be/rN8iiBprnnk?si=hqOqpm45GpmGordX
+
 ## 2/8/26 
 ### Music Theory 
 How chords work in music: https://youtu.be/2RCOcEu-xLQ?si=U2ZRgWVn6OYuQ2Gn
