@@ -11,7 +11,9 @@ So he's talking about noodling around on guitar without much of a plan.
 - For melody, find a starting note; root note is a good start. find all the notes in that scale. So if using C, find a root C note, then find all the C major scale notes CDEFGAB.
 - Know the major/minor chords in the key. 1Maj 2min3min 4Maj5Maj 6min 7dim.
 - Play all the chords by combining finding the notes in the scale + the Majorminor sequence. use bar chords.
-- Pentatonic scale sits on the 6 (relative minor key, key of C is Aminor, exact same key; Amin Pentatonic shape works over any chord progression in C Major). 
+- Pentatonic scale sits on the 6 (relative minor key, key of C is Aminor, exact same key; Amin Pentatonic shape works over any chord progression in C Major).
+
+Further exercise: Take any random grouping of like 4 chords in the key, turning it into a chord progression. Play and practice moving around the chord progressions. After that, you can start adding in fills or other notes from the key as notes that work in the key, but are not limited to the pentatonic shape. 
 
 
 ## 2/8/26 
