@@ -16,6 +16,8 @@ So he's talking about noodling around on guitar without much of a plan.
 Further exercise: Take any random grouping of like 4 chords in the key, turning it into a chord progression. Play and practice moving around the chord progressions. After that, you can start adding in fills or other notes from the key as notes that work in the key, but are not limited to the minor pentatonic shape. 
 
 
+One skill that keeps getting mentined that I don't have yet is ear training, and being able to figure out what chord is playing, and figuring out which key a song is in. 
+
 ## 2/8/26 
 ### Music Theory 
 How chords work in music: https://youtu.be/2RCOcEu-xLQ?si=U2ZRgWVn6OYuQ2Gn
