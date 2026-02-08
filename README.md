@@ -20,7 +20,7 @@ you can build chords out of it:
 - C major (octave, CEG
 
 following the 'play, skip, play, skip, play' pattern on the intervals, 
-- CEG - starting with CEG the root. 
+- CEG - starting with CEG the root. then drop the lowest note, and add the next skip+play. 
 - EGB - the next note would be playing the dim7 B note. C+EGB makes it C with an E minor (minor 3 in  key of C). 
 - GBD - After E minor, next would then be a D note. C+E+ **GBD** which would be a G major chord the Major 5. 
 - BDF - C+E+G+**BDF**, the B diminished 7 (all still in the key of C). 
