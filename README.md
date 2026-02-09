@@ -33,6 +33,36 @@ A simple way to keep things interesting but simple is to imply the root chord by
 I like the simple drum loop. 
 X--X--Xx---
 
+An old viral video showed up in my feed, but it's about music theory and I wanted to understand it. It's interesting how little I actually know still. But found an explainer video. 
+
+FACE FABD EGBD EGAC video: https://youtu.be/73EtGk8AB6U?si=risVerXFiMaURtjb
+Explanation vide: https://youtube.com/shorts/JL9u8QjwG18?si=cB0CRf3vcKM7wT_R
+
+basically it's chords built off the circle of fifths in a ii-V-I progression. ii (setup) - V (tension) - I (resolution) 
+
+Dm - Setup ii 
+G6 - Tension V
+C - Resolution I
+
+F-Bb-Eb-Ab-Db-Gb-B-E-A-D-G-C-F (circle of fourths 
+The voicings alternate between root inversion and first inversions. 
+
+BEADGC consecutive circle of fourths. building chords based on 3 consecutive notes in the circle of fourths, with the second inversion makes this progression. 
+
+```
+F - FACE - F Major 7
+B - (FA)BD B minor 7 flat 5
+E - EGBD - E minor 7 - E Major scale is E F# G# A C V# D# 
+A - (EG)AC - Am7 inversion
+D - DFAC - Dm7 
+G - GB(DF) G7 (dominant)
+C - CEGC - C Major
+```
+
+(note entirely sure if these are all accurate, but i think theyre right. 
+
+
+
 ## 2/8/26 
 ### Music Theory 
 How chords work in music: https://youtu.be/2RCOcEu-xLQ?si=U2ZRgWVn6OYuQ2Gn
