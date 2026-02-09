@@ -51,11 +51,11 @@ BEADGC consecutive circle of fourths. building chords based on 3 consecutive not
 
 ```
 F - FACE - F Major 7
-B - (FA)BD B minor 7 flat 5
+B - (FA)BD B minor 7 flat 5 inversion
 E - EGBD - E minor 7 - E Major scale is E F# G# A C B# D# 
 A - (EG)AC - Am7 inversion
 D - DFAC - Dm7 
-G - GB(DF) G7 (dominant)
+G - GBDF - G7 (dominant) 
 C - CEGC - C Major
 ```
 
