@@ -18,6 +18,21 @@ Further exercise: Take any random grouping of like 4 chords in the key, turning 
 
 One skill that keeps getting mentined that I don't have yet is ear training, and being able to figure out what chord is playing, and figuring out which key a song is in. 
 
+
+https://youtu.be/TxZ_lxQ8j3M?si=cnJWgPY8fiVqzQby
+
+Keeping a melody memorable/catchy has to be balanced with keeping it interesting/complicated. Too hard is not memorable, and too easy is boring/annoying. Melody direction towards the root. Taking that one step further, is to 
+
+A simple way to keep things interesting but simple is to imply the root chord by playing notes in the scale, which pulls towards the root note. 
+- Keep bassline on the one in key.
+- Identify notes in the chord on I iii V. Make random notes (one note at a time) for a few bars. Melody is based on the root chord. Regardless of the starting note, it all pulls towards the root note. 
+- Can add notes from outside the chord; passing notes. The pull of the root is still there.
+- Create journey. Keep main hook/rhythm and direction. But change the root note in the background. Build a chord on the IV for example (inversion is fine) for 2 bars. and add 2 bars of the original root note. Bass doesnt change (still on the I note). 
+- Overlay chords and melody in the DAW. move the melody notes to the nearest chord.
+
+I like the simple drum loop. 
+X--X--Xx---
+
 ## 2/8/26 
 ### Music Theory 
 How chords work in music: https://youtu.be/2RCOcEu-xLQ?si=U2ZRgWVn6OYuQ2Gn
