@@ -10,6 +10,8 @@ https://youtube.com/shorts/R3qcELB_IJk?si=PDsnhALFgVIjZY8_
 
 Chord basics; 7 diatonic chords/ secondary dominant (target any chord besides tonic)/ substitute dominant (swap dominant chord with its tritone pair)/ modal interchange (anything else) 
 
+Rhythm on notes. kind of obvious, but good to bring it to front of mind. https://youtube.com/shorts/ElS10sfFpao?si=v6jPZjlEx2Xf95P4
+
 ## 2/9/26
 ### Music Theory 
 Got through a lot yesterday and the connections are forming. Need to reinforce them while theyre fresh. also need to widen but then strengthen. 
