@@ -5,6 +5,11 @@
 
 Sound Design basics https://youtu.be/qSYAvhNFfHw?si=Ek00U7lV2XcVXFDW
 
+### Music Theory 
+https://youtube.com/shorts/R3qcELB_IJk?si=PDsnhALFgVIjZY8_
+
+Chord basics; 7 diatonic chords/ secondary dominant (target any chord besides tonic)/ substitute dominant (swap dominant chord with its tritone pair)/ modal interchange (anything else) 
+
 ## 2/9/26
 ### Music Theory 
 Got through a lot yesterday and the connections are forming. Need to reinforce them while theyre fresh. also need to widen but then strengthen. 
