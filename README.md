@@ -7,6 +7,8 @@ I think I put into words one of the things I want to get to to bridge the worlds
 I think i found a course that covers some of the intro materials, I'm leaning towards doing this in Rust. There's others in C and in Python, along with others that I won't consider at all. But rust seems the way to go for me for now. 
 https://www.udemy.com/course/elliptic-curve-cryptography-in-rust/
 
+God this topic is so boring. 
+
 ## 2/10/26 
 ### Music Production
 
