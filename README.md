@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 2/12/26
+Show went well. Got a nice compliment "You fucking nailed the mix." felt good. :)
+
 ## 2/11/26
 # Signal Processing 
 I think I put into words one of the things I want to get to to bridge the worlds of all this music learning, and the programming stuff from before. Digital Signal Processing pulls together the concepts we used during Error correction encoding using fourier transforms, but applying it to something more tangible and physical, such as audio signals (waves in the air). 
