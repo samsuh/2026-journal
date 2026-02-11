@@ -3,9 +3,20 @@
 ## 2/12/26
 Show went well. Got a nice compliment "You fucking nailed the mix." felt good. :)
 
+
+
 ### Signal Processing 
 https://youtu.be/hVOA8VtKLgk?si=HtlhwWhiJ42rZq6q
 RPI DSP Lecture. not in rust, but good in theory for now. 
+
+### Music Theory 
+https://youtube.com/shorts/vlJO2hDLCNc?si=RmjMcVdE9tgL0JQt gladiator 'now we are free' melody. 
+```C# F# A B A G# 
+G# B C# E A G# F# 
+C#F# A B A G# G# F# E F#
+```
+contains these notes. figure out the key. cant be C G D since there are too many #'s, but need to better understand why it's not E or B. 
+
 
 ## 2/11/26
 ### Signal Processing 
