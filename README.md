@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 2/13/26 - Friday
+Reminder for myself that the two goals were to dj a live performance, and to create a song. I think I'm capable of doing a basic dj set, but nothing too stylish, or show-off-able. Making a song I think is starting to solidify into more realistic component pieces. Song Structure; intro, verse, chorus. make intro at the end; do verse/chorus, which isnt that bad, it's like 8 or 16 bars each. so if the intro is 8 bars (short like hiphop or pop, not like house music), then it's really only 40 bars total, and a lot of that will prob be looped. 
+
 ## 2/12/26
 Show went well. Got a nice compliment "You fucking nailed the mix." felt good. :)
 
