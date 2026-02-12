@@ -18,6 +18,9 @@ C#F# A B A G# G# F# E F#
 contains these notes. figure out the key. cant be C G D since there are too many #'s, but need to better understand why it's not E or B. 
 
 
+### Music Production 
+9 hour video on music production: https://youtu.be/I9fBqKNXIbk?si=TW3UDsFg8Q10ce_e 
+
 ## 2/11/26
 ### Signal Processing 
 I think I put into words one of the things I want to get to to bridge the worlds of all this music learning, and the programming stuff from before. Digital Signal Processing pulls together the concepts we used during Error correction encoding using fourier transforms, but applying it to something more tangible and physical, such as audio signals (waves in the air). 
