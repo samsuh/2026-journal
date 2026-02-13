@@ -6,6 +6,14 @@ Reminder for myself that the two goals were to dj a live performance, and to cre
 ### Piano
 Started messing with the VSTs. I need to learn more piano basics so i can even noodle around better. 
 
+### DJing 
+Learning a lot about echo effect today. Practice regiment: 
+- echo out the exiting track; normal volume fade, try echo spinback. 
+- echo in the incoming track
+- echo teasing the new song in
+- building echo intensity as buildup instead of looping into a drop or transition  
+
+
 ## 2/12/26
 Show went well. Got a nice compliment "You fucking nailed the mix." felt good. :)
 
