@@ -3,6 +3,9 @@
 ## 2/14/26 - Saturday 
 Realized i spend too much time perpetually online. Thought about implementing 'unplugged' time for specific allotments. 
 
+### Psychology
+Kids at an early age go through a phase of saying "no!" to everything. This is not them being difficult, but beginning to gain autonomy, and start to build a safe space for themselves to start developing a sense of self and exercising free will. 
+
 ## 2/13/26 - Friday
 Reminder for myself that the two goals were to dj a live performance, and to create a song. I think I'm capable of doing a basic dj set, but nothing too stylish, or show-off-able. Making a song I think is starting to solidify into more realistic component pieces. Song Structure; intro, verse, chorus. make intro at the end; do verse/chorus, which isnt that bad, it's like 8 or 16 bars each. so if the intro is 8 bars (short like hiphop or pop, not like house music), then it's really only 40 bars total, and a lot of that will prob be looped. 
 
