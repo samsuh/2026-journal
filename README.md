@@ -15,7 +15,18 @@ Lyrics are about human connection. It doesnt have to be too specific or too vagu
 One way is to bring it down to a single moment of life. People connect to moments. Specifics invite us in. 
 Staying too big isnt great; high wall of defene. It doesnt let the listener in. Small specific language combats this; replace one abstract word/phrase with something specific; it's ok to be a little awkward/painful. Let the listener walk around in your experience. 
 
+Song needs Chords, Rhythm, Melody, and Lyric. Anything else is a composition/beat/instrumental track. 
+
+Start with your skillset; Poet starts with lyrics, instrumentalist might start with chords and harmonic rhythm, vocalist might start with melody. Where you gravitate to might indicate your strength; but it's also good to try starting with the other skill. 
+
 https://youtu.be/FBknUU6YCPM?si=Mk_C6ABzMOc-Bj0d Found a nice channel about song writing. 
+
+Interesting study; lyrics need both big and small concepts. Repetitive exposure to concepts can be done rhythmically in the chorus. The verses describe a small moment; who/when/where/how, giving characters and plot a specific storyline and detail. Melody in verse and chorus can contrast. Lyric starting point can be free writing; brain dump. Concept/memory/event or prompts, single words/phrases/lines. Can also choose about a place/person/scene to write about. Notice when your words are specific and detailed vs when theyre 'big' or vague. 
+
+When a pattern gets established, can switch it up to provide contrast to feel new. Songs need movement. 
+Movement can be anything that's different that gives additional context or perspective; all the "he" can turn into "you" or "we" for a perspective shift.
+
+Negative space is rest space. 
 
 ## 2/13/26 - Friday
 Reminder for myself that the two goals were to dj a live performance, and to create a song. I think I'm capable of doing a basic dj set, but nothing too stylish, or show-off-able. Making a song I think is starting to solidify into more realistic component pieces. Song Structure; intro, verse, chorus. make intro at the end; do verse/chorus, which isnt that bad, it's like 8 or 16 bars each. so if the intro is 8 bars (short like hiphop or pop, not like house music), then it's really only 40 bars total, and a lot of that will prob be looped. 
