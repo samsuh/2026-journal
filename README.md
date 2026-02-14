@@ -6,6 +6,9 @@ Realized i spend too much time perpetually online. Thought about implementing 'u
 ### Psychology
 Kids at an early age go through a phase of saying "no!" to everything. This is not them being difficult, but beginning to gain autonomy, and start to build a safe space for themselves to start developing a sense of self and exercising free will. 
 
+### Trading
+Sidelined on a big rise up. Kept plateauing, so i kept thinking the run was over, then it kept going. 7 times. 
+
 ## 2/13/26 - Friday
 Reminder for myself that the two goals were to dj a live performance, and to create a song. I think I'm capable of doing a basic dj set, but nothing too stylish, or show-off-able. Making a song I think is starting to solidify into more realistic component pieces. Song Structure; intro, verse, chorus. make intro at the end; do verse/chorus, which isnt that bad, it's like 8 or 16 bars each. so if the intro is 8 bars (short like hiphop or pop, not like house music), then it's really only 40 bars total, and a lot of that will prob be looped. 
 
