@@ -3,6 +3,9 @@
 ## 2/15/26 - Sunday 
 This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
 
+### DJing 
+Echo practice going ok. echoing out exiting track is a solid transition. Practice with changing echo parameters as a way to mess with the song while it's still there. 
+
 
 ## 2/14/26 - Saturday 
 Realized i spend too much time perpetually online. Thought about implementing 'unplugged' time for specific allotments. 
