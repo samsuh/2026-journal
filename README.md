@@ -9,6 +9,14 @@ Kids at an early age go through a phase of saying "no!" to everything. This is n
 ### Trading
 Sidelined on a big rise up. Kept plateauing, so i kept thinking the run was over, then it kept going. 7 times. 
 
+
+### Song writing 
+Lyrics are about human connection. It doesnt have to be too specific or too vague; it's a balance. Vague asks the listener to do the work of creating the universe, Specific gives them somewhere to start from, but too much sensory info can drag on. 
+One way is to bring it down to a single moment of life. People connect to moments. Specifics invite us in. 
+Staying too big isnt great; high wall of defene. It doesnt let the listener in. Small specific language combats this; replace one abstract word/phrase with something specific; it's ok to be a little awkward/painful. Let the listener walk around in your experience. 
+
+https://youtu.be/FBknUU6YCPM?si=Mk_C6ABzMOc-Bj0d Found a nice channel about song writing. 
+
 ## 2/13/26 - Friday
 Reminder for myself that the two goals were to dj a live performance, and to create a song. I think I'm capable of doing a basic dj set, but nothing too stylish, or show-off-able. Making a song I think is starting to solidify into more realistic component pieces. Song Structure; intro, verse, chorus. make intro at the end; do verse/chorus, which isnt that bad, it's like 8 or 16 bars each. so if the intro is 8 bars (short like hiphop or pop, not like house music), then it's really only 40 bars total, and a lot of that will prob be looped. 
 
