@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 2/15/26 - Sunday 
+This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
+
+
 ## 2/14/26 - Saturday 
 Realized i spend too much time perpetually online. Thought about implementing 'unplugged' time for specific allotments. 
 
