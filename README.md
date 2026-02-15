@@ -5,7 +5,7 @@ This week is a holiday week, so gotta plan the gym closures accordingly. Get an 
 
 Goal for today: 
 - COMPLETED ~~ThreeJS - finish threejs lesson 4, transformation~~
-- ThreeJS - finish threejs lesson 5, animations
+- COMPELTED ~~ThreeJS - finish threejs lesson 5, animations~~
 - COMPLETED ~~Music Theory - Write out all notes in all Major scales in order of the circle of fifths. (check this before relying on it; solve this as practice. G major, D major, A major, E major, B major, F# major, C# major (Db), Ab, Eb, Bb, F, C, back to G).~~
 
 ### DJing 
