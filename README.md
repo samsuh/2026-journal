@@ -6,6 +6,9 @@ This week is a holiday week, so gotta plan the gym closures accordingly. Get an 
 ### DJing 
 Echo practice going ok. echoing out exiting track is a solid transition. Practice with changing echo parameters as a way to mess with the song while it's still there - building into a drop, you can do filter/echo effects, but get it out before the 1 on the drop. 
 
+### ThreeJS
+I started revisiting the threejs course. It's interesting to see it again after a while from a different context. Instead of coming at it from the react and devops side, coming at it from a creative side is refreshing. 
+
 
 ## 2/14/26 - Saturday 
 Realized i spend too much time perpetually online. Thought about implementing 'unplugged' time for specific allotments. 
