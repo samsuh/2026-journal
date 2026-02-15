@@ -7,7 +7,7 @@ This week is a holiday week, so gotta plan the gym closures accordingly. Get an 
 Echo practice going ok. echoing out exiting track is a solid transition. Practice with changing echo parameters as a way to mess with the song while it's still there - building into a drop, you can do filter/echo effects, but get it out before the 1 on the drop. 
 
 ### ThreeJS
-I started revisiting the threejs course. It's interesting to see it again after a while from a different context. Instead of coming at it from the react and devops side, coming at it from a creative side is refreshing. 
+I started revisiting the threejs course. It's interesting to see it again after a while from a different context. Instead of coming at it from the react and devops side, coming at it from a creative side is refreshing. Got through lessons 1-3 in the morning, and am going through lesson 4 transformations now. I want to try not speeding through stuff, because i think it sticks better if i give my brain time to process as im learning info, instead of getting through watching the episode, and then telling myself i'll review things on my own, which i usually dont end up doing. 
 
 ## Random thoughts
 There's value in having unstructured time wherein i can pursue anything I find valuable, and dedicate myself to whatever topic interests me, free of the external pressures of normal societal expectations. 
