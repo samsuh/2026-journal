@@ -9,6 +9,8 @@ Echo practice going ok. echoing out exiting track is a solid transition. Practic
 ### ThreeJS
 I started revisiting the threejs course. It's interesting to see it again after a while from a different context. Instead of coming at it from the react and devops side, coming at it from a creative side is refreshing. 
 
+## Random thoughts
+There's value in having unstructured time wherein i can pursue anything I find valuable, and dedicate myself to whatever topic interests me, free of the external pressures of normal societal expectations. 
 
 ## 2/14/26 - Saturday 
 Realized i spend too much time perpetually online. Thought about implementing 'unplugged' time for specific allotments. 
