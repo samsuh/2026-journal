@@ -3,6 +3,11 @@
 ## 2/15/26 - Sunday 
 This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
 
+Goal for today: 
+- ThreeJS - finish threejs lesson 4, transformation
+- ThreeJS - finish threejs lesson 5, animations
+- Music Theory - Write out all notes in all Major scales in order of the circle of fifths. (check this before relying on it; solve this as practice. G major, D major, A major, E major, B major, F# major, C# major (Db), Ab, Eb, Bb, F, C, back to G). 
+
 ### DJing 
 Echo practice going ok. echoing out exiting track is a solid transition. Practice with changing echo parameters as a way to mess with the song while it's still there - building into a drop, you can do filter/echo effects, but get it out before the 1 on the drop. 
 
