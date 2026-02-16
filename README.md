@@ -8,7 +8,10 @@ Goals for today:
 - Move motorcycle so Im not blocked in if people go away for a week.
 - ThreeJS - finish Camera lesson
 - Music Theory - rewrite out the major scales again, associate with number of sharps and flats. Try to do everything from memory.
-- 
+
+### Music Composition 
+https://youtu.be/PS54GhZoojo?si=SnKAAgwjMiLF2K97
+Making music using chords in a loop; exploring musical progression. 
 
 ## 2/15/26 - Sunday 
 This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
