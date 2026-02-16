@@ -6,7 +6,7 @@ Seollal holiday is Wednesday this week, and i thought things would start being a
 Goals for today: 
 - COMPLETED ~~Go grocery shopping - buy unscented wet wipes and dish towels.~~
 - ATTEMPTED ~~Move motorcycle so Im not blocked in if people go away for a week.~~
-- ThreeJS - finish Camera lesson
+- COMPLETED ~~ThreeJS - finish Camera lesson~~
 - Music Theory - rewrite out the major scales again, associate with number of sharps and flats. Try to do everything from memory.
 
 ### Music Composition 
