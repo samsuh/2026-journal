@@ -3,6 +3,13 @@
 ## 2/16/26 - Monday 
 Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
 
+Goals for today: 
+- Go grocery shopping - buy unscented wet wipes and dish towels. 
+- Move motorcycle so Im not blocked in if people go away for a week.
+- ThreeJS - finish Camera lesson
+- Music Theory - rewrite out the major scales again, associate with number of sharps and flats. Try to do everything from memory.
+- 
+
 ## 2/15/26 - Sunday 
 This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
 
