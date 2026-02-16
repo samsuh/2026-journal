@@ -13,6 +13,9 @@ Goals for today:
 https://youtu.be/PS54GhZoojo?si=SnKAAgwjMiLF2K97
 Making music using chords in a loop; exploring musical progression. 
 
+### DJing 
+Quantized effects are easy and good enough, but sometimes what you want to grab is not on the beat, so you cant get it quantized, and you have to turn quantize off and get it manually.
+
 ## 2/15/26 - Sunday 
 This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
 
