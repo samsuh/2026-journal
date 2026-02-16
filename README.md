@@ -1,5 +1,14 @@
 # 2026-journal
 
+## 2/17/26 - Tuesday 
+Goals for today: 
+- Go to gym since itll be closed tomorrow.
+- Attempt to move bike again
+- ThreeJS - Fullscreen and Resizing section
+- ThreeJS - Geometries section
+- DJing - Manual in/out loopin section
+- DJing - Active loops section 
+
 ## 2/16/26 - Monday 
 Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
 
@@ -7,7 +16,7 @@ Goals for today:
 - COMPLETED ~~Go grocery shopping - buy unscented wet wipes and dish towels.~~
 - ATTEMPTED ~~Move motorcycle so Im not blocked in if people go away for a week.~~
 - COMPLETED ~~ThreeJS - finish Camera lesson~~
-- Music Theory - rewrite out the major scales again, associate with number of sharps and flats. Try to do everything from memory.
+- COMPLETED ~~Music Theory - rewrite out the major scales again, associate with number of sharps and flats. Try to do everything from memory.~~
 
 ### Music Composition 
 https://youtu.be/PS54GhZoojo?si=SnKAAgwjMiLF2K97
