@@ -6,8 +6,8 @@ Goals for today:
 - Attempt to move bike again
 - ThreeJS - Fullscreen and Resizing section
 - ThreeJS - Geometries section
-- DJing - Manual in/out loopin section
-- DJing - Active loops section 
+- COMPLETED ~~DJing - Manual in/out loopin section~~
+- COMPLETED ~~DJing - Active loops section~~
 
 ## 2/16/26 - Monday 
 Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
