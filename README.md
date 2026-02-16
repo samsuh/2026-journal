@@ -17,7 +17,7 @@ Making music using chords in a loop; exploring musical progression.
 Quantized effects are easy and good enough, but sometimes what you want to grab is not on the beat, so you cant get it quantized, and you have to turn quantize off and get it manually.
 
 ## 2/15/26 - Sunday 
-This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
+This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. Tightening loops works best to grab one beat or one word. Dont cut the melody or chorus in half. Grab last word or first word. 
 
 Goal for today: 
 - COMPLETED ~~ThreeJS - finish threejs lesson 4, transformation~~
