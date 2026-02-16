@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 2/16/26 - Monday 
+Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
+
 ## 2/15/26 - Sunday 
 This week is a holiday week, so gotta plan the gym closures accordingly. Get an extra workout in. 
 
