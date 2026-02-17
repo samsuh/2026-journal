@@ -2,7 +2,7 @@
 
 ## 2/17/26 - Tuesday 
 Goals for today: 
-- Go to gym since itll be closed tomorrow.
+- oops. holiday is today! Go to gym since itll be closed tomorrow.
 - Attempt to move bike again
 - ThreeJS - Fullscreen and Resizing section
 - ThreeJS - Geometries section
