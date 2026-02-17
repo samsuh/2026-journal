@@ -2,12 +2,22 @@
 
 ## 2/17/26 - Tuesday 
 Goals for today: 
-- oops. holiday is today! Go to gym since itll be closed tomorrow.
-- Attempt to move bike again
+- oops. holiday is today! NOT POSSIBLE ~~Go to gym since itll be closed tomorrow.~~
+- Blocked in. NOT POSSIBLE ~~Attempt to move bike again~~
 - ThreeJS - Fullscreen and Resizing section
 - ThreeJS - Geometries section
 - COMPLETED ~~DJing - Manual in/out loopin section~~
 - COMPLETED ~~DJing - Active loops section~~
+
+### Music Theory 
+https://youtu.be/Q7WqKpD7w4Q?si=uiJAs1srE4Lre4zG
+
+Minor scales; natural, harmonic, melodic. 
+- The natural minor is tied with the major scale, because the relative minor to a major scale uses the exact same notes. Ascending in the major scale gives tension/release when going from 7 to 1 intervals, which is a core mechanism in music. The natural minor does not have this tension when ascending because it's a whole step from 7 to 1. 
+- Harmonic minor 'fixes' this and gives tension to the 7 to 1 of the natural minor by moving the 7 up to be a halfstep from the 1 similar to the 7 1 in the major scale that was desirable. However, this creates a different 'problem' of having a weirdly big gap between the 6 and 7. 
+- The melodic minor 'fixes' this big gap in the harmonic minor by moving the 6 up also so there are no more big gaps, while still having the tension in the 7 1 in the minor scale from harmonic minor. This happens to be similar to the Major scale intervals on everything (except the minor 3). 
+
+In classical music, you play up melodic minor, but you go back down in natural minor. The reason for harmonic minor was to get the tension/release. Then the melodic minor fixes the weird gap. But going down, we dont have that 'tension/resolution' back to home, so there's no benefit in using anything besides the original. 
 
 ## 2/16/26 - Monday 
 Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
