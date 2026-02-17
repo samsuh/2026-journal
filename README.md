@@ -4,7 +4,7 @@
 Goals for today: 
 - oops. holiday is today! NOT POSSIBLE ~~Go to gym since itll be closed tomorrow.~~
 - Blocked in. NOT POSSIBLE ~~Attempt to move bike again~~
-- ThreeJS - Fullscreen and Resizing section
+- COMPLETED ~~ThreeJS - Fullscreen and Resizing section~~
 - ThreeJS - Geometries section
 - COMPLETED ~~DJing - Manual in/out loopin section~~
 - COMPLETED ~~DJing - Active loops section~~
