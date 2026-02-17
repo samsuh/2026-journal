@@ -4,13 +4,13 @@
 Dumb life advice that's useful for me: You don't have to do everything from start to finish in one sitting. You don't always benefit from pushing through friction. If it's not working, just pause and step away and come back to it later. Maybe take some time to step back and review the prior building blocks to reinforce the fundamentals again before pushing through to a new area. 
 
 Goals for today: 
-- ThreeJS - Geometries section
-
 - oops. holiday is today! NOT POSSIBLE ~~Go to gym since itll be closed tomorrow.~~
 - Blocked in. NOT POSSIBLE ~~Attempt to move bike again~~
 - COMPLETED ~~ThreeJS - Fullscreen and Resizing section~~
+- COMPLETED ~~ThreeJS - Geometries section~~
 - COMPLETED ~~DJing - Manual in/out loopin section~~
 - COMPLETED ~~DJing - Active loops section~~
+
 
 ### Music Theory 
 https://youtu.be/Q7WqKpD7w4Q?si=uiJAs1srE4Lre4zG
