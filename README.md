@@ -19,6 +19,8 @@ Minor scales; natural, harmonic, melodic.
 
 In classical music, you play up melodic minor, but you go back down in natural minor. The reason for harmonic minor was to get the tension/release. Then the melodic minor fixes the weird gap. But going down, we dont have that 'tension/resolution' back to home, so there's no benefit in using anything besides the original. 
 
+I wonder how these minor scales with with circle of fifths stuff. https://youtu.be/hzgDTocKyc4?si=mTixYHMz6_b6J1Mz
+
 ## 2/16/26 - Monday 
 Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
 
