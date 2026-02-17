@@ -24,6 +24,21 @@ I wonder how these minor scales with with circle of fifths stuff. https://youtu.
 
 Ah, so this is where the relative minor/ relative major comes into play. C major has the relative minor of A minor. 
 
+### Piano 
+Came across this piano lesson. It's a lot of yapping, but there are nuggets of useful info. https://youtu.be/Lgw0szYmix4?si=-LVapS91vf2LPFAq
+
+Memorize the keys on the keyboard in a specific way: 
+Part 1: Group of 2 black keys. Crazy Elephants in the Doghouse
+- Keys on the outside of the group of 2 black keys: C E
+- Key inside the group of 2 black keys: D
+
+Part 2: Group of 3 black keys. Green Apples inside of FaceBook. 
+- Keys on the outside of the group of 3 black keys: F B
+- Inside white keys of group of 3 is: GA
+
+Roadmap: Do synthesia (learn songs by sight), practice playing in different keys, create in different keys, ear training. 
+  
+
 ## 2/16/26 - Monday 
 Seollal holiday is Wednesday this week, and i thought things would start being affected tomorrow, but a lot of things are already affected. I should prob move up the prep and go grocery shopping and stuff today instead of tomorrow. 
 
