@@ -12,7 +12,7 @@ Goals for today:
 ## 2/18/26 - Wednesday 
 Goals for today: 
 - DONE ~~Get haircut~~
-- DONE - Go to open mic night
+- DONE ~~- Go to open mic night~~
 - Not up to me. ~~Try to move motorcycle yet again.~~
 
 Pretty meh day. I think i need to sleep better. I have a lingering tiredness like something's out of sync. 
