@@ -6,7 +6,8 @@ Goals for today:
 - ThreeJS - Debug UI section
 - DJ - Record a 30 minute set
 - Look into a vacation.
-- Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence. 
+- Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence.
+- Start looking into seting up Reaper
 
 
 ## 2/18/26 - Wednesday 
