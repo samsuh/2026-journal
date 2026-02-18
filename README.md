@@ -7,7 +7,7 @@ Goals for today:
 - DJ - Record a 30 minute set
 - Look into a vacation.
 - Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence.
-- Start looking into seting up Reaper
+- Start looking into seting up Reaper - https://youtu.be/hLB83sOxVfs?si=zOenlHfLrXeFptQU
 
 
 ## 2/18/26 - Wednesday 
