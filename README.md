@@ -1,5 +1,14 @@
 # 2026-journal
 
+
+## 2/19/26 - Thursday 
+Goals for today: 
+- ThreeJS - Debug UI section
+- DJ - Record a 30 minute set
+- Look into a vacation.
+- Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence. 
+
+
 ## 2/18/26 - Wednesday 
 Goals for today: 
 - DONE ~~Get haircut~~
