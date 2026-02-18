@@ -2,9 +2,9 @@
 
 ## 2/18/26 - Wednesday 
 Goals for today: 
-- Get haircut
+- DONE ~~Get haircut~~
 - Go to open mic night
-- Try to move motorcycle yet again. 
+- Not up to me. ~~Try to move motorcycle yet again.~~
 
 ## 2/17/26 - Tuesday 
 Dumb life advice that's useful for me: You don't have to do everything from start to finish in one sitting. You don't always benefit from pushing through friction. If it's not working, just pause and step away and come back to it later. Maybe take some time to step back and review the prior building blocks to reinforce the fundamentals again before pushing through to a new area. 
