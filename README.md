@@ -2,7 +2,7 @@
 
 ## 2/20/26 
 Goals for today: 
-- 
+- write out the minor scales
 
 ## 2/19/26 - Thursday 
 Goals for today: 
