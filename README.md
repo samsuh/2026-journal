@@ -4,7 +4,7 @@
 ## 2/19/26 - Thursday 
 Goals for today: 
 - DONE ~~ThreeJS - Debug UI section~~
-- DJ - Record a 30 minute set
+- DONE. ~~DJ - Record a 30 minute set~~ did an hour set. 
 - DONE ~~Look into a vacation.~~ decided not to go on any. 
 - Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence.
 - Start looking into setting up Reaper - https://youtu.be/hLB83sOxVfs?si=zOenlHfLrXeFptQU
