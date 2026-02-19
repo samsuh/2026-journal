@@ -1,16 +1,20 @@
 # 2026-journal
 
+## 2/20/26 
+Goals for today: 
+- 
 
 ## 2/19/26 - Thursday 
 Goals for today: 
 - DONE ~~ThreeJS - Debug UI section~~
-- DONE. ~~DJ - Record a 30 minute set~~ did an hour set. 
+- DONE ~~DJ - Record a 30 minute set~~ did an hour set. 
 - DONE ~~Look into a vacation.~~ decided not to go on any. 
 - Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence.
-- Start looking into setting up Reaper - https://youtu.be/hLB83sOxVfs?si=zOenlHfLrXeFptQU
+- DONE ~~Start looking into setting up Reaper~~ - https://youtu.be/hLB83sOxVfs?si=zOenlHfLrXeFptQU
 
 I started watching a few guitar videos too. Not to get distracted, but it's interesting how much more intuitive guitar videos are. I have experience there, so that makes a lot of sense. But does it make sense to switch to guitar inputs as a main way to enter music into the daw? think it over. 
 
+Got through most of the reaper tutorial playlist. seems pretty straightforward. 
 
 ## 2/18/26 - Wednesday 
 Goals for today: 
