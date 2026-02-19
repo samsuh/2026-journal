@@ -9,6 +9,8 @@ Goals for today:
 - Music making - recreate a single loop just to have done it. Stretch goal is to make an ABAC loop sequence.
 - Start looking into setting up Reaper - https://youtu.be/hLB83sOxVfs?si=zOenlHfLrXeFptQU
 
+I started watching a few guitar videos too. Not to get distracted, but it's interesting how much more intuitive guitar videos are. I have experience there, so that makes a lot of sense. But does it make sense to switch to guitar inputs as a main way to enter music into the daw? think it over. 
+
 
 ## 2/18/26 - Wednesday 
 Goals for today: 
