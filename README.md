@@ -1,12 +1,17 @@
 # 2026-journal
 
-# 2/21/26
+# 2/21/26 - Saturday 
 physical reset yesterday. sleep, food, a bit on caffeine. 
+
+Goals for today: 
+- do the rest of ThreeJS - Textures
+- maybe go for a bike ride since the weather should be nice
+- 
 
 ## 2/20/26 
 Goals for today: 
 - DONE ~~write out the minor scales~~ wrote out natural minor scales. didnt do harmonic or melodic. i think learning natural minor in circle of fifths/fourths is priority. 
-- ThreeJS - textures lesson
+- STARTED but not completed. ThreeJS - textures lesson
 
 ## 2/19/26 - Thursday 
 Goals for today: 
