@@ -1,5 +1,8 @@
 # 2026-journal
 
+# 2/21/26
+physical reset yesterday. sleep, food, a bit on caffeine. 
+
 ## 2/20/26 
 Goals for today: 
 - DONE ~~write out the minor scales~~ wrote out natural minor scales. didnt do harmonic or melodic. i think learning natural minor in circle of fifths/fourths is priority. 
