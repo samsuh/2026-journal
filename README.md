@@ -4,7 +4,7 @@
 physical reset yesterday. sleep, food, a bit on caffeine. 
 
 Goals for today: 
-- do the rest of ThreeJS - Textures
+- DONE ~~do the rest of ThreeJS - Textures~~ that was so painful to get through. It's so hard to power through boring irrelevant stuff when there's no connection to relevance/usage. 
 - maybe go for a bike ride since the weather should be nice
 - 
 
