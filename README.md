@@ -8,6 +8,8 @@ Goals for today:
 - DONE - bike moved, finally! ~~maybe go for a bike ride since the weather should be nice~~
 - ThreeJS - Materials lesson
 
+I rushed through the back half of the Textures lesson because it was so boring. I think it's not a bad idea to get through the beginner basics ones and revisit as necessary. 
+
 ## 2/20/26 
 Goals for today: 
 - DONE ~~write out the minor scales~~ wrote out natural minor scales. didnt do harmonic or melodic. i think learning natural minor in circle of fifths/fourths is priority. 
