@@ -6,6 +6,8 @@ Goals for today:
 
 Feeling a bit empty lately. I think I need something more engaging than learning stuff.  
 
+watched a few videos on music production, daws tutorials. 
+
 ## 2/22/26 - Sunday
 Goals for today: 
 - DONE ~~Went to gym - Set A~~
