@@ -3,7 +3,8 @@
 ## 2/23/26 - Monday 
 Goals for today: 
 - ThreeJS - 3D Text lesson
-- 
+
+Feeling a bit empty lately. I think I need something more engaging than learning stuff.  
 
 ## 2/22/26 - Sunday
 Goals for today: 
