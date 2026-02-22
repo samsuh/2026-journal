@@ -6,7 +6,7 @@ Goals for today:
 - DONE ~~Went to gym - Set A~~
 - ThreeJS - Materials lesson
 - Music - Learn some chord progressions
-- Music - Learn song structure; implement song structure in DAW
+- DONE ~~Music - Learn song structure; implement song structure in DAW~~ "Pop Structure" Template created
   
 # 2/21/26 - Saturday 
 physical reset yesterday. sleep, food, a bit on caffeine. 
