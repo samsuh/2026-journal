@@ -11,10 +11,10 @@ Goals for today:
 ### Song Writing 
 Interesting concept of writing the melody first, and deriving the chord progression from the melody. 
 
-Step 1: Pick a key; this will give us access to good sounding chords and shapes (guitar). Exmaple C Major
-Step 2: Write a melody on any single string (guitar); rhythm doesnt matter yet. Ex: G string; CDGEDE (pentatonic sounding) 
-Step 3: Write chords underneath the melody; "thicken the line". C note; Amin7, G7sus4, C7/E, C/E, C root, Dmin7. He goes with Dmin7. Treat melody note as third or seventh of whatever chord you're going to form, that's a trick to sounding good. 
-Step 4: Harmonize melody using 7th chord shell voicings; stack chord shell notes beneath the melody note. Other examples: First inversion triads. Mess with other shapes. Try sus chords. 
+- Step 1: Pick a key; this will give us access to good sounding chords and shapes (guitar). Exmaple C Major
+- Step 2: Write a melody on any single string (guitar); rhythm doesnt matter yet. Ex: G string; CDGEDE (pentatonic sounding) 
+- Step 3: Write chords underneath the melody; "thicken the line". C note; Amin7, G7sus4, C7/E, C/E, C root, Dmin7. He goes with Dmin7. Treat melody note as third or seventh of whatever chord you're going to form, that's a trick to sounding good. 
+- Step 4: Harmonize melody using 7th chord shell voicings; stack chord shell notes beneath the melody note. Other examples: First inversion triads. Mess with other shapes. Try sus chords. 
 Second chord progression; Treat each note in the melody as upper structure in a series of chord voicings. 
 E goes with Dmin9, F7, C7. G. 
 Combine second progression with first. 
