@@ -21,6 +21,9 @@ Combine second progression with first.
 
 This was misleading, because it's not exactly using "melody first". it's using key first, and essentially choosing a chord progression, but using the melody to choose the voicings of the chords. So it's more accurtely "choose chord voicings in your progressions using a melody" 
 
+### ThreeJS 
+I'm noticing that I'm hesitant to jump back into ThreeJS. there's resistance in going back into it, mainly because I know it's gonna be boring, and I dont want to start and stop it. It's so boring, and painful to endure through. There's only a few more lessons in the "Basics" section, and I'm wondering if it gets better and more engaging after that. The feeling is like reading documentation with no direction. 
+
   
 ## 2/21/26 - Saturday 
 physical reset yesterday. sleep, food, a bit on caffeine. 
