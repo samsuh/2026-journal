@@ -19,7 +19,7 @@ Second chord progression; Treat each note in the melody as upper structure in a 
 E goes with Dmin9, F7, C7. G. 
 Combine second progression with first. 
 
-This was a bit deceitful, because it's not exactly using "melody first". it's using key first, and essentially choosing a chord progression, but using the melody to choose the voicings of the chords. So it's more accurtely "choose chord voicings in your progressions using a melody" 
+This was misleading, because it's not exactly using "melody first". it's using key first, and essentially choosing a chord progression, but using the melody to choose the voicings of the chords. So it's more accurtely "choose chord voicings in your progressions using a melody" 
 
   
 ## 2/21/26 - Saturday 
