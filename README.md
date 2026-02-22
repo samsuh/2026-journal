@@ -1,12 +1,20 @@
 # 2026-journal
 
+
+# 2/22/26 - Sunday
+Goals for today: 
+- DONE ~~Went to gym - Set A~~
+- ThreeJS - Materials lesson
+- Music - Learn some chord progressions
+- Music - Learn song structure; implement song structure in DAW
+  
 # 2/21/26 - Saturday 
 physical reset yesterday. sleep, food, a bit on caffeine. 
 
 Goals for today: 
 - DONE ~~do the rest of ThreeJS - Textures~~ that was so painful to get through. It's so hard to power through boring irrelevant stuff when there's no connection to relevance/usage. 
 - DONE - bike moved, finally! ~~maybe go for a bike ride since the weather should be nice~~
-- ThreeJS - Materials lesson
+- CARRY_OVER - ThreeJS - Materials lesson
 
 I rushed through the back half of the Textures lesson because it was so boring. I think it's not a bad idea to get through the beginner basics ones and revisit as necessary. 
 
