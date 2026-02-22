@@ -1,10 +1,14 @@
 # 2026-journal
 
+## 2/23/26 - Monday 
+Goals for today: 
+- ThreeJS - 3D Text lesson
+- 
 
 ## 2/22/26 - Sunday
 Goals for today: 
 - DONE ~~Went to gym - Set A~~
-- ThreeJS - Materials lesson
+- DONE ~~ThreeJS - Materials lesson~~
 - DONE ~~Music - Learn some chord progressions~~
 - DONE ~~Music - Learn song structure; implement song structure in DAW~~ "Pop Structure" Template created
 
