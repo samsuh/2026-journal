@@ -4,6 +4,9 @@
 Goals for today: 
 - ThreeJS - Lights
 - ThreeJS - Shadows
+- DONE ~~Gym - Set B~~
+- Hair at 4pm
+- Music - record 1 second of guitar/bass
 
 ### Songwriting
 i thought this video was pretty lame, but it's helping. https://youtu.be/elxtctZlgBM?si=WSTnS8j3L1mhokUv
