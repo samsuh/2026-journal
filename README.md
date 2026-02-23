@@ -2,11 +2,14 @@
 
 ## 2/23/26 - Monday 
 Goals for today: 
-- ThreeJS - 3D Text lesson
+- DONE ~~ThreeJS - 3D Text lesson~~
 
 Feeling a bit empty lately. I think I need something more engaging than learning stuff.  
 
 watched a few videos on music production, daws tutorials. 
+
+### ThreeJS 
+Got through all of the basic lessons. It sped up after getting through the boring texture/material lessons. I think part of what was appealing about learning this in the first place was the idea of being able to express creativity. I'm not sure I feel creative lately though, which is ironically the current limitation. 
 
 ## 2/22/26 - Sunday
 Goals for today: 
