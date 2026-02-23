@@ -11,7 +11,7 @@ i thought this video was pretty lame, but it's helping. https://youtu.be/elxtctZ
 1. concept
 2. chords - set a mood 
 3. melody - try a bunch of stuff and see what sticks. loop the chord progression and just sing/hum stuff trying to convey the feeling. let go and sing whatever comes naturally. 
-4. lyrics
+4. lyrics - lower the stakes. just get something that fits for now as a starting point. try to match the melody and concept of the song. 
 
 ## 2/23/26 - Monday 
 Goals for today: 
