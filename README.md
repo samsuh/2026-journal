@@ -1,10 +1,15 @@
 # 2026-journal
 
+## 2/24/26 - Tuesday 
+Goals for today: 
+- ThreeJS - Lights
+- ThreeJS - Shadows
+
 ## 2/23/26 - Monday 
 Goals for today: 
 - DONE ~~ThreeJS - 3D Text lesson~~
 
-Feeling a bit empty lately. I think I need something more engaging than learning stuff.  
+Feeling a bit empty lately. I think I need something more engaging than learning stuff. Had a persistent headache all day; not sure where from; maybe took too long to get first coffee, and it's a caffeine withdrawal headache. 
 
 watched a few videos on music production, daws tutorials. 
 
