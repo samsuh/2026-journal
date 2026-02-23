@@ -5,6 +5,14 @@ Goals for today:
 - ThreeJS - Lights
 - ThreeJS - Shadows
 
+### Songwriting
+i thought this video was pretty lame, but it's helping. https://youtu.be/elxtctZlgBM?si=WSTnS8j3L1mhokUv
+
+1. concept
+2. chords - set a mood 
+3. melody - try a bunch of stuff and see what sticks. loop the chord progression and just sing/hum stuff trying to convey the feeling. let go and sing whatever comes naturally. 
+4. lyrics
+
 ## 2/23/26 - Monday 
 Goals for today: 
 - DONE ~~ThreeJS - 3D Text lesson~~
