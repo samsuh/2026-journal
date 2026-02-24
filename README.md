@@ -6,7 +6,7 @@ Goals for today:
 - ThreeJS - Shadows
 - DONE ~~Gym - Set B~~
 - DONE ~~Hair at 4pm~~ Got a lot of good thinking done during it. 
-- Music - record 1 second of guitar/bass
+- DONE ~~Music - record 1 second of guitar/bass~~ not ideal. would want a cleaner setup, and also need to practice guitar and bass. oof. thats a whole other skillset. 
 
 Project ideas: 
 - FFT x DSP x ECC. find the overlap and see what comes from it 
