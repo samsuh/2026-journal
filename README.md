@@ -3,7 +3,7 @@
 ## 2/24/26 - Tuesday 
 Goals for today: 
 - ThreeJS - Lights
-- ThreeJS - Shadows
+- ThreeJS - Shadows (this seems like a stretch goal)
 - DONE ~~Gym - Set B~~
 - DONE ~~Hair at 4pm~~ Got a lot of good thinking done during it. 
 - DONE ~~Music - record 1 second of guitar/bass~~ not ideal. would want a cleaner setup, and also need to practice guitar and bass. oof. thats a whole other skillset. 
