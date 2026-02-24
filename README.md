@@ -5,8 +5,13 @@ Goals for today:
 - ThreeJS - Lights
 - ThreeJS - Shadows
 - DONE ~~Gym - Set B~~
-- Hair at 4pm
+- DONE ~~Hair at 4pm~~ Got a lot of good thinking done during it. 
 - Music - record 1 second of guitar/bass
+
+Project ideas: 
+- FFT x DSP x ECC. find the overlap and see what comes from it 
+- 3d planning ui. figure out how to make performant 'nodes' as tasks, and how to efficienctly fetch updated data, and use the 3d space to map interactions and thoughts out better
+- ai manager as opposed to ai assistant. it does work while youre not actively watching it, and it presents you good choices only. 
 
 ### Songwriting
 i thought this video was pretty lame, but it's helping. https://youtu.be/elxtctZlgBM?si=WSTnS8j3L1mhokUv
