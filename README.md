@@ -11,12 +11,12 @@ Goals for today:
 - ThreeJS - Shadows (this seems like a stretch goal)
 - DONE ~~Gym - Set B~~
 - DONE ~~Hair at 4pm~~ Got a lot of good thinking done during it. 
-- DONE ~~Music - record 1 second of guitar/bass~~ not ideal. would want a cleaner setup, and also need to practice guitar and bass. oof. thats a whole other skillset. 
+- DONE ~~Music - record 1 second of guitar/bass~~ not ideal. would want a cleaner setup, and also need to practice guitar and bass. oof. thats a whole other skillset.
 
 Project ideas: 
 - FFT x DSP x ECC. find the overlap and see what comes from it 
 - 3d planning ui. figure out how to make performant 'nodes' as tasks, and how to efficienctly fetch updated data, and use the 3d space to map interactions and thoughts out better
-- ai manager as opposed to ai assistant. it does work while youre not actively watching it, and it presents you good choices only. 
+- ai manager as opposed to ai assistant. it does work while youre not actively watching it, and it presents you good choices only.
 
 ### Songwriting
 i thought this video was pretty lame, but it's helping. https://youtu.be/elxtctZlgBM?si=WSTnS8j3L1mhokUv
@@ -25,6 +25,24 @@ i thought this video was pretty lame, but it's helping. https://youtu.be/elxtctZ
 2. chords - set a mood 
 3. melody - try a bunch of stuff and see what sticks. loop the chord progression and just sing/hum stuff trying to convey the feeling. let go and sing whatever comes naturally. 
 4. lyrics - lower the stakes. just get something that fits for now as a starting point. try to match the melody and concept of the song. 
+
+### ThreeJS - Lights 
+There are lots of types of lights and each has different behaviors, and performance costs. Use as few lights as possible since lights are computationally expensive. If you need a very specific lighting scenario, `bake` the light into the texture, the tradeoff is you cannot move the light. 
+
+Low cost lights: 
+- AmbientLight
+- HemisphereLight
+
+Medium cost lights: 
+- DirectionalLight
+- PointLight
+
+High cost lights:
+- SpotLight
+- RectAreaLight
+
+Positioning lights is hard because you cannot see the light itself, only the effect the light has on stuff in the scene. LightHelper `const hemisphereLightHelper = new THREE.HemisphereLightHelper(hemisphereLight, 0.2)` (add the light object and a size) will add a little prism-looking object wireframe into the scene to visualize the light source. `DirectionalLightHelper` will give a plane with a vector to show the source and direction of the directional light. 
+
 
 ## 2/23/26 - Monday 
 Goals for today: 
