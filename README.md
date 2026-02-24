@@ -22,7 +22,9 @@ There are other types of shadowmap algorithms for `renderer.shadowMap.type = THR
 - PCFShadowMap (default) - less performant but smoother edges
 - BasicShadowMap - very performant but low quality
 - PCFSoftShadowMap - less performant even better edges
-- VSMShadowMap - less performant, more constraints, potentially unexpected results. 
+- VSMShadowMap - less performant, more constraints, potentially unexpected results.
+
+Calcualting shadows is expensive. you can simulate shadows by using a baked shadow, putting it on your surface and moving it along with your animation, like shadow under a bouncing ball. 
 
 ## 2/24/26 - Tuesday 
 Goals for today: 
