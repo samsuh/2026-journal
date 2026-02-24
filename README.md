@@ -16,7 +16,13 @@ Only three lights support shadows: PointLight, DirectionalLight, SpotLight.
 
 ShadowMaps can be optimized; shadowmaps have width and height (the size and resolution of the 2d image of what the lights can see). 
 `directionalLight.shadow.mapSize.width = 1024` and height. the 1024 is mip mapping; has to be power of 2. 
-Can also control Near/Far, which doesnt help that much but will prevent glitches in the shadow. Get the `directionalLight.camera` box as small as you will reasonably use. it helps improve resolution of the shadow for the same performance since it's only computing what it needs to for the same resolution. 
+Can also control Near/Far, which doesnt help that much but will prevent glitches in the shadow. Get the `directionalLight.camera` box as small as you will reasonably use. it helps improve resolution of the shadow for the same performance since it's only computing what it needs to for the same resolution. Default shadowmap is PCFShadowMap (less performant but smoother edges). 
+
+There are other types of shadowmap algorithms for `renderer.shadowMap.type = THREE.PCFSoftShadowMap`
+- PCFShadowMap (default) - less performant but smoother edges
+- BasicShadowMap - very performant but low quality
+- PCFSoftShadowMap - less performant even better edges
+- VSMShadowMap - less performant, more constraints, potentially unexpected results. 
 
 ## 2/24/26 - Tuesday 
 Goals for today: 
