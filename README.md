@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 2/25/26 - Wednesday 
+Goals for today: 
+- Parents visiting town - go see them
+- 
+
 ## 2/24/26 - Tuesday 
 Goals for today: 
 - ThreeJS - Lights
