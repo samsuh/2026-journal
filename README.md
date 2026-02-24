@@ -3,7 +3,20 @@
 ## 2/25/26 - Wednesday 
 Goals for today: 
 - Parents visiting town - go see them
-- 
+- ThreeJS - Shadows
+
+### ThreeJS - Shadows
+Core shadows are on by default, but we want Drop Shadows. Rendering image is fine for complex images, but we need to do 60 renders per second, so it can get intensive. To get shadows, we need depth, so all materials will be replaced by `MeshDepthMaterial` to calculate shadows. Renders are stored as `textures` and those textures are called "shadow maps", which are then received by `materials` to project on the `geometry`. It's basically a 2d image of what's visible if i was the light at every frame; anything not visible would be in shadow. 
+
+Activating shadows is not hard, but optimizing shadows is the hard part. 
+`renderer.shadpwMap.enabled = true` and go to each object to see if it can receive a shadow, and if it can cast a shadow. 
+`sphere.castShadow = true` and `plane.receiveShadow = true` 
+`directionalLight.castShadow = true`
+Only three lights support shadows: PointLight, DirectionalLight, SpotLight.
+
+ShadowMaps can be optimized; shadowmaps have width and height (the size and resolution of the 2d image of what the lights can see). 
+`directionalLight.shadow.mapSize.width = 1024` and height. the 1024 is mip mapping; has to be power of 2. 
+Can also control Near/Far, which doesnt help that much but will prevent glitches in the shadow. Get the `directionalLight.camera` box as small as you will reasonably use. it helps improve resolution of the shadow for the same performance since it's only computing what it needs to for the same resolution. 
 
 ## 2/24/26 - Tuesday 
 Goals for today: 
