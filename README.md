@@ -7,7 +7,7 @@ Goals for today:
 
 ## 2/24/26 - Tuesday 
 Goals for today: 
-- ThreeJS - Lights
+- DONE ~~ThreeJS - Lights~~
 - ThreeJS - Shadows (this seems like a stretch goal)
 - DONE ~~Gym - Set B~~
 - DONE ~~Hair at 4pm~~ Got a lot of good thinking done during it. 
