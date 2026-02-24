@@ -3,7 +3,7 @@
 ## 2/25/26 - Wednesday 
 Goals for today: 
 - Parents visiting town - go see them
-- ThreeJS - Shadows
+- DONE ~~ThreeJS - Shadows~~
 
 ### ThreeJS - Shadows
 Core shadows are on by default, but we want Drop Shadows. Rendering image is fine for complex images, but we need to do 60 renders per second, so it can get intensive. To get shadows, we need depth, so all materials will be replaced by `MeshDepthMaterial` to calculate shadows. Renders are stored as `textures` and those textures are called "shadow maps", which are then received by `materials` to project on the `geometry`. It's basically a 2d image of what's visible if i was the light at every frame; anything not visible would be in shadow. 
