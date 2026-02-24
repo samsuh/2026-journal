@@ -41,8 +41,7 @@ High cost lights:
 - SpotLight
 - RectAreaLight
 
-Positioning lights is hard because you cannot see the light itself, only the effect the light has on stuff in the scene. LightHelper `const hemisphereLightHelper = new THREE.HemisphereLightHelper(hemisphereLight, 0.2)` (add the light object and a size) will add a little prism-looking object wireframe into the scene to visualize the light source. `DirectionalLightHelper` will give a plane with a vector to show the source and direction of the directional light. 
-
+Positioning lights is hard because you cannot see the light itself, only the effect the light has on stuff in the scene. LightHelper `const hemisphereLightHelper = new THREE.HemisphereLightHelper(hemisphereLight, 0.2)` (add the light object and a size) will add a little prism-looking object wireframe into the scene to visualize the light source. `DirectionalLightHelper` will give a plane with a vector to show the source and direction of the directional light. `RectAreaLightHelper` has to be imported differently. Once youre happy with the lights in the scene, you can remove the Helpers. 
 
 ## 2/23/26 - Monday 
 Goals for today: 
