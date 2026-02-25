@@ -1,8 +1,14 @@
 # 2026-journal
 
+## 2/26/26 - Thursday 
+Goals for today: 
+- Gym, set A
+- ThreeJS - start Haunted House (its 3x as long as the others)
+- Follow up on ideas and loose threads. 
+
 ## 2/25/26 - Wednesday 
 Goals for today: 
-- Parents visiting town - go see them
+- DONE, kind of. ~~Parents visiting town - go see them~~ prepped their place, but got tired of waiting so i left before seeing them. might see them in a few days since theyll be here a while.
 - DONE ~~ThreeJS - Shadows~~
 
 ### ThreeJS - Shadows
