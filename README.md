@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 2/27/26 - Friday 
+Goals for today: 
+- Get through Haunted House Texturing. 
+
 ## 2/26/26 - Thursday 
 Goals for today: 
 - DONE ~~Gym, set A~~
