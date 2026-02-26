@@ -10,6 +10,7 @@ Goals for today:
 3D shape rendering using fft is interesting. Is there such a thing as 3D signal rendering? 
 
 Does it make any sense to use 3d UI? Look into some 3d ui projects, im sure someone must have thought of that before. 
+- https://youtu.be/Fhlw88_Beu4?si=kN2axHleLicE2QtQ talks about designing ui in vr. it highlights the flaws in a lot of vr design. the interesting part for me was near the end when he talks about the things apple vision pro does right, and it breaks down the 'shared space' like a home room, and how there are different types of applications based on its space-usage-needs. windows that can be put on 2d surfaces, spatial 3d that takes up some volume of space, and immersive experiences that are like the 3d equivalent of 'fullscreen' apps. I keep coming back to the thought of that perspectives game i saw clips of where the perspective-size of an object is changed relative to its context. so put something close to you, then the volume actually changes to be bigger. maybe i should find and play that. 
 
 Break down the inputs and outputs of an ai manager. 
 
