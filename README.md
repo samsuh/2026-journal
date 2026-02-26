@@ -3,8 +3,8 @@
 ## 2/26/26 - Thursday 
 Goals for today: 
 - DONE ~~Gym, set A~~
-- ThreeJS - start Haunted House (its 3x as long as the others). Get up to Texturing section. 
-- Follow up on ideas and loose threads.
+- STARTED ThreeJS - start Haunted House (its 3x as long as the others). Get up to Texturing section. 
+- DONE ~~Follow up on ideas and loose threads.~~
 
 ### Ideas
 3D shape rendering using fft is interesting. Is there such a thing as 3D signal rendering? 
