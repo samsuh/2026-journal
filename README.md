@@ -2,9 +2,16 @@
 
 ## 2/26/26 - Thursday 
 Goals for today: 
-- Gym, set A
-- ThreeJS - start Haunted House (its 3x as long as the others)
-- Follow up on ideas and loose threads. 
+- DONE ~~Gym, set A~~
+- ThreeJS - start Haunted House (its 3x as long as the others). Get up to Texturing section. 
+- Follow up on ideas and loose threads.
+
+### Ideas
+3D shape rendering using fft is interesting. Is there such a thing as 3D signal rendering? 
+
+Does it make any sense to use 3d UI? Look into some 3d ui projects, im sure someone must have thought of that before. 
+
+Break down the inputs and outputs of an ai manager. 
 
 ## 2/25/26 - Wednesday 
 Goals for today: 
