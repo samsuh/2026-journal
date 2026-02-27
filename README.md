@@ -1,6 +1,7 @@
 # 2026-journal
 
 ## 2/28/26 - Saturday 
+- Gym - Set B
 - 8pm going away dinner for H
 
 ## 2/27/26 - Friday 
