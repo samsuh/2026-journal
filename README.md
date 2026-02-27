@@ -9,6 +9,9 @@ Longer term goal:
   - drums: https://youtube.com/shorts/Ayb3YyV6F8o?si=kxjomaWMp4cbvzwR
 - short of someone making a beat: https://youtube.com/shorts/rvN5udGOJ4A?si=tEfPOrqe53mNqRuc
 
+Thoughts: 
+- What if i could make a song incorporating the fact that a scale has 7 notes, and a week also has 7 days. One note for each day of the week; build meaning off that. 
+
 ## 2/26/26 - Thursday 
 Goals for today: 
 - DONE ~~Gym, set A~~
