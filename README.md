@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 2/28/26 - Saturday 
+- Parents visiting my place
+
 ## 2/27/26 - Friday 
 Goals for today: 
 - Get through Haunted House Texturing.
