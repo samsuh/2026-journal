@@ -15,6 +15,8 @@ Revisiting this channel https://www.youtube.com/@MichaelNew/videos and i think i
 
 Chord progressions are starting from a place of comfort and rest, moving us to somewhere less comfortable with some tension, then coming back to rest. It's ironic because that sounds like any story, like the hero's journey. 
 
+Inversions can smoothen the movement between chords instead of jumping around octavely
+
 ## 2/27/26 - Friday 
 Goals for today: 
 - NOT HAPPENING -- ThreeJS - Get through Haunted House Texturing.
