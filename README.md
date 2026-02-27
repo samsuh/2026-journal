@@ -10,6 +10,9 @@ Watched a video about stems. seems useful, but seems less in-the-flow of playing
 ### ThreeJS 
 Taking some time away helped get my mind to reset on threejs. jumped into hauntedhouse, and it's affirming to be able to do the very basic stuff on my own without following along. 
 
+### Music Theory 
+Revisiting this channel https://www.youtube.com/@MichaelNew/videos and i think i'm close to understanding chord progressions, but i think i need more practice on stuff because i'm falling off the understanding wagon and it's hard to get back on in the same learning session. I think what would help is to narrow down to one key and start exploring within the key. Maybe D Major? or maybe find a simple chord progression and learn those one by one. 
+
 ## 2/27/26 - Friday 
 Goals for today: 
 - NOT HAPPENING -- ThreeJS - Get through Haunted House Texturing.
