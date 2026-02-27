@@ -1,11 +1,12 @@
 # 2026-journal
 
 ## 2/28/26 - Saturday 
-- Parents visiting my place
+
 
 ## 2/27/26 - Friday 
 Goals for today: 
-- Get through Haunted House Texturing.
+- NOT HAPPENING -- Get through Haunted House Texturing.
+My brain just is not engaging on this one. partly because it's a 3 hour commitment to get through just the video, let alone absorbing the info. I find myself putting this off until I can be fully present to focus on it with rigor. Another factor is that I dont particularly enjoy the theme of haunted houses, and no real part of it pulls me as a project. I would need to reframe this for what it is, just a way to do a few basic things in a scene at once. Either way, maybe the solution is just to speed it up and power through it. I find myself powering through a lot of threejs videos lately, and it makes me question my basis for dedicating the time to learning all this again. it feels like a lot of laying groundwork, and im out of momentum already before i have anything to show for it. maybe take a full break and come back to it later as an alternative. if i find myself without completing this section by monday march 2nd, then ill shelf threejs for a few weeks and focus on other stuff. 
 
 Longer term goal: 
 - Remake radiohead - creep in a daw.
