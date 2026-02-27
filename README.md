@@ -7,6 +7,7 @@ Goals for today:
 Longer term goal: 
 - Remake radiohead - creep in a daw.
   - drums: https://youtube.com/shorts/Ayb3YyV6F8o?si=kxjomaWMp4cbvzwR
+- short of someone making a beat: https://youtube.com/shorts/rvN5udGOJ4A?si=tEfPOrqe53mNqRuc
 
 ## 2/26/26 - Thursday 
 Goals for today: 
