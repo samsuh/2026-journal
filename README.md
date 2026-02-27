@@ -2,7 +2,11 @@
 
 ## 2/27/26 - Friday 
 Goals for today: 
-- Get through Haunted House Texturing. 
+- Get through Haunted House Texturing.
+
+Longer term goal: 
+- Remake radiohead - creep in a daw.
+  - drums: https://youtube.com/shorts/Ayb3YyV6F8o?si=kxjomaWMp4cbvzwR
 
 ## 2/26/26 - Thursday 
 Goals for today: 
