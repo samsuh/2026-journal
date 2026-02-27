@@ -7,6 +7,9 @@
 ### DJing
 Watched a video about stems. seems useful, but seems less in-the-flow of playing music, and more playing inside a single song; mashups and stuff to put on a display of skill for the audience. techniques shown are "look at me" but the actual stems stuff might be usable for less attention-grabbing things 
 
+### ThreeJS 
+Taking some time away helped get my mind to reset on threejs. jumped into hauntedhouse, and it's affirming to be able to do the very basic stuff on my own without following along. 
+
 ## 2/27/26 - Friday 
 Goals for today: 
 - NOT HAPPENING -- ThreeJS - Get through Haunted House Texturing.
