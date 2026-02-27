@@ -17,6 +17,8 @@ Chord progressions are starting from a place of comfort and rest, moving us to s
 
 Inversions can smoothen the movement between chords instead of jumping around octavely
 
+Need melody to inform what the chord progression could be doing 
+
 ## 2/27/26 - Friday 
 Goals for today: 
 - NOT HAPPENING -- ThreeJS - Get through Haunted House Texturing.
