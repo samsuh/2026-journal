@@ -3,7 +3,7 @@
 ## 2/28/26 - Saturday 
 - DONE ~~Gym - Set B~~
 - 8pm going away dinner for H
-- figure out kepco billing invice. shouldve been handled already why another? 
+- DONE ~~figure out kepco billing invice. shouldve been handled already why another?~~
 
 ### DJing
 Watched a video about stems. seems useful, but seems less in-the-flow of playing music, and more playing inside a single song; mashups and stuff to put on a display of skill for the audience. techniques shown are "look at me" but the actual stems stuff might be usable for less attention-grabbing things 
