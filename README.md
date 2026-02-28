@@ -1,8 +1,13 @@
 # 2026-journal
 
+## 2/29/26 - Sunday
+Goals for today: 
+- Finish up haunted house
+- 
+
 ## 2/28/26 - Saturday 
 - DONE ~~Gym - Set B~~
-- 8pm going away dinner for H
+- DONE ~~8pm going away dinner for H~~
 - DONE ~~figure out kepco billing invice. shouldve been handled already why another?~~
 
 ### DJing
