@@ -16,7 +16,7 @@ Revisiting this channel https://www.youtube.com/@MichaelNew/videos and i think i
 
 Chord progressions are starting from a place of comfort and rest, moving us to somewhere less comfortable with some tension, then coming back to rest. It's ironic because that sounds like any story, like the hero's journey. 
 
-Inversions can smoothen the movement between chords instead of jumping around octavely
+Inversions can smoothen the movement between chords instead of jumping around octavely. Apparently its a rule for chords that consecutive notes must be a third apart (major or minor) but cant be more/less than that. So if you keep widening a chord, eventually you break through back into a different chord.  
 
 Need melody to inform what the chord progression could be doing 
 
