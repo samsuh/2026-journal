@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 2/28/26 - Saturday 
-- Gym - Set B
+- DONE ~~Gym - Set B~~
 - 8pm going away dinner for H
 
 ### DJing
