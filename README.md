@@ -1,6 +1,6 @@
 # 2026-journal
 
-## 2/29/26 - Sunday
+## 3/1/26 - Sunday
 Goals for today: 
 - Finish up haunted house
   - got through the initial floor implementation. pretty straightforward.
