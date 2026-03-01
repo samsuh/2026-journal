@@ -5,6 +5,7 @@ Goals for today:
 - Finish up haunted house
   - got through the initial floor implementation. pretty straightforward.
   - going through finding textures online. polyhaven. "coast sand rock 02" for floor texture
+  - got through floor, wall. roof next. 
 
 ## 2/28/26 - Saturday 
 - DONE ~~Gym - Set B~~
