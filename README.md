@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 3/3/26 - Tuesday 
+
+
 ## 3/2/26 - Monday 
 Goal for today: 
 - DONE ~~look up a list of all the different kinds of scales. major/minor/blues?~~
