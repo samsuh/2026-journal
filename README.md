@@ -4,6 +4,7 @@
 Goal for today: 
 - look up a list of all the different kinds of scales. major/minor/blues?
 - make the scale paper guides for all the different types of scales.
+- Continue haunted house
 
 ### Music theory
 the scales on pieces of paper can be transposed to different scales. 
@@ -12,7 +13,7 @@ Made one for major scale on my smaller keyboard.
 
 ## 3/1/26 - Sunday
 Goals for today: 
-- Finish up haunted house
+- PROGRESS ~~Finish up haunted house~~ didnt finish, but made progress. 
   - got through the initial floor implementation. pretty straightforward.
   - going through finding textures online. polyhaven. "coast sand rock 02" for floor texture
   - got through floor, wall. roof next. 
