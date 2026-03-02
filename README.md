@@ -2,9 +2,12 @@
 
 ## 3/2/26 - Monday 
 Goal for today: 
-- look up a list of all the different kinds of scales. major/minor/blues?
+- DONE ~~look up a list of all the different kinds of scales. major/minor/blues?~~
+  - https://www.allthescales.org/
+  - theres a lot more than i thought. maybe just dumb it down to practical stuff like major and the 3 minors for now.
 - make the scale paper guides for all the different types of scales.
-- Continue haunted house
+- PUTTING OFF - Continue haunted house (haunted house paused basically on 2/28, it's already been a few days of minimal progress). 
+  - I really don't have motivation to work on this, and something about it is keeping me away from it. I should spend some time thinking about why this is so hard for me to start on. Maybe something about the fact that it seems like a pointless endeavor that's just an exercise. i understand that there's a lot of learning that's supposed to be happening, but i'm just not interested in it. i also feel like i skipped a bunch of stuff up to this point because i sped through the previous boring materials. maybe part of me is worried that progressing through this will just lead to yet another boring project that i could bring myself to magically motivate myself to get through. then there'll be another boring project after that, and another boring project after that. in other words there's a motivation disconnect, because i'm not excited to learn about this particular piece of knowledge, and then tracking down the weird variations in this topic, and the exceptions to the topic, and all the details. i dont care. i dont know what im gonna do with it once i get through this chapter. 
 
 ### Music theory
 the scales on pieces of paper can be transposed to different scales. 
