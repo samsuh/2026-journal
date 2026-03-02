@@ -1,5 +1,15 @@
 # 2026-journal
 
+## 3/2/26 - Monday 
+Goal for today: 
+- look up a list of all the different kinds of scales. major/minor/blues?
+- make the scale paper guides for all the different types of scales.
+
+### Music theory
+the scales on pieces of paper can be transposed to different scales. 
+https://youtube.com/shorts/6hr-goI85Co?si=ceCoTcFokrGmkKD3
+Made one for major scale on my smaller keyboard. 
+
 ## 3/1/26 - Sunday
 Goals for today: 
 - Finish up haunted house
