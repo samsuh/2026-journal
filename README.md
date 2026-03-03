@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 3/3/26 - Tuesday 
-
+I think maybe it's a good day for a veg day. last one seems to have been about 2 weeks ago. makes sense. 
 
 ## 3/2/26 - Monday 
 Goal for today: 
