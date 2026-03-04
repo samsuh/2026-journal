@@ -1,7 +1,17 @@
 # 2026-journal
 
+## 3/5/26 - Thursday 
+To do: 
+- meet L and D for dinner and hanging out afterwards
+  - maybe ride bike if i can get it out.
+- mess with ableton
+  - set up keylab in main room
+- make some progress on threejs stuff. 
+
 ## 3/4/26 - Wednesday 
 yesterday was mostly a veg and sleep day. there was a blood moon and eclipse last night, so took the time to go get a hot chocolate and watch the moon for a bit. 
+
+Went to gym, set B. 
 
 ### Music stuff
 - went to uplift. did ok. show went pretty well.
