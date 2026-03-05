@@ -2,8 +2,8 @@
 
 ## 3/5/26 - Thursday 
 To do: 
-- meet L and D for dinner and hanging out afterwards
-  - maybe ride bike if i can get it out.
+- DONE. was good, but i need to think about why im doing out to socialize to recenter my purpoe for going out. i find myself just wanting to go home. ~~meet L and D for dinner and hanging out afterwards~~
+  - rained, so didnt take bike. ~~maybe ride bike if i can get it out.~~
 - mess with ableton
   - set up keylab in main room
 - make some progress on threejs stuff. 
