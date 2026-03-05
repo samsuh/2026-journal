@@ -18,6 +18,8 @@ To do:
 ### Music Theory
 Getting through this long 3 hour music theory video. it's interesting how ive made some basic progress so the absolute beginner stuff i already know. https://youtu.be/Ud9CpGOG1GE?si=CugGPlX3AZVYM0x8
 
+Ableton Suite license transferred fine. 
+
 ## 3/4/26 - Wednesday 
 yesterday was mostly a veg and sleep day. there was a blood moon and eclipse last night, so took the time to go get a hot chocolate and watch the moon for a bit. 
 
