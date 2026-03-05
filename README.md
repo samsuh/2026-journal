@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 3/6/26 - Friday
+### Music Production - Ableton 
+long form video walking through building simple songs in ableton with multiple songs, getting more complex as we go. https://youtu.be/dt9SFEFe8ho?si=m12-LhNLaUE9pruF
+
+### ThreeJS
+didnt touch it the past few days, still stuck on haunted house. no motivation to continue on it. hard stuck on it. my brain seems to give 0 fks about progressing on it for the various reasons stated already. no dopamine from it, and forcing myself to grind through it feels like it will only unlock more grinding behind it, and more grinding behind that, with no clear path to dopamine payoff. 
+
 ## 3/5/26 - Thursday 
 To do: 
 - DONE. was good, but i need to think about why im doing out to socialize to recenter my purpoe for going out. i find myself just wanting to go home. ~~meet L and D for dinner and hanging out afterwards~~
