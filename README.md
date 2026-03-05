@@ -6,7 +6,10 @@ To do:
   - rained, so didnt take bike. ~~maybe ride bike if i can get it out.~~
 - mess with ableton
   - DONE ~~set up keylab in main room~~
-- make some progress on threejs stuff. 
+- make some progress on threejs stuff.
+
+### Music Theory
+Getting through this long 3 hour music theory video. it's interesting how ive made some basic progress so the absolute beginner stuff i already know. https://youtu.be/Ud9CpGOG1GE?si=CugGPlX3AZVYM0x8
 
 ## 3/4/26 - Wednesday 
 yesterday was mostly a veg and sleep day. there was a blood moon and eclipse last night, so took the time to go get a hot chocolate and watch the moon for a bit. 
