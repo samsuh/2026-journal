@@ -8,7 +8,10 @@ This has some really good tips for a beginner like me.
 - he lays down a chord progression loop starting from "i want it to be a I-iii-V-vii" or whatever progression.
 - lay out the notes in the chord, maybe invert them, or add additional notes to make it sound fuller.
 - separately, work on a rhythm using a single note, but break it up rythmically.
-- move the notes around in key either by looking at notes in the whole key, or follow along with the notes in the chord. 
+- move the notes around in key either by looking at notes in the whole key, or follow along with the notes in the chord.
+- consider adding multiple melodies, and give them their own space. maybe use different instruments so they dont clash. use different note ranges
+- eq things to give space
+- add bassline. 
 
 ### ThreeJS
 didnt touch it the past few days, still stuck on haunted house. no motivation to continue on it. hard stuck on it. my brain seems to give 0 fks about progressing on it for the various reasons stated already. no dopamine from it, and forcing myself to grind through it feels like it will only unlock more grinding behind it, and more grinding behind that, with no clear path to dopamine payoff. 
