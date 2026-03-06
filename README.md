@@ -7,6 +7,10 @@ long form video walking through building simple songs in ableton with multiple s
 ### ThreeJS
 didnt touch it the past few days, still stuck on haunted house. no motivation to continue on it. hard stuck on it. my brain seems to give 0 fks about progressing on it for the various reasons stated already. no dopamine from it, and forcing myself to grind through it feels like it will only unlock more grinding behind it, and more grinding behind that, with no clear path to dopamine payoff. 
 
+### Misc tasks 
+- almost forgot i moved hair thing to today
+- go out again for F's birthday? i dont particularly want to go out but i mentioned id stop by in passing, and i feel like it's important to follow through when you say things. 
+
 ## 3/5/26 - Thursday 
 To do: 
 - DONE. was good, but i need to think about why im doing out to socialize to recenter my purpoe for going out. i find myself just wanting to go home. ~~meet L and D for dinner and hanging out afterwards~~
