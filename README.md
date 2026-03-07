@@ -1,5 +1,13 @@
 # 2026-journal
 
+## 3/7/26 - Saturday 
+Slept well. 
+
+Goals for today: 
+- Get through that first song in ableton tutorial
+- Finish haunted house?
+- laundry for big items
+
 ## 3/6/26 - Friday
 ### Music Production - Ableton 
 long form video walking through building simple songs in ableton with multiple songs, getting more complex as we go. https://youtu.be/dt9SFEFe8ho?si=m12-LhNLaUE9pruF
