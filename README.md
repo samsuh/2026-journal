@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 3/8/26 - Sunday 
+Goals for today: 
+- gym. set B
+- get something in the daw.
+- continue on haunted house.
+
 ## 3/7/26 - Saturday 
 Slept well. 
 
