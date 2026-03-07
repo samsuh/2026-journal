@@ -6,6 +6,7 @@ Slept well.
 Goals for today: 
 - DONE ~~Get through that first song in ableton tutorial~~ watched it and payed attention, but did not yet follow along. 
 - Finish haunted house?
+  - Got through textures at least!
 - DONE ~~laundry for big items~~
 
 ## 3/6/26 - Friday
