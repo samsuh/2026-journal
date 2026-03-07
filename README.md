@@ -4,9 +4,9 @@
 Slept well. 
 
 Goals for today: 
-- Get through that first song in ableton tutorial
+- DONE ~~Get through that first song in ableton tutorial~~ watched it and payed attention, but did not yet follow along. 
 - Finish haunted house?
-- laundry for big items
+- DONE washed. drying now. marking as complete ~~laundry for big items~~
 
 ## 3/6/26 - Friday
 ### Music Production - Ableton 
