@@ -4,7 +4,7 @@
 Goals for today: 
 - DONE ~~gym. set B~~
 - get something in the daw.
-- PROGRESS ~~continue on haunted house~~ - ghosts done. shadows done. sky and fog done. next is texture optimization
+- DONE! damn that took so long. ~~continue on haunted house~~ - ghosts done. shadows done. sky and fog done. texture optimization done into webp. 
 
 ## 3/7/26 - Saturday 
 Slept well. 
