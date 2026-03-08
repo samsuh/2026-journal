@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/9/26 - Monday 
+Goals for today: 
+- Mess with DAW again
+
 ## 3/8/26 - Sunday 
 Goals for today: 
 - DONE ~~gym. set B~~
