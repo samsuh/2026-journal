@@ -3,7 +3,7 @@
 ## 3/8/26 - Sunday 
 Goals for today: 
 - DONE ~~gym. set B~~
-- get something in the daw.
+- DONE ~~get something in the daw.~~ got into it, it sucked! but it was not zero. 
 - DONE! damn that took so long. ~~continue on haunted house~~ - ghosts done. shadows done. sky and fog done. texture optimization done into webp. 
 
 ## 3/7/26 - Saturday 
