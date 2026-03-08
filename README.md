@@ -2,9 +2,9 @@
 
 ## 3/8/26 - Sunday 
 Goals for today: 
-- gym. set B
+- DONE ~~gym. set B~~
 - get something in the daw.
-- continue on haunted house.
+- PROGRESS ~~continue on haunted house~~ - ghosts done. shadows next. 
 
 ## 3/7/26 - Saturday 
 Slept well. 
