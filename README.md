@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/10/26 - Tuesday 
+Goals for today: 
+- None so far
+
 ## 3/9/26 - Monday 
 Goals for today: 
 - Mess with DAW again
