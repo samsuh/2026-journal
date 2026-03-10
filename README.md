@@ -3,7 +3,10 @@
 ## 3/10/26 - Tuesday 
 Goals for today: 
 - None so far
-- Went to gym. Set A. Need to warm up better before starting. Eating before gym was a bad idea. 
+- Went to gym. Set A. Need to warm up better before starting. Eating before gym was a bad idea.
+
+Thoughts: 
+- im definitely persisitently online. i think i need to spend more time offline, even if it feels like a waste of time, or being inefficient doing so. i should do explore some things i wanna do like shop for a new motorcycle helmet. mines coming up on the recommended duration, even if it hasnt had any impacts. it's at least good to figure out my exact sizes in the different brands, shoei, hjc, and to feel the build quality before committing to buying one. 
 
 ## 3/9/26 - Monday 
 Goals for today: 
