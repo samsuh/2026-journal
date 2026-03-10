@@ -3,6 +3,7 @@
 ## 3/10/26 - Tuesday 
 Goals for today: 
 - None so far
+- Went to gym. Set A. Need to warm up better before starting. Eating before gym was a bad idea. 
 
 ## 3/9/26 - Monday 
 Goals for today: 
