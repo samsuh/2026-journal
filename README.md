@@ -4,6 +4,9 @@
 Goals for today: 
 - none yet
 
+thoughts: 
+- why do we create?
+
 ## 3/10/26 - Tuesday 
 Goals for today: 
 - None so far
