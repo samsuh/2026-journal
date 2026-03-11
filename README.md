@@ -6,7 +6,7 @@ Goals for today:
 
 thoughts: 
 - why do we create? "the process is for me, the product is for the audience"
-- write down the biggest thing youre grappling with. write a metaphor for that. turn that into the plot of a story. 
+- write down the biggest thing youre grappling with. write a metaphor for that. turn that into the plot of a story. what feelings are underneath it?
 
 ## 3/10/26 - Tuesday 
 Goals for today: 
