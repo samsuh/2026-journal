@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/12/26 - Thursday 
+Goals for today: 
+- Hmm.
+
 ## 3/11/26 - Wednesday 
 Goals for today: 
 - none yet
