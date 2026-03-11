@@ -5,7 +5,7 @@ Goals for today:
 - none yet
 
 thoughts: 
-- why do we create?
+- why do we create? "the process is for me, the product is for the audience"
 
 ## 3/10/26 - Tuesday 
 Goals for today: 
