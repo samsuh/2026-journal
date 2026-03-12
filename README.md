@@ -6,6 +6,10 @@ Goals for today:
 - DONE ~~Visit SHOEI store. get sizing done.~~
   - turns out im not an XL. i should be wearing a Large!
   - Width 169, Length 203, Height 97
+  - my overview of different helmets, from shoei. i considered the gt-air3, the neotec3 modular, and the z8.
+    - the neotec is interesting as a modular, but is bigger and bulky and heavier at almost 2kg lots of features like modular and sun visor.
+    - the gt-air3 is right in the middle; non modular, but with sun visor, bulkier but not quite as bad around 1770.
+    - the z8 is simple and solid and very light at 1.4kg.
 
 Thoughts: 
 - Music feels less urgent and prominent lately. I still have not reached my personal goals yet, so I will keep going there, but I'm starting to feel a lack of direction and goal.
