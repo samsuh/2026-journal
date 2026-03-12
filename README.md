@@ -2,7 +2,11 @@
 
 ## 3/12/26 - Thursday 
 Goals for today: 
-- Hmm.
+- DONE ~~Went to gym. Set B.~~
+
+Thoughts: 
+- Music feels less urgent and prominent lately. I still have not reached my personal goals yet, so I will keep going there, but I'm starting to feel a lack of direction and goal.
+- AI stuff feels like it's re-emerging in prominence and it feels like it would be easy to start something up lately. Need to connect with a deeper purpose and go achieve something this year. 
 
 ## 3/11/26 - Wednesday 
 Goals for today: 
