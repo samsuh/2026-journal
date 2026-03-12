@@ -3,6 +3,9 @@
 ## 3/12/26 - Thursday 
 Goals for today: 
 - DONE ~~Went to gym. Set B.~~
+- DONE ~~Visit SHOEI store. get sizing done.~~
+  - turns out im not an XL. i should be wearing a Large!
+  - Width 169, Length 203, Height 97
 
 Thoughts: 
 - Music feels less urgent and prominent lately. I still have not reached my personal goals yet, so I will keep going there, but I'm starting to feel a lack of direction and goal.
