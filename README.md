@@ -2,7 +2,8 @@
 
 ## 3/13/26 - Friday 
 Goals for today: 
-- DONE ~~Find and purchase a SHOEI Z8 in White~~
+- Done but got cancelled ~~Find and purchase a SHOEI Z8 in White~~
+  - seller cant fulfill order. rip.
 
 Thoughts:
 - Not feeling super productive this week. Need to do something fun to re-energize. 
