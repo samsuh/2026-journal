@@ -2,6 +2,7 @@
 
 ## 3/13/26 - Friday 
 Goals for today: 
+- DONE ~~Find and purchase a SHOEI Z8 in White~~
 
 Thoughts:
 - Not feeling super productive this week. Need to do something fun to re-energize. 
