@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/13/26 - Friday 
+Goals for today: 
+- Not feeling super productive this week. Need to do something fun to re-energize. 
+
 ## 3/12/26 - Thursday 
 Goals for today: 
 - DONE ~~Went to gym. Set B.~~
