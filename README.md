@@ -2,6 +2,8 @@
 
 ## 3/13/26 - Friday 
 Goals for today: 
+
+Thoughts:
 - Not feeling super productive this week. Need to do something fun to re-energize. 
 
 ## 3/12/26 - Thursday 
