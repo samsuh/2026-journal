@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/14/26 - Saturday 
+- Picked up Cardo Packtalk Edge. It came with with 2 fullface helmet mics and lacking an openface boom mic. I don't plan to use the boom anyway, so i think this is fine.
+- Still looking at new helmets. im getting more solidifed on the Shoei Z8, since it's light, and doesnt have a bunch of features i wont use much (built in comms, sun visor, modularity). while those might be nice, i dont actively want them, especially for the tradeoff in weight and bulkiness. Sleek streamlined helmet is prob better. 
+
 ## 3/13/26 - Friday 
 Goals for today: 
 - Done but got cancelled ~~Find and purchase a SHOEI Z8 in White~~
