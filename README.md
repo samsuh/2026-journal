@@ -2,7 +2,7 @@
 
 ## 3/15/26 - Sunday
 - All the helmet shops are apparently closed on Sunday, and HJC is also closed sundays and mondays. So might be good to put helmet shopping on hold for a bit. Maybe scan the open box/used marketplaces for anything good. Shoei Z8 still in the lead, esp with the cardo committed, the built-in sena systems are adding bulk i dont want. 
-- Made plans to goto lunch and goto Seoul Community Radio in the afternoon. Debating riding my bike up. 
+- Made plans to goto lunch and goto Seoul Community Radio in the afternoon. Debating riding my bike up. It's drizzly today, so no on the bike idea. 
 
 ## 3/14/26 - Saturday 
 - Picked up Cardo Packtalk Edge. It came with with 2 fullface helmet mics and lacking an openface boom mic. I don't plan to use the boom anyway, so i think this is fine.
