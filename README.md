@@ -1,9 +1,13 @@
 # 2026-journal
 
+## 3/17/26 - Tuesday 
+
+
 ## 3/16/26 - Monday 
 Goals for today: 
-- Focus back on creating something. review projects in progress and do a status update, or assess progress this year. 
-- look up why i get bags under eyes. is it a health thing? coffee thing? im sleeping decently but its not going away. maybe an age thing? 
+- NOT DONE - didnt get to it. Focus back on creating something. review projects in progress and do a status update, or assess progress this year. 
+- DONE ~~look up why i get bags under eyes. is it a health thing? coffee thing? im sleeping decently but its not going away. maybe an age thing?~~ dehydration and age
+- DONE ~~Gym set B~~
 
 ## 3/15/26 - Sunday
 - All the helmet shops are apparently closed on Sunday, and HJC is also closed sundays and mondays. So might be good to put helmet shopping on hold for a bit. Maybe scan the open box/used marketplaces for anything good. Shoei Z8 still in the lead, esp with the cardo committed, the built-in sena systems are adding bulk i dont want. 
