@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/16/26 - Monday 
+Goals for today: 
+- Focus back on creating something. review projects in progress and do a status update, or assess progress this year. 
+
 ## 3/15/26 - Sunday
 - All the helmet shops are apparently closed on Sunday, and HJC is also closed sundays and mondays. So might be good to put helmet shopping on hold for a bit. Maybe scan the open box/used marketplaces for anything good. Shoei Z8 still in the lead, esp with the cardo committed, the built-in sena systems are adding bulk i dont want. 
 - DONE ~~Made plans to goto lunch and goto Seoul Community Radio in the afternoon. Debating riding my bike up. It's drizzly today, so no on the bike idea.~~
