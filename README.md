@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 3/18/26 - Wednesday 
+Meh. dopamine has run dry. motivation at a low. music untouched for a week. 
+
 ## 3/17/26 - Tuesday 
 - DONE - Bought a helmet. Shoei Neotec 3. It's a nice blue color, which is a departure from black and white everything, but it matches the blue passenger grab rail so it's nice.
   - bought a couple accessories to finish it up. cardo mount, cardo boom mic. listed sena clamp kit for sale on marketplace.
