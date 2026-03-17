@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 3/17/26 - Tuesday 
-
+- DONE - Bought a helmet. Shoei Neotec 3. It's a nice blue color, which is a departure from black and white everything, but it matches the blue passenger grab rail so it's nice. 
 
 ## 3/16/26 - Monday 
 Goals for today: 
