@@ -2,7 +2,12 @@
 
 ## 3/18/26 - Wednesday 
 Meh. dopamine has run dry. motivation at a low. music untouched for a week. 
+To do list: 
 - check bcf payment completion status
+- goto gym in the afternoon.
+
+Thoughts: 
+- i need to get off discord. the problem is that there's a sense of community but none of those random internet people matter in real life really. spending hours of the day on them is time down the sink. 
 
 ## 3/17/26 - Tuesday 
 - DONE - Bought a helmet. Shoei Neotec 3. It's a nice blue color, which is a departure from black and white everything, but it matches the blue passenger grab rail so it's nice.
