@@ -1,6 +1,11 @@
 # 2026-journal
 
 ## 3/19/26 - Thursday 
+To do list:
+- call delivery about missing boom mic
+- await cardo adapter delivery also
+- hair appt
+- maybe go for a ride if weathers nice. 
 
 
 ## 3/18/26 - Wednesday 
