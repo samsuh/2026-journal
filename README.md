@@ -2,10 +2,13 @@
 
 ## 3/19/26 - Thursday 
 To do list:
-- call delivery about missing boom mic
-- await cardo adapter delivery also
-- hair appt
-- maybe go for a ride if weathers nice. 
+- DONE ~~call delivery about missing boom mic~~ he delivered to the wrong address and fixed it today
+- DONE ~~await cardo adapter delivery also~~ no issues
+- DONE ~~hair appt~~ no issues 
+- opted not to. ~~maybe go for a ride if weathers nice.~~
+
+Health
+- Eye trouble. My left eye today feels a little off. the center of vision is a little warped, like font bends to be smaller in the center of just left eye. maybe this is me getting old or just being tired. ill give it a day or two and go see an eye doctor with more concrete symptoms. doesnt feel dangerous
 
 
 ## 3/18/26 - Wednesday 
