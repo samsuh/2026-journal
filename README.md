@@ -5,6 +5,10 @@
 Computer theory into music theory. 
 https://youtu.be/rRnOtKlg4jA?si=SoDKBYBi6keRcMkQ
 
+To do: 
+- do mobile auth for bank transfers
+- send rent
+
 ## 3/20/26 - Friday 
 
 To do list: 
