@@ -1,5 +1,7 @@
 # 2026-journal
 
+## 3/20/26
+
 ## 3/19/26 - Thursday 
 To do list:
 - DONE ~~call delivery about missing boom mic~~ he delivered to the wrong address and fixed it today
