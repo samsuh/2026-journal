@@ -2,7 +2,12 @@
 
 ## 3/20/26 - Friday 
 
-Eye thing is still there but less noticeable. Hopefully it'll pass. Search says to watch out for saturated fats and coffee. oof. Better than being blind tho
+To do list: 
+- Eye thing is still there but less noticeable. Hopefully it'll pass. Search says to watch out for saturated fats and coffee. oof. Better than being blind tho
+  - ill start to cut down on things and up general health. maybe look into an eyecare supplement later. Maybe eat more salmon for omega3s. 
+- Do some usdt to krw conversion. rate is good today. ill do it tonight to see where it goes.
+- i kinda wanna go for a ride. dno where to go tho. 
+
 
 ## 3/19/26 - Thursday 
 To do list:
