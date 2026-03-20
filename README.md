@@ -1,6 +1,8 @@
 # 2026-journal
 
-## 3/20/26
+## 3/20/26 - Friday 
+
+Eye thing is still there but less noticeable. Hopefully it'll pass. Search says to watch out for saturated fats and coffee. oof. Better than being blind tho
 
 ## 3/19/26 - Thursday 
 To do list:
