@@ -7,8 +7,9 @@
 
 To do list: 
 - Eye thing is still there but less noticeable. Hopefully it'll pass. Search says to watch out for saturated fats and coffee. oof. Better than being blind tho
-  - ill start to cut down on things and up general health. maybe look into an eyecare supplement later. Maybe eat more salmon for omega3s. 
-- Do some usdt to krw conversion. rate is good today. ill do it tonight to see where it goes.
+  - ill start to cut down on things and up general health. maybe look into an eyecare supplement later. Maybe eat more salmon for omega3s.
+  - requested eye appointment for monday. awaiting confirmation. 
+- Do some usdt to krw conversion. rate is good today. ill do it tonight to see where it goes. nice. rate went in my favor. ill do it before i go to sleep regardless of the execution price now since it's all good. 
 - i kinda wanna go for a ride. dno where to go tho. 
 
 
