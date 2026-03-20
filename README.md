@@ -1,7 +1,9 @@
 # 2026-journal
 
 ## 3/21/26 - Saturday
-
+### Music theory
+Computer theory into music theory. 
+https://youtu.be/rRnOtKlg4jA?si=SoDKBYBi6keRcMkQ
 
 ## 3/20/26 - Friday 
 
