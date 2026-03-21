@@ -6,7 +6,7 @@ Computer theory into music theory.
 https://youtu.be/rRnOtKlg4jA?si=SoDKBYBi6keRcMkQ
 
 To do: 
-- do mobile auth for bank transfers
+- ~~do mobile auth for bank transfers~~
 - ~~send rent~~
 - (from before) check bcf payment completion status
 
