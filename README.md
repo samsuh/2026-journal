@@ -7,7 +7,7 @@ https://youtu.be/rRnOtKlg4jA?si=SoDKBYBi6keRcMkQ
 
 To do: 
 - do mobile auth for bank transfers
-- send rent
+- ~~send rent~~
 - (from before) check bcf payment completion status
 
 ## 3/20/26 - Friday 
