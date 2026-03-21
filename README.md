@@ -1,4 +1,9 @@
 # 2026-journal
+## 3/22/26 - Sunday
+To dos: 
+- Gym, Set A
+- Buy hawaii tickets
+- Continue considering a move back. Maybe plan out a 1 month trip
 
 ## 3/21/26 - Saturday
 ### Music theory
