@@ -4,7 +4,8 @@ To dos:
 - MISSED IT. reduced hours. ~~Gym, Set A~~
 - DONE ~~Buy hawaii tickets~~ 7/19 - 7/26
 - Continue considering a move back. Maybe plan out a 1 month trip
-  - This has sparked some motivation in me yesterday. It feels like there's some hope at the end of the tunnel with this, if Korea isnt permanent, and is just my incubation stage before being ready to move back. 
+  - This has sparked some motivation in me yesterday. It feels like there's some hope at the end of the tunnel with this, if Korea isnt permanent, and is just my incubation stage before being ready to move back.
+- CANNOT. try again later. (from before) check bcf payment completion status. attempted, but the site is down for maintenance, so it says try again later. 
 
 ## 3/21/26 - Saturday
 ### Music theory
