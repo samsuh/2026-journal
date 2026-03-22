@@ -1,4 +1,11 @@
 # 2026-journal
+
+## 3/23/26 - Monday 
+To dos: 
+- Sell Sena Clamp Kit at 7pm
+- Gym, Set A
+- Check for eye doctor appointment since they were unclear if appointment was made. 
+
 ## 3/22/26 - Sunday
 To dos: 
 - MISSED IT. reduced hours. ~~Gym, Set A~~
