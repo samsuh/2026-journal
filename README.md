@@ -1,8 +1,8 @@
 # 2026-journal
 ## 3/22/26 - Sunday
 To dos: 
-- Gym, Set A
-- Buy hawaii tickets
+- MISSED IT. reduced hours. ~~Gym, Set A~~
+- DONE ~~Buy hawaii tickets~~ 7/19 - 7/26
 - Continue considering a move back. Maybe plan out a 1 month trip
   - This has sparked some motivation in me yesterday. It feels like there's some hope at the end of the tunnel with this, if Korea isnt permanent, and is just my incubation stage before being ready to move back. 
 
