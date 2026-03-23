@@ -1,5 +1,15 @@
 # 2026-journal
 
+## 3/24/26 - Tuesday 
+Schedule: 
+- Eye appointment - 5:20pm
+
+To dos: 
+- 
+
+Goals: 
+- 
+
 ## 3/23/26 - Monday 
 To dos: 
 - Sell Sena Clamp Kit at 7pm
