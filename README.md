@@ -5,8 +5,9 @@ To dos:
 - Sell Sena Clamp Kit at 7pm
 - DONE ~~Gym, Set A~~
 - DONE. set for tomorrow at 520pm ~~Check for eye doctor appointment since they were unclear if appointment was made.~~
-- impromptu set up haircut appt for today
-- started looking into general ai stuff to start catching up a little. deciding to consider moving feels refreshing, as it no longer feels like a dead end here. 
+- DONE ~~impromptu set up haircut appt for today~~
+- started looking into general ai stuff to start catching up a little. deciding to consider moving feels refreshing, as it no longer feels like a dead end here.
+  - https://youtu.be/kwSVtQ7dziU?si=mjQpTLKzUtpwlTWK -- summary of the state of ai. 
 
 ## 3/22/26 - Sunday
 To dos: 
