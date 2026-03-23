@@ -12,7 +12,7 @@ Goals:
 
 ## 3/23/26 - Monday 
 To dos: 
-- Sell Sena Clamp Kit at 7pm
+- DONE ~~Sell Sena Clamp Kit at 7pm~~ 630pm
 - DONE ~~Gym, Set A~~
 - DONE. set for tomorrow at 520pm ~~Check for eye doctor appointment since they were unclear if appointment was made.~~
 - DONE ~~impromptu set up haircut appt for today~~
