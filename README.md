@@ -4,7 +4,7 @@
 To dos: 
 - Sell Sena Clamp Kit at 7pm
 - Gym, Set A
-- Check for eye doctor appointment since they were unclear if appointment was made. 
+- DONE. set for tomorrow at 520pm ~~Check for eye doctor appointment since they were unclear if appointment was made.~~
 
 ## 3/22/26 - Sunday
 To dos: 
