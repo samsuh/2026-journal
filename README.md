@@ -2,7 +2,8 @@
 
 ## 3/24/26 - Tuesday 
 Schedule: 
-- Eye appointment - 5:20pm
+- DONE ~~Eye appointment - 5:20pm~~
+  - so there's a macular problem of some kind. theyre not entirely sure why it's there but for now they said lets observe for a month. i got a prescription for eye drops. seems to be nonsteroidal anti-inflammation drops called Baronac. Ive been told to do it 3 times a day til next month when i go for a status check. 6-7 hours in between drops the pharmacist said. 
 
 To dos: 
 - pick a dinner spot for tmrw
