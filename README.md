@@ -5,9 +5,11 @@ Schedule:
 - Eye appointment - 5:20pm
 
 To dos: 
-- 
+- pick a dinner spot for tmrw
+-  
 
 Goals: 
+- get through the rest of 'remarkably bright creatures'
 - 
 
 ## 3/23/26 - Monday 
