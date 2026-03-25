@@ -7,6 +7,9 @@ Schedule:
 - Dinner with S at 630
 - Audio engineering at Uplift at 8
 
+Future task:
+- install rx3 drivers on laptop in case i ever wanna play on the rx3 at the venue https://support.alphatheta.com/en-US/articles/4413797173401 
+
 ## 3/24/26 - Tuesday 
 Schedule: 
 - DONE ~~Eye appointment - 5:20pm~~
