@@ -4,13 +4,14 @@
 ## 3/25/26 - Wednesday 
 Schedule: 
 - DONE ~~Gym sometime in the afternoon, set B~~ need to drink more water than coffee. 
-- Dinner with S at 630
-- Audio engineering at Uplift at 8
+- DONE ~~Dinner with S at 630~~
+- DONE ~~Audio engineering at Uplift at 8~~
 
 Future task:
 - install rx3 drivers on laptop in case i ever wanna play on the rx3 at the venue https://support.alphatheta.com/en-US/articles/4413797173401
 - watch vector search video https://youtu.be/YDdKiQNw80c?si=F95somCS1vrL58xh
 
+commited to teaching F and S how to DJ basics so i gotta make sure i know it lol 
 ## 3/24/26 - Tuesday 
 Schedule: 
 - DONE ~~Eye appointment - 5:20pm~~
