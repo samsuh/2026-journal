@@ -3,7 +3,7 @@
 
 ## 3/25/26 - Wednesday 
 Schedule: 
-- Gym sometime in the afternoon, set B
+- DONE ~~Gym sometime in the afternoon, set B~~ need to drink more water than coffee. 
 - Dinner with S at 630
 - Audio engineering at Uplift at 8
 
