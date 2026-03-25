@@ -1,5 +1,12 @@
 # 2026-journal
 
+
+## 3/25/26 - Wednesday 
+Schedule: 
+- Gym sometime in the afternoon, set B
+- Dinner with S at 630
+- Audio engineering at Uplift at 8
+
 ## 3/24/26 - Tuesday 
 Schedule: 
 - DONE ~~Eye appointment - 5:20pm~~
