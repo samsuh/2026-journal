@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/26/26 - Thursday
+Schedule: 
+- go for a ride to RST
+- start studying DJing. prep for next week to teach it
 
 ## 3/25/26 - Wednesday 
 Schedule: 
