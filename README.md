@@ -1,9 +1,13 @@
 # 2026-journal
 
+## 3/27/26 - Friday
+- Study DJing to teach it
+- hair thing at 3pm 
+
 ## 3/26/26 - Thursday
 Schedule: 
-- go for a ride to RST
-- start studying DJing. prep for next week to teach it
+- DONE ~~go for a ride to RST~~
+- Did not start -- do tomorrow. start studying DJing. prep for next week to teach it
 
 ## 3/25/26 - Wednesday 
 Schedule: 
