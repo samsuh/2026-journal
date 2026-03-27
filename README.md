@@ -2,7 +2,7 @@
 
 ## 3/27/26 - Friday
 - Study DJing to teach it
-- hair thing at 3pm 
+- DONE ~~hair thing at 3pm~~
 
 ## 3/26/26 - Thursday
 Schedule: 
