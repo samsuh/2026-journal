@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 3/28/26 - Saturday 
+- Last chance to go through bpm supreme subscription
+- sketch out djing lesson. 
+
 ## 3/27/26 - Friday
 - Study DJing to teach it
 - DONE ~~hair thing at 3pm~~
