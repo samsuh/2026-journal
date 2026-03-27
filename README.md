@@ -2,7 +2,8 @@
 
 ## 3/28/26 - Saturday 
 - Last chance to go through bpm supreme subscription
-- sketch out djing lesson. 
+- DONE ~~sketch out djing lesson~~
+  - https://docs.google.com/document/d/1GMNebU8nfyLAQvtm3zWrerTSO8izkWO8ND1OVgH1CHY/edit?usp=sharing
 
 ## 3/27/26 - Friday
 - Study DJing to teach it
