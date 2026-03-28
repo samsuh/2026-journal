@@ -1,7 +1,11 @@
 # 2026-journal
 
+## 3/29/26 - Sunday 
+- Plan a road trip
+- Gym, Set B
+
 ## 3/28/26 - Saturday 
-- Last chance to go through bpm supreme subscription
+- Opted out. ~~Last chance to go through bpm supreme subscription~~
 - DONE ~~sketch out djing lesson~~
   - https://docs.google.com/document/d/1GMNebU8nfyLAQvtm3zWrerTSO8izkWO8ND1OVgH1CHY/edit?usp=sharing
 
