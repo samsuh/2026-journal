@@ -5,6 +5,8 @@
 - DONE ~~sketch out djing lesson~~
   - https://docs.google.com/document/d/1GMNebU8nfyLAQvtm3zWrerTSO8izkWO8ND1OVgH1CHY/edit?usp=sharing
 
+I started revisiting old coding projects and tutorials. I'm not burnt out about them, but I'm not motivated to start them back up. I think i need something external to set a goal to light the motivational fire. 
+
 ## 3/27/26 - Friday
 - Study DJing to teach it
 - DONE ~~hair thing at 3pm~~
