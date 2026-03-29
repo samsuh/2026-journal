@@ -2,10 +2,11 @@
 
 ## 3/29/26 - Sunday 
 - Plan a road trip
-- Gym, Set B
+- DONE ~~Gym, Set B~~
 - Get through this RX3 tutorial video
   - https://youtu.be/TP9ioJQN5Hk?si=YHPfKBYnhvkujmHU
 - DONE ~~set derm appt~~ tues 3pm
+- Shopping for household stuff
 
 ## 3/28/26 - Saturday 
 - Opted out. ~~Last chance to go through bpm supreme subscription~~
