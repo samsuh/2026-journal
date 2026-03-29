@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 3/30/26 - Monday 
+- Continue on the rx3 video
+- Confirm dermotologist appt tmrw
+- go for a ride somewhere
+
 ## 3/29/26 - Sunday 
 - DONE ~~Plan a road trip~~
   - tentatively thursday morning to daegu
