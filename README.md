@@ -9,8 +9,9 @@
 - DONE ~~Plan a road trip~~
   - tentatively thursday morning to daegu
 - DONE ~~Gym, Set B~~
-- Get through this RX3 tutorial video
-  - https://youtu.be/TP9ioJQN5Hk?si=YHPfKBYnhvkujmHU
+- Made progress. didnt finish.
+  - Get through this RX3 tutorial video
+    - https://youtu.be/TP9ioJQN5Hk?si=YHPfKBYnhvkujmHU
 - DONE ~~set derm appt~~ tues 3pm
 - DONE ~~Shopping for household stuff~~
 
