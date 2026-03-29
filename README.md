@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 3/30/26 - Monday 
-- Continue on the rx3 video
+- DONE ~~Continue on the rx3 video~~
 - Confirm dermotologist appt tmrw
 - go for a ride somewhere
 
