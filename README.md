@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 3/29/26 - Sunday 
-- Plan a road trip
+- DONE ~~Plan a road trip~~
+  - tentatively thursday morning to daegu
 - DONE ~~Gym, Set B~~
 - Get through this RX3 tutorial video
   - https://youtu.be/TP9ioJQN5Hk?si=YHPfKBYnhvkujmHU
