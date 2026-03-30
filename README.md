@@ -3,7 +3,7 @@
 ## 3/30/26 - Monday 
 - DONE ~~Continue on the rx3 video~~
 - DONE ~~Confirm dermotologist appt tmrw~~ 330
-- go for a ride somewhere
+- NOPE. raining. ~~go for a ride somewhere~~
 
 ## 3/29/26 - Sunday 
 - DONE ~~Plan a road trip~~
