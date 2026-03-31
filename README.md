@@ -4,6 +4,8 @@
 - DONE ~~Hair thing at 330~~
 - DONE ~~Gym, set A~~
 - Prep for teaching dj lesson tmrw
+- Daegu trip mostly planned out
+  - book a hotel
 
 ## 3/30/26 - Monday 
 - DONE ~~Continue on the rx3 video~~
