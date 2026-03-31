@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 3/31/26 - Tuesday
-- Hair thing at 330
+- DONE ~~Hair thing at 330~~
 - DONE ~~Gym, set A~~
 - Prep for teaching dj lesson tmrw
 
