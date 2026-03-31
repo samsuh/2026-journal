@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/1/26 - Wednesday
+- teach DJ lesson 
+
+
 ## 3/31/26 - Tuesday
 - DONE ~~Hair thing at 330~~
 - DONE ~~Gym, set A~~
