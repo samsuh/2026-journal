@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 3/31/26 - Tuesday
+- Hair thing at 330
+- DONE ~~Gym, set A~~
+- Prep for teaching dj lesson tmrw
+
 ## 3/30/26 - Monday 
 - DONE ~~Continue on the rx3 video~~
 - DONE ~~Confirm dermotologist appt tmrw~~ 330
