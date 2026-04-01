@@ -1,7 +1,10 @@
 # 2026-journal
 
+## 4/2/26 - Thursday
+The plan is to go to daegu early morning, meet T, then meet the sv prior owner, then meet S, then ride back with S. 
+
 ## 4/1/26 - Wednesday
-- teach DJ lesson 
+- DONE ~~teach DJ lesson~~ went pretty well. surprised because they didnt have an rx3, but the old denon. rip all my prep.
 
 
 ## 3/31/26 - Tuesday
