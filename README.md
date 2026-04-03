@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 4/3/26 - Friday
+Yesterday was an adventure. Rode bike down on a whim to Daegu. 
+- had lunch with T
+- met up with my bike's prior owner to hang out and talk motorcycles for a while
+- headed back up to seoul from daegu, same day, with S. 
+
 ## 4/2/26 - Thursday
 The plan is to go to daegu early morning, meet T, then meet the sv prior owner, then meet S, then ride back with S. 
 
