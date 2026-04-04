@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/5/26 - Sunday 
+- Gym, Set A
+- Wash Bike
+
 ## 4/4/26 - Saturday 
 - No plans today.
 
