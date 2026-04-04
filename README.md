@@ -1,7 +1,12 @@
 # 2026-journal
 
 ## 4/4/26 - Saturday 
-- No plans today. 
+- No plans today.
+
+to do list, i dont think ill get to today: 
+- wash bike
+- gym, set a
+- connect cardo to insta360 for voice cmds
 
 ## 4/3/26 - Friday
 Yesterday was an adventure. Rode bike down on a whim to Daegu. 
