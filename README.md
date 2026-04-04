@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 4/4/26 - Saturday 
+- No plans today. 
+
 ## 4/3/26 - Friday
 Yesterday was an adventure. Rode bike down on a whim to Daegu. 
 - had lunch with T
