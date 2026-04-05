@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/6/26 - Monday 
+- No plans so far.
+- wash bike maybe, but it's supposed to continue raining. 
+
 ## 4/5/26 - Sunday 
 - DONE ~~Gym, Set A~~
 - Wash Bike
