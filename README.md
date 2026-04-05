@@ -3,7 +3,7 @@
 ## 4/5/26 - Sunday 
 - DONE ~~Gym, Set A~~
 - Wash Bike
-- Cardo - Insta360
+- DONE ~~Cardo - Insta360~~
 
 ## 4/4/26 - Saturday 
 - No plans today.
