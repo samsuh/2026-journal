@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 4/5/26 - Sunday 
-- Gym, Set A
+- DONE ~~Gym, Set A~~
 - Wash Bike
 - Cardo - Insta360
 
