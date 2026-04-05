@@ -2,7 +2,9 @@
 
 ## 4/6/26 - Monday 
 - No plans so far.
-- wash bike maybe, but it's supposed to continue raining. 
+- wash bike maybe, but it's supposed to continue raining.
+  - look up self car wash
+  - decide how much i want to bring with me to do there. 
 
 ## 4/5/26 - Sunday 
 - DONE ~~Gym, Set A~~
