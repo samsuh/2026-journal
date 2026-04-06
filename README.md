@@ -4,7 +4,8 @@
 - No plans so far.
 - wash bike maybe, but it's supposed to continue raining.
   - look up self car wash
-  - decide how much i want to bring with me to do there. 
+  - decide how much i want to bring with me to do there.
+- ended up shopping for random misc stuff.
 
 ## 4/5/26 - Sunday 
 - DONE ~~Gym, Set A~~
