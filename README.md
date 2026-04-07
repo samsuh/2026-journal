@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 4/7/26 - Tuesday 
+- DONE ~~Gym, Set B~~
+- confirmed no derm appt
+- looked up car wash spot for bike.
+  - https://naver.me/xeAftryx
+  - has motorcycle self wash stalls. open 24/7
+
 ## 4/6/26 - Monday 
 - No plans so far.
 - wash bike maybe, but it's supposed to continue raining.
