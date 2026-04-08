@@ -1,8 +1,12 @@
 # 2026-journal
 
+## 4/9/26 - Thursday 
+- Final hair appt
+
 ## 4/8/26 - Wednesday 
-- Going to check out the motorcycle car wash in the afternoon. S might join.
-- Will kill time after that and then goto open mic night. Open mic night has been dead the last 2 weeks, so if it's dead again tonight, i'll prob stop going. 
+- DONE ~~Going to check out the motorcycle car wash in the afternoon. S might join.~~ she didnt join. pretty unreliable every turn. prob will reserve energy invested into any friendship there until she initiates. 
+- ~~Will kill time after that and then goto open mic night. Open mic night has been dead the last 2 weeks, so if it's dead again tonight, i'll prob stop going.~~
+  - was moderately dead again third week in a row. there were 2 musicians and J. better than the 2 weeks prior, but i'm not sure it's a reliable thing to try to maintain consistently. i need to think about whether it's constructive and helping, or if it's just wasting time. 
 
 ## 4/7/26 - Tuesday 
 - DONE ~~Gym, Set B~~
