@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/8/26 - Wednesday 
+- Going to check out the motorcycle car wash in the afternoon. S might join.
+- Will kill time after that and then goto open mic night. Open mic night has been dead the last 2 weeks, so if it's dead again tonight, i'll prob stop going. 
+
 ## 4/7/26 - Tuesday 
 - DONE ~~Gym, Set B~~
 - confirmed no derm appt
