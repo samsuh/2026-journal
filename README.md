@@ -1,6 +1,7 @@
 # 2026-journal
 
 ## 4/9/26 - Thursday 
+- DONE ~~Gym Set A~~
 - Final hair appt
 - find out how to check gas meter and send text
 
