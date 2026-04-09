@@ -2,8 +2,9 @@
 
 ## 4/9/26 - Thursday 
 - DONE ~~Gym Set A~~
-- Final hair appt
+- DONE ~~Final hair appt~~
 - find out how to check gas meter and send text
+  - asked landlord. awaiting response. 
 
 ## 4/8/26 - Wednesday 
 - DONE ~~Going to check out the motorcycle car wash in the afternoon. S might join.~~ she didnt join. pretty unreliable every turn. prob will reserve energy invested into any friendship there until she initiates. 
