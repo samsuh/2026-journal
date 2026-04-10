@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 4/10/26 - Friday 
+- No real plans yet
+
 ## 4/9/26 - Thursday 
 - DONE ~~Gym Set A~~
 - DONE ~~Final hair appt~~
