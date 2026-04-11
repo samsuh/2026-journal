@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/11/26 - Saturday 
+- Slept in.
+- push gym to tomorrow
+
 ## 4/10/26 - Friday 
 - No real plans yet
 
