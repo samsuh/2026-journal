@@ -3,6 +3,7 @@
 ## 4/11/26 - Saturday 
 - Slept in.
 - push gym to tomorrow
+- started finasteride today. no major immediate side effects after a couple hours, which was the main worry. turned out not to be a big deal so far. 
 
 ## 4/10/26 - Friday 
 - No real plans yet
