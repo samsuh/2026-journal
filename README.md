@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 4/12/26 - Sunday
+- Didnt do much today. 
+
 ## 4/11/26 - Saturday 
 - Slept in.
 - push gym to tomorrow
