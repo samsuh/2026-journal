@@ -1,7 +1,11 @@
 # 2026-journal
 
+## 4/13/26 - Monday 
+- No plans. haircut soon?
+
 ## 4/12/26 - Sunday
-- Didnt do much today. 
+- Didnt do much today.
+- reached out to a few people. extraversion/ social check ins 
 
 ## 4/11/26 - Saturday 
 - Slept in.
