@@ -2,6 +2,7 @@
 
 ## 4/13/26 - Monday 
 - No plans. haircut soon?
+- go for a walk. where to though?
 
 ## 4/12/26 - Sunday
 - Didnt do much today.
