@@ -2,6 +2,7 @@
 
 ## 4/14/26 - Tuesday
 - Meh. I feel like ive wasted a whole week, which i have. No real motivation or push to do anything. Just floating in space self-sustaining.
+- Just watching crypto charts
 
 ## 4/13/26 - Monday 
 - No plans. haircut soon?
