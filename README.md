@@ -2,6 +2,7 @@
 
 ## 4/16/26 - Thursday 
 - Plans to hang out tonight with M and L around itw.
+- Figure out reth datadir update process, esp to download a snapshot to skip the long download process during a downtime.
 
 ## 4/15/26 - Wednesday 
 - Man i really did nothing the past week in terms of productivity in any way. I'm enjoying my days generally speaking. Consuming a lot of youtube, but I should get out from here and go do something. I've been wanting to go ride my bike, but I don't have any destination to ride to. Kind of story of my life, really.
