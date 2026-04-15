@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 4/15/26 - Wednesday 
-- Man i really did nothing the past week in terms of productivity in any way. I'm enjoying my days generally speaking. Consuming a lot of youtube, but I should get out from here and go do something. I've been wanting to go ride my bike, but I don't have any destination to ride to. Kind of story of my life, really. 
+- Man i really did nothing the past week in terms of productivity in any way. I'm enjoying my days generally speaking. Consuming a lot of youtube, but I should get out from here and go do something. I've been wanting to go ride my bike, but I don't have any destination to ride to. Kind of story of my life, really.
+- Went out to get food but forgot my phone. was nice not having it
 
 ## 4/14/26 - Tuesday
 - Meh. I feel like ive wasted a whole week, which i have. No real motivation or push to do anything. Just floating in space self-sustaining.
