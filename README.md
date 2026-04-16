@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/17/26 - Friday 
+- Moved, reth datadir
+- ROK straps vs cam lock straps vs just going without a dedicated rear bag. 
+
 ## 4/16/26 - Thursday 
 - DONE. was fine. ~~Plans to hang out tonight with M and L around itw.~~
 - Figure out reth datadir update process, esp to download a snapshot to skip the long download process during a downtime.
