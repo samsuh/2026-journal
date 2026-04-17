@@ -2,7 +2,8 @@
 
 ## 4/17/26 - Friday 
 - Moved, reth datadir
-- ROK straps vs cam lock straps vs just going without a dedicated rear bag. 
+- ROK straps vs cam lock straps vs just going without a dedicated rear bag.
+- Went to buy a helmet. had to go to several Decathlon shops, and eventually got a helmet at the jamsil branch. however they did not have 'bib shorts' there and recommended i go to the hannam branch or other ones, and to call before i go. i also got padded shorts and a small light backpack that fits the helmet. ill carry the helmet there, then put the helmet on and put the extra stuff they give me in the bag on the ride home. 
 
 ## 4/16/26 - Thursday 
 - DONE. was fine. ~~Plans to hang out tonight with M and L around itw.~~
