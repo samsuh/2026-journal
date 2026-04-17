@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/18/26 - Saturday
+- pick up bike at 11
+- meet H for dinner
+
 ## 4/17/26 - Friday 
 - DONE ~~Moved, reth datadir.~~ looked into it. not urgent. check back on this before september. 
 - looked into it, but not sure if i need them at the moment. ~~ROK straps vs cam lock straps vs just going without a dedicated rear bag.~~
