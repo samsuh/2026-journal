@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 4/18/26 - Saturday
-- pick up bike at 11
+- DONE ~~pick up bike at 11~~ bike is nice. rode it home. fun ride. 
 - meet H for dinner
 
 ## 4/17/26 - Friday 
