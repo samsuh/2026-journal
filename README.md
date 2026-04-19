@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 4/19/26 - Sunday
-- Check about turning off trading snailmail triggers
+- Done for now. ~~Check about turning off trading snailmail triggers~~ do it with dad when he logs in to change his settings. 
 - DONE ~~goto gym, Set A~~
 
 ## 4/18/26 - Saturday
