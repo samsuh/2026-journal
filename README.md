@@ -5,7 +5,7 @@
 - goto gym, Set A
 
 ## 4/18/26 - Saturday
-- DONE ~~pick up bike at 11~~ bike is nice. rode it home. fun ride. 
+- DONE ~~pick up bike at 11~~ bike is nice. rode it home. fun ride. rode ~25km home
 - DONE ~~meet H for dinner~~ was fun
 - went to coding meetup even despite wanting to stay away from one person. but it turned out mostly fine. reinforced that i dont want to be around them. 
 
