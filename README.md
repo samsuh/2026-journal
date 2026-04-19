@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 4/20/26 - Monday 
+- Go for a ride to get bread at my old seoul forest spot. Target getting there late morning.
+
 ## 4/19/26 - Sunday
 - Done for now. ~~Check about turning off trading snailmail triggers~~ do it with dad when he logs in to change his settings. 
 - DONE ~~goto gym, Set A~~
