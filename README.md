@@ -2,7 +2,7 @@
 
 ## 4/19/26 - Sunday
 - Check about turning off trading snailmail triggers
-- goto gym, Set A
+- DONE ~~goto gym, Set A~~
 
 ## 4/18/26 - Saturday
 - DONE ~~pick up bike at 11~~ bike is nice. rode it home. fun ride. rode ~25km home
