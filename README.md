@@ -2,7 +2,8 @@
 
 ## 4/20/26 - Monday 
 - DELAYED -- got rained in. Go for a ride to get bread at my old seoul forest spot. Target getting there late morning.
-- Look into motorcycle race suit. 
+- Look into motorcycle race suit.
+- Karrot finally replied, they want me to get an official note that says the jacket i bought is a fake. I'll be near there for a haircut anyway, and i also wanted to ask them about renting a track suit. 
 
 ## 4/19/26 - Sunday
 - Done for now. ~~Check about turning off trading snailmail triggers~~ do it with dad when he logs in to change his settings. 
