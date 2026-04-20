@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 4/20/26 - Monday 
-- Go for a ride to get bread at my old seoul forest spot. Target getting there late morning.
+- DELAYED -- got rained in. Go for a ride to get bread at my old seoul forest spot. Target getting there late morning.
 - Look into motorcycle race suit. 
 
 ## 4/19/26 - Sunday
