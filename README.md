@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 4/21/26 - Tueday 
-- Ran into Powerlifting trainer at the gym. set up a session for Thursday at 3pm 
+- Ran into Powerlifting trainer at the gym. set up a session for Thursday at 3pm
+- Prep dainese form and pack the jacket in the bag to take to dainese shop.
 
 ## 4/20/26 - Monday 
 - DELAYED -- got rained in. Go for a ride to get bread at my old seoul forest spot. Target getting there late morning.
