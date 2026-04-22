@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 4/22/26 - Wednesday 
+- Went for a morning ride to yeouido, was nice. took a little longer than expected.
+- Got haircut
+- Stopped by Dainese and bought a new mesh jacket, which is nice. Got confirmation on the old used one i bought -- it's surprisingly authentic, but the protective pads are definitely fake. Resolved the Karrot outstanding sale status to completed.
+- Bike accessories arrived; removed the TT bars that came on the bike. installed phone mount and insta360 mount with stick instead. it looks a little ridiculous but thats how it has to be. Replaced the insta360 lens i scratched. seems fine.
+- Bike tires seemed to have been massively underinflated according tot he calculator i should be running about 82psi, but i had less than 40. 
+
 ## 4/21/26 - Tueday 
 - Ran into Powerlifting trainer at the gym. set up a session for Thursday at 3pm
 - IRRELEVANT - Prep dainese form - form created, but need to print it to make it easy. idk if theyd even do it. but gotta ask. 
