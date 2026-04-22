@@ -2,9 +2,10 @@
 
 ## 4/21/26 - Tueday 
 - Ran into Powerlifting trainer at the gym. set up a session for Thursday at 3pm
-- Prep dainese form - form created, but need to print it to make it easy. idk if theyd even do it. but gotta ask. 
+- IRRELEVANT - Prep dainese form - form created, but need to print it to make it easy. idk if theyd even do it. but gotta ask. 
 - DONE ~~pack the jacket in the bag to take to dainese shop~~
-- ask about renting a track racing suit. 
+- DONE - they dont rent racing suits anymore. ~~ask about renting a track racing suit.~~
+  - size 56 is prob the way to go tho
 
 ## 4/20/26 - Monday 
 - DELAYED -- got rained in. Go for a ride to get bread at my old seoul forest spot. Target getting there late morning.
