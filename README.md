@@ -1,10 +1,14 @@
 # 2026-journal
 
+## 4/24/26 - Friday 
+- Go for a ride to stretch back 
+
 ## 4/23/26 - Thursday 
 - DONE ~~meet powerlifting trainer at 3pm~~
   - signed up for powerlifting training to redo fundamentals.
-  - tweaked my upper back a little with the lower setting on squat rack. need to stretch it out and rest it. 
-- maybe go for a ride. chill out and rest knees. ive been doing exercise every day without a break. maybe take a break so you dont overtrain or get injured. 
+  - tweaked my upper back a little trying a lower setting on squat rack. need to stretch it out and rest it. 
+- didnt go cuz of back. maybe go for a ride. chill out and rest knees. ive been doing exercise every day without a break. maybe take a break so you dont overtrain or get injured.
+- i think ive been eating a lot of carbs lately. 
 
 ## 4/22/26 - Wednesday 
 - Went for a morning ride to yeouido, was nice. took a little longer than expected.
