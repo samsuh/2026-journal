@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 4/23/26 - Thursday 
-- meet powerlifting trainer at 3pm
+- DONE ~~meet powerlifting trainer at 3pm~~
+  - signed up for powerlifting training to redo fundamentals. 
 - maybe go for a ride. chill out and rest knees. ive been doing exercise every day without a break. maybe take a break so you dont overtrain or get injured. 
 
 ## 4/22/26 - Wednesday 
