@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/23/26 - Thursday 
+- meet powerlifting trainer at 3pm
+- maybe go for a ride. chill out and rest knees. ive been doing exercise every day without a break. maybe take a break so you dont overtrain or get injured. 
+
 ## 4/22/26 - Wednesday 
 - Went for a morning ride to yeouido, was nice. took a little longer than expected.
 - Got haircut
