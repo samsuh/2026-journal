@@ -2,7 +2,8 @@
 
 ## 4/23/26 - Thursday 
 - DONE ~~meet powerlifting trainer at 3pm~~
-  - signed up for powerlifting training to redo fundamentals. 
+  - signed up for powerlifting training to redo fundamentals.
+  - tweaked my upper back a little with the lower setting on squat rack. need to stretch it out and rest it. 
 - maybe go for a ride. chill out and rest knees. ive been doing exercise every day without a break. maybe take a break so you dont overtrain or get injured. 
 
 ## 4/22/26 - Wednesday 
