@@ -2,7 +2,8 @@
 
 ## 4/24/26 - Friday 
 - DONE ~~Go for a ride to stretch back~~ nice ride to my old neighborhood in seoul forest and back. really enjoyable. 15km there and another 15 back.
-  - oof. interrupted the file transfer and it corrupted the sd card. might lose everything. trying to salvage anything on there. 
+  - oof. interrupted the file transfer and it corrupted the sd card. might lose everything. trying to salvage anything on there.
+  - luckily restarting the camera fixed something. at least the files are accessible. 
 - ~~need more things going on in life.~~ need to reach out to more people and initiate things if i want more things to happen. 
 
 ## 4/23/26 - Thursday 
