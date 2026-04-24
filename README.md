@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 4/24/26 - Friday 
-- Go for a ride to stretch back 
+- Go for a ride to stretch back
+- need more things going on in life. 
 
 ## 4/23/26 - Thursday 
 - DONE ~~meet powerlifting trainer at 3pm~~
