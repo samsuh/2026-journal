@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 4/26/26 - Sunday 
+- Ask mom about 엿 for edie
+- ordered new wider lifting shoes
 
 ## 4/25/26 - Saturday
 - Did powerlifting training today, got some pointers for form improvements. should rest.
