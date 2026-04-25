@@ -1,5 +1,11 @@
 # 2026-journal
 
+
+## 4/25/26 - Saturday
+- Did powerlifting training today, got some pointers for form improvements. should rest.
+- Bought moon rigel lights, front and rear. 1000 pro front, and helix sense 300 rear.
+
+
 ## 4/24/26 - Friday 
 - DONE ~~Go for a ride to stretch back~~ nice ride to my old neighborhood in seoul forest and back. really enjoyable. 15km there and another 15 back.
   - oof. interrupted the file transfer and it corrupted the sd card. might lose everything. trying to salvage anything on there.
