@@ -2,6 +2,7 @@
 
 ## 4/26/26 - Sunday 
 - Ask mom about 엿 for E
+- went for a nice ride to seoul forest.
 
 
 ## 4/25/26 - Saturday
