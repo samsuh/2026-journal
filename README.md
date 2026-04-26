@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/27/26 - Monday 
+- See parents off at airport. they arrive at 1:20pm and depart around 7:35pm
+- Go to gym. New lifting pattern; strengthen accessory first. Hip abductors, foot arch strengthening, open up stance; learn to use hips and glutes more than back. 
+
 ## 4/26/26 - Sunday 
 - Ask mom about 엿 for E
 - went for a nice ride to seoul forest.
