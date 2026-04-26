@@ -3,7 +3,8 @@
 ## 4/26/26 - Sunday 
 - Ask mom about 엿 for E
 - went for a nice ride to seoul forest.
-
+  - bought bell.
+  - lights worked great. 
 
 ## 4/25/26 - Saturday
 - Did powerlifting training today, got some pointers for form improvements. should rest.
