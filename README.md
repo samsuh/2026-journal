@@ -7,6 +7,7 @@
 
 ## 4/27/26 - Monday 
 - DONE ~~See parents off at airport. they arrive at 1:20pm and depart around 7:35pm~~
+  - it's so draining spending time with parents. i was wiped after a few hours with them. mentally taxing. 
 - Maybe push to tomorrow?
   - Go to gym. New lifting pattern; strengthen accessory first. Hip abductors, foot arch strengthening, open up stance; learn to use hips and glutes more than back. 
 
