@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/28/26 - Tuesday 
+- Training at gym, ancillary exercises, stretching, and work on form with proper power generation and mechanics
+- Eye appointment at 520pm. Update check. No issues after the first days. Small relapse a few days later briefly but no further issues.  
+
 ## 4/27/26 - Monday 
 - DONE ~~See parents off at airport. they arrive at 1:20pm and depart around 7:35pm~~
 - Maybe push to tomorrow?
