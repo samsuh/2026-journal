@@ -1,8 +1,9 @@
 # 2026-journal
 
 ## 4/28/26 - Tuesday 
-- Training at gym, ancillary exercises, stretching, and work on form with proper power generation and mechanics
-- Eye appointment at 520pm. Update check. No issues after the first days. Small relapse a few days later briefly but no further issues.  
+- Training at gym, ancillary exercises, stretching, and work on form with proper power generation and mechanics; Footwork, Squat, Row (use machine to isolate better), Bench. 
+- Eye appointment at 520pm. Update check. No issues after the first days. Small relapse a few days later briefly but no further issues.
+- Go for a ride if you still have energy. 
 
 ## 4/27/26 - Monday 
 - DONE ~~See parents off at airport. they arrive at 1:20pm and depart around 7:35pm~~
