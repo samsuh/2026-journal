@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 4/29/26 - Wednesday  
-- Go for a bike ride
+- DONE ~~Go for a bike ride~~
 - Maybe set some goals, or plan other trips out
 - Check how much it costs to send candy to Cali
 
