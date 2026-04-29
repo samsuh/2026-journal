@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 4/30/26 - Thursday 
+- Gym, try new shoes. Do set B, plus hip abductor.
+- Help S out with ordering stuff online 
+
 ## 4/29/26 - Wednesday  
 - DONE ~~Go for a bike ride~~ +30km
 - Maybe set some goals, or plan other trips out
