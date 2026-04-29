@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 4/29/26 - Wednesday  
-- DONE ~~Go for a bike ride~~
+- DONE ~~Go for a bike ride~~ +30km
 - Maybe set some goals, or plan other trips out
 - DONE ~~Check how much it costs to send candy to Cali~~ unreasonably expensive. over $50 to send $14 of snacks. 
 
@@ -18,8 +18,8 @@
   - Go to gym. New lifting pattern; strengthen accessory first. Hip abductors, foot arch strengthening, open up stance; learn to use hips and glutes more than back. 
 
 ## 4/26/26 - Sunday 
-- Ask mom about 엿 for E
-- went for a nice ride to seoul forest.
+- DONE ~~Ask mom about 엿 for E~~ 
+- went for a nice ride to seoul forest. +30km
   - bought bell.
   - lights worked great. 
 
