@@ -3,7 +3,7 @@
 ## 4/29/26 - Wednesday  
 - DONE ~~Go for a bike ride~~
 - Maybe set some goals, or plan other trips out
-- Check how much it costs to send candy to Cali
+- DONE ~~Check how much it costs to send candy to Cali~~ unreasonably expensive. over $50 to send $14 of snacks. 
 
 ## 4/28/26 - Tuesday 
 - DONE Training at gym, ancillary exercises, stretching, and work on form with proper power generation and mechanics; Footwork, Squat, Row (use machine to isolate better), Bench.
