@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 4/30/26 - Thursday 
-- Gym, try new shoes. Do set B, plus hip abductor.
-- Help S out with ordering stuff online 
+- DONE ~~Gym, try new shoes. Do set B, plus hip abductor.~~
+- Do it may 1 during sitewide sale. ~~Help S out with ordering stuff online.~~
 
 ## 4/29/26 - Wednesday  
 - DONE ~~Go for a bike ride~~ +30km
