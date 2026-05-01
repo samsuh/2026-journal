@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 5/1/26 - Friday 
+- Went to seoul forest. so crowded. prob not worth going too often. maybe go away after the weekend once it dies down a bit.
+
 ## 4/30/26 - Thursday 
 - DONE ~~Gym, try new shoes. Do set B, plus hip abductor.~~
 - Do it may 1 during sitewide sale. ~~Help S out with ordering stuff online.~~
