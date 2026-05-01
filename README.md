@@ -3,6 +3,7 @@
 ## 5/1/26 - Friday 
 - Went to seoul forest. so crowded. prob not worth going too often. maybe go away after the weekend once it dies down a bit.
 - DONE ~~z900 parts ordered for S~~
+- lets try clearing out old videos and free up space. 
 
 ## 4/30/26 - Thursday 
 - DONE ~~Gym, try new shoes. Do set B, plus hip abductor.~~
