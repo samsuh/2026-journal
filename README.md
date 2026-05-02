@@ -1,7 +1,16 @@
 # 2026-journal
 
+## 5/3/26 - Sunday
+- ideally go ride, but it's gonna rain today. a rest day wouldnt be terrible though. focus on other things today and get back to lifting monday with trainer.
+- update all finance things
+- prep for trip?
+- clean up; bathroom?
+- paint bedroom wall?
+
 ## 5/2/26 - Saturday 
 - DONE ~~Gym, Set A~~ good overall. cant lift as much with new form, but that's probably normal.
+- Deliveries arrived; bike stuff; tires/tubes/levers/bib/baselayershirt.
+- Been looking at cycle computers. super cheap ones seem pointless. super high end ones seem wasteful. maybe a 'igpsport binavi air', 'bryton s510', 'garmin 540'. not sure, and in no rush for it though. 
 
 ## 5/1/26 - Friday 
 - Went to seoul forest. so crowded. prob not worth going too often. maybe go away after the weekend once it dies down a bit.
