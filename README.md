@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 5/2/26 - Saturday 
+- DONE ~~Gym, Set A~~ good overall. cant lift as much with new form, but that's probably normal.
+
 ## 5/1/26 - Friday 
 - Went to seoul forest. so crowded. prob not worth going too often. maybe go away after the weekend once it dies down a bit.
 - DONE ~~z900 parts ordered for S~~
