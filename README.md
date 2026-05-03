@@ -2,13 +2,14 @@
 
 ## 5/3/26 - Sunday
 - ideally go ride, but it's gonna rain today. a rest day wouldnt be terrible though. focus on other things today and get back to lifting monday with trainer.
-  - yeah. raining consistently even in the window of time it says its not raining. 
-- update all finance things
-- prep for trip?
-- clean up; bathroom?
-- paint bedroom wall?
-- change bike tires?
-  - do i want to do a final ride with higher pressure on the 25c's?
+  - yeah. raining consistently even in the window of time it says its not raining.
+- Yeah didnt think id do any of these things today, realistically. more like a wish list. 
+  - update all finance things
+  - prep for trip?
+  - clean up; bathroom?
+  - paint bedroom wall?
+  - change bike tires?
+    - do i want to do a final ride with higher pressure on the 25c's?
 
 ## 5/2/26 - Saturday 
 - DONE ~~Gym, Set A~~ good overall. cant lift as much with new form, but that's probably normal.
