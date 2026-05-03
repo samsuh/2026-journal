@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 5/4/26 - Monday 
+- Powerlifting coaching
+- change tires prep for tomorrow. maybe go for a test ride after lifting after a rest. 
+
 ## 5/3/26 - Sunday
 - ideally go ride, but it's gonna rain today. a rest day wouldnt be terrible though. focus on other things today and get back to lifting monday with trainer.
   - yeah. raining consistently even in the window of time it says its not raining.
