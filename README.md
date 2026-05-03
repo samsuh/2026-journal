@@ -7,6 +7,8 @@
 - prep for trip?
 - clean up; bathroom?
 - paint bedroom wall?
+- change bike tires?
+  - do i want to do a final ride with higher pressure on the 25c's?
 
 ## 5/2/26 - Saturday 
 - DONE ~~Gym, Set A~~ good overall. cant lift as much with new form, but that's probably normal.
