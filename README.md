@@ -2,7 +2,8 @@
 
 ## 5/4/26 - Monday 
 - DONE ~~Powerlifting coaching~~
-- change tires prep for tomorrow. maybe go for a test ride after lifting after a rest. 
+- change tires prep for tomorrow. maybe go for a test ride after lifting after a rest.
+  - legs pretty sore. 
 
 ## 5/3/26 - Sunday
 - ideally go ride, but it's gonna rain today. a rest day wouldnt be terrible though. focus on other things today and get back to lifting monday with trainer.
