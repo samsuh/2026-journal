@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 5/4/26 - Monday 
-- Powerlifting coaching
+- DONE ~~Powerlifting coaching~~
 - change tires prep for tomorrow. maybe go for a test ride after lifting after a rest. 
 
 ## 5/3/26 - Sunday
