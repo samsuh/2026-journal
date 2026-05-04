@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 5/5/26 - Tuesday 
+- Go for a bike ride to seoul forest.
+
 ## 5/4/26 - Monday 
 - DONE ~~Powerlifting coaching~~
 - change tires prep for tomorrow. maybe go for a test ride after lifting after a rest.
