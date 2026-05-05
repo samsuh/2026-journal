@@ -1,7 +1,13 @@
 # 2026-journal
 
+## 5/6/26 - Wednesday 
+- lifting day, set A
+- finish shopping spree.
+- prep for winning the 100km challenge.
+
 ## 5/5/26 - Tuesday 
 - Go for a bike ride to seoul forest.
+- Shopping spree for bike stuff.
 
 ## 5/4/26 - Monday 
 - DONE ~~Powerlifting coaching~~
