@@ -1,8 +1,15 @@
 # 2026-journal
 
+## 5/7/26 - Thursday 
+- cycle day
+- kickr setup
+- wash bike
+- tire change
+
 ## 5/6/26 - Wednesday 
 - lifting day, set A
 - finish shopping spree.
+  - Bought a bunch of stuff for cycling. 
 - prep for winning the 100km challenge.
 
 ## 5/5/26 - Tuesday 
