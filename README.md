@@ -4,7 +4,8 @@
 - DONE ~~cycle day~~
 - DONE ~~kickr setup~~
 - DONE ~~wash bike~~
-- tire change. maybe when i take it off the trainer. 
+- tire change. maybe when i take it off the trainer.
+- DONE ~~first zwift ride~~ 160w avg. ive been told to do a 'ramp test', then eventually do FTP test (20 min sustained output)
 
 ## 5/6/26 - Wednesday 
 - lifting day, set A
