@@ -1,10 +1,10 @@
 # 2026-journal
 
 ## 5/7/26 - Thursday 
-- cycle day
-- kickr setup
-- wash bike
-- tire change
+- DONE ~~cycle day~~
+- DONE ~~kickr setup~~
+- DONE ~~wash bike~~
+- tire change. maybe when i take it off the trainer. 
 
 ## 5/6/26 - Wednesday 
 - lifting day, set A
