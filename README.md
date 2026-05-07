@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 5/8/26 - Friday 
+- Check front derailleur on bike. go through adjustment process.
+- tire change
+
 ## 5/7/26 - Thursday 
 - DONE ~~cycle day~~
 - DONE ~~kickr setup~~
