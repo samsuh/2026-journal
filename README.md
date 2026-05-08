@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 5/9/26 - Saturday
+- Riding day, maybe do the ramp test today. Also good for testing cleats
+- did i fix the derailleur by messing with it the other day?
+- tire change 
+
 ## 5/8/26 - Friday 
 - Check front derailleur on bike. go through adjustment process.
 - tire change
