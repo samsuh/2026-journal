@@ -3,6 +3,7 @@
 ## 5/8/26 - Friday 
 - Check front derailleur on bike. go through adjustment process.
 - tire change
+- DONE ~~gym set B~~
 
 ## 5/7/26 - Thursday 
 - DONE ~~cycle day~~
