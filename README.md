@@ -1,9 +1,10 @@
 # 2026-journal
 
 ## 5/9/26 - Saturday
-- Riding day, maybe do the ramp test today. Also good for testing cleats
-- did i fix the derailleur by messing with it the other day?
-- tire change 
+- DONE ~~Riding day, maybe do the ramp test today. Also good for testing cleats~~
+  - ftp 158. but the test was different than expected, as i thought the format would ramp up. but it only ramps up as a warm up then the actual 20 min portion is an open block. 
+- I THINK DONE ~~did i fix the derailleur by messing with it the other day?~~ need more testing, but initially seems to be within good limits 
+- tire change - lol still havent done it. 
 
 ## 5/8/26 - Friday 
 - Check front derailleur on bike. go through adjustment process.
