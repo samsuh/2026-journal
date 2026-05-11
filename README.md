@@ -4,7 +4,8 @@
 - Cycle computer should be arriving today
 - Gym Set A
 - Maybe take road tires out for a test today or tmrw.
-- Derm appt 
+- Derm appt
+- call airline
 
 ## 5/11/26 - Monday 
 - DONE ~~tires finally changed~~ need to safely run a test.
