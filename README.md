@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 5/12/26 - Tuesday 
+- Cycle computer should be arriving today
+- Gym Set A
+- Maybe take road tires out for a test today or tmrw.
+- Derm appt 
+
 ## 5/11/26 - Monday 
 - DONE ~~tires finally changed~~ need to safely run a test.
 - cycle day. might rain in the afternoon. raining now. rode on zwift instead with E.
