@@ -2,7 +2,8 @@
 
 ## 5/11/26 - Monday 
 - DONE ~~tires finally changed~~ need to safely run a test.
-- cycle day. might rain in the afternoon. 
+- cycle day. might rain in the afternoon. raining now. rode on zwift instead with E.
+- flight to HNL got changed. call them to figure out better dates. (1800-2626)
 
 ## 5/10/26 - Sunday 
 - Rest day from exercise cuz i wont have the chance for one in the next few days.
