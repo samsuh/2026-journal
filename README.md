@@ -2,7 +2,7 @@
 
 ## 5/12/26 - Tuesday 
 - Cycle computer should be arriving today
-- Gym Set A
+- DONE ~~Gym Set A~~
 - Maybe take road tires out for a test today or tmrw.
 - Derm appt
 - call airline
