@@ -1,10 +1,15 @@
 # 2026-journal
 
+
+## 5/13/26 - Wednesday
+- Set up cycle computer
+- Go for an indoor cycling ride. maybe do ftp. see how ear feels 
+
 ## 5/12/26 - Tuesday 
 - Cycle computer should be arriving today
 - DONE ~~Gym Set A~~
 - Maybe take road tires out for a test today or tmrw.
-- DONE ~~Derm appt~~ next follow up in a week. no appt needed. call ahead to confirm availability tho. 
+- DONE ~~Derm appt~~ next follow up in a week. no appt needed. call ahead to confirm availability tho. Ear feels fine. 
 - call airline
 
 ## 5/11/26 - Monday 
