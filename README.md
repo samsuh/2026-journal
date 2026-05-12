@@ -4,7 +4,7 @@
 - Cycle computer should be arriving today
 - DONE ~~Gym Set A~~
 - Maybe take road tires out for a test today or tmrw.
-- Derm appt
+- DONE ~~Derm appt~~ next follow up in a week. no appt needed. call ahead to confirm availability tho. 
 - call airline
 
 ## 5/11/26 - Monday 
