@@ -3,7 +3,9 @@
 
 ## 5/13/26 - Wednesday
 - Set up cycle computer
-- Go for an indoor cycling ride. maybe do ftp. see how ear feels 
+- Go for an indoor cycling ride. maybe do ftp. see how ear feels
+- Call about hawaii flights.
+  - figure out ideal rescheduling and possible range 
 
 ## 5/12/26 - Tuesday 
 - Cycle computer should be arriving today
