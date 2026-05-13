@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 5/14/26 - Thursday 
+- Powerlifting at 1pm
+- Confirm deposit went through finally
 
 ## 5/13/26 - Wednesday
 - Set up cycle computer
