@@ -3,7 +3,8 @@
 
 ## 5/13/26 - Wednesday
 - Set up cycle computer
-- Go for an indoor cycling ride. maybe do ftp. see how ear feels
+  - pretty good.
+- DONE ~~Go for an indoor cycling ride. maybe do ftp. see how ear feels~~ ear feels fine 
 - DONE ~~Call about hawaii flights.~~ They are not very helpful. customer service was lacking, but i figured it out on my own without their help. 
   - booked a night at the hyatt downtown for the extra night. Should be good.
 
