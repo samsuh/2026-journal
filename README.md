@@ -2,8 +2,8 @@
 
 ## 5/14/26 - Thursday 
 - Powerlifting at 1pm
-- Confirm deposit went through finally
-
+- DONE ~~Confirm deposit went through finally~~
+- maybe sell cameras and upgrade to one nicer one 
 ## 5/13/26 - Wednesday
 - Set up cycle computer
   - pretty good.
