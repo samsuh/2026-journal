@@ -4,6 +4,7 @@
 - DONE ~~Powerlifting at 1pm~~
 - DONE ~~Confirm deposit went through finally~~
 - maybe sell cameras and upgrade to one nicer one
+- DONE ~~front derailleur adjustment completed. i think it's good.~~ recheck after a big ride. 
 
 ## 5/13/26 - Wednesday
 - DONE ~~Set up cycle computer~~
