@@ -6,8 +6,8 @@
 - maybe sell cameras and upgrade to one nicer one
 
 ## 5/13/26 - Wednesday
-- Set up cycle computer
-  - pretty good.
+- DONE ~~Set up cycle computer~~
+  - pretty good. cycle comp not compatible with my x4 camera. only x4 air and newer. 
 - DONE ~~Go for an indoor cycling ride. maybe do ftp. see how ear feels~~ ear feels fine 
 - DONE ~~Call about hawaii flights.~~ They are not very helpful. customer service was lacking, but i figured it out on my own without their help. 
   - booked a night at the hyatt downtown for the extra night. Should be good.
