@@ -1,10 +1,13 @@
 # 2026-journal
 
+## 5/16/26 - Saturday 
+- Maybe rest day?
+- If not rest day, then Gym Set A.
+
 ## 5/15/26 - Friday 
 - DONE ~~Max distance ride baseline.~~
   - 57.53km! i broke 50km! :)
 - DONE ~~S picking up motorcycle accessories.~~
-- 
 
 ## 5/14/26 - Thursday 
 - DONE ~~Powerlifting at 1pm~~
