@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 5/15/26 - Friday 
+- Max distance ride baseline.
+  - 57.53km! i broke 50km! :)
+- S picking up motorcycle accessories.
+- 
+
 ## 5/14/26 - Thursday 
 - DONE ~~Powerlifting at 1pm~~
 - DONE ~~Confirm deposit went through finally~~
