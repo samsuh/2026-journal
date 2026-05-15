@@ -1,9 +1,9 @@
 # 2026-journal
 
 ## 5/15/26 - Friday 
-- Max distance ride baseline.
+- DONE ~~Max distance ride baseline.~~
   - 57.53km! i broke 50km! :)
-- S picking up motorcycle accessories.
+- DONE ~~S picking up motorcycle accessories.~~
 - 
 
 ## 5/14/26 - Thursday 
