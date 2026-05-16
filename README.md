@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 5/16/26 - Saturday 
-- Maybe rest day?
-- If not rest day, then Gym Set A.
+- Maybe rest day? Yeah definitely rest day. my legs need it. 
+  - Not today ~~If not rest day, then Gym Set A.~~
 
 ## 5/15/26 - Friday 
 - DONE ~~Max distance ride baseline.~~
