@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 5/18/26 - Monday 
+- Rest day from cycling
+- Wash bike, clean chain again. looks pretty dirty.
+- if feeling recovered, gym set A.
+- Get stitches out tomorrow. prep to call them and ask for availability. maybe take some pictures of things to ask about at appt. 
+
 ## 5/17/26 - Sunday
 - Big win today. blew past 60km goal and hit 106km. won the power meter. A few noteworthy things. 
   - my pinky went numb afterwards. this is a sign im putting too much weight into my hands. bring this up during bike fit
