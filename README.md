@@ -1,9 +1,16 @@
 # 2026-journal
 
 ## 5/17/26 - Sunday
-- Max distance ride attempt, but with fueling and water in mind.
-- Bring gloves and camera this time.
-- Go for 60km+
+- Big win today. blew past 60km goal and hit 106km. won the power meter. A few noteworthy things. 
+  - my pinky went numb afterwards. this is a sign im putting too much weight into my hands. bring this up during bike fit
+  - bring up saddle issues.
+  - the quad just above the knee is the most sore after. might be putting stress on the knee? tendon?
+  - ran out of sunscreen
+  - the hrm started chafing. 
+- DONE ~~Max distance ride attempt, but with fueling and water in mind.~~ 
+  - Bring gloves and camera this time.
+  - Go for 60km+
+
 
 ## 5/16/26 - Saturday 
 - Maybe rest day? Yeah definitely rest day. my legs need it. 
