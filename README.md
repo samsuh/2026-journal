@@ -1,9 +1,9 @@
 # 2026-journal
 
 ## 5/18/26 - Monday 
-- Rest day from cycling
+- DONE ~~Rest day from cycling~~
 - Wash bike, clean chain again. looks pretty dirty.
-- if feeling recovered, gym set A.
+- DONE ~~if feeling recovered, gym set A.~~
 - Get stitches out tomorrow. prep to call them and ask for availability. maybe take some pictures of things to ask about at appt. 
 
 ## 5/17/26 - Sunday
