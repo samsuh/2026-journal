@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 5/19/26 - Tuesday 
+- Derm appt around 3pm. Call in advance before going
+  - bring bandaid and alcohol wipe. 
+- Maybe visit lake shoes store. but it's pretty far. maybe right after the derm appt.
+
 ## 5/18/26 - Monday 
 - DONE ~~Rest day from cycling~~
 - Wash bike, clean chain again. looks pretty dirty.
