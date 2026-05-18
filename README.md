@@ -10,7 +10,8 @@
   - saddle sometimes not comfortable
   - 'handlebars feel too far'; i suspect im sitting too upright, pelvis rear tilt, so arms have to reach
   - shoes/cleats question; any better/worse?
-  - power meter; will crank arm length make a big difference? what should i be running; 172.5 normal, but i hear shorter is better for increased cadence, and my cadence seems a little low currently. worth changing? 
+  - power meter; will crank arm length make a big difference? what should i be running; 172.5 normal, but i hear shorter is better for increased cadence, and my cadence seems a little low currently. worth changing?
+  - q factor check? 
 
 ## 5/17/26 - Sunday
 - Big win today. blew past 60km goal and hit 106km. won the power meter. A few noteworthy things. 
