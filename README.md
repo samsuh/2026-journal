@@ -4,7 +4,13 @@
 - DONE ~~Rest day from cycling~~
 - Wash bike, clean chain again. looks pretty dirty.
 - DONE ~~if feeling recovered, gym set A.~~
-- Get stitches out tomorrow. prep to call them and ask for availability. maybe take some pictures of things to ask about at appt. 
+- Get stitches out tomorrow. prep to call them and ask for availability. maybe take some pictures of things to ask about at appt.
+- Things to bring up during bike fit:
+  - numb pinky after long ride. maybe handlebars or other fit.
+  - saddle sometimes not comfortable
+  - 'handlebars feel too far'; i suspect im sitting too upright, pelvis rear tilt, so arms have to reach
+  - shoes/cleats question; any better/worse?
+  - power meter; will crank arm length make a big difference? what should i be running; 172.5 normal, but i hear shorter is better for increased cadence, and my cadence seems a little low currently. worth changing? 
 
 ## 5/17/26 - Sunday
 - Big win today. blew past 60km goal and hit 106km. won the power meter. A few noteworthy things. 
