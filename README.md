@@ -1,9 +1,14 @@
 # 2026-journal
 
+## 5/20/26 - Wednesday 
+- Bike fitting today
+  - expecting lots of rain today. have to ride bike to the fitting.
+    - ordered rain guards. hopefully they arrive before like 2pm. 
+
 ## 5/19/26 - Tuesday 
-- Derm appt around 3pm. Call in advance before going
+- DONE ~~Derm appt around 3pm. Call in advance before going~~
   - bring bandaid and alcohol wipe. 
-- Maybe visit lake shoes store. but it's pretty far. maybe right after the derm appt.
+- NOPE ~~Maybe visit lake shoes store. but it's pretty far. maybe right after the derm appt.~~
 
 ## 5/18/26 - Monday 
 - DONE ~~Rest day from cycling~~
