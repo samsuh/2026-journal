@@ -3,7 +3,7 @@
 ## 5/20/26 - Wednesday 
 - Bike fitting today
   - expecting lots of rain today. have to ride bike to the fitting.
-    - ordered rain guards. hopefully they arrive before like 2pm. 
+    - ordered rain guards. hopefully they arrive before like 2pm. still waiting. 
 
 ## 5/19/26 - Tuesday 
 - DONE ~~Derm appt around 3pm. Call in advance before going~~
