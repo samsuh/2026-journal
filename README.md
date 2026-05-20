@@ -3,7 +3,14 @@
 ## 5/20/26 - Wednesday 
 - Bike fitting today
   - expecting lots of rain today. have to ride bike to the fitting.
-    - ordered rain guards. hopefully they arrive before like 2pm. still waiting. i dont think theyre gonna make it in time. gonna proceed without. 
+    - ordered rain guards. hopefully they arrive before like 2pm. still waiting. i dont think theyre gonna make it in time. gonna proceed without.
+  - So much happened. The takeaways:
+    - stuff to buy:
+      - new saddle. specialized power 155mm
+      - power meter. decided on the magene p715's
+      - buying the power meter will require new shoes for road style cleats instead of mtb style i have now.
+    - Schedule a second fitting as soon as i have power saddle/powermeter/shoes
+    - Third fitting will be after a longer term test. 
 
 ## 5/19/26 - Tuesday 
 - DONE ~~Derm appt around 3pm. Call in advance before going~~
