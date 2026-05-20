@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 5/21/26 - Thursday 
+- Powerlifting 1pm
+
 ## 5/20/26 - Wednesday 
 - Bike fitting today
   - expecting lots of rain today. have to ride bike to the fitting.
