@@ -2,6 +2,7 @@
 
 ## 5/21/26 - Thursday 
 - Powerlifting 1pm
+- electric bill. im gonna forget cuz i opened the msg while out 
 
 ## 5/20/26 - Wednesday 
 - Bike fitting today
