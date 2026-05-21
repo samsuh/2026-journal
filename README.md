@@ -1,8 +1,15 @@
 # 2026-journal
 
+## 5/22/26 - Friday 
+Bicycle components shopping day
+- 1pm - saddle pick up jamsil
+- Go to lake shop easy of jamsil at KOMBike
+- 3pm - pick up power meter in jongno
+- Maybe go ride if there's still good weather and light
+
 ## 5/21/26 - Thursday 
-- Powerlifting 1pm
-- electric bill. im gonna forget cuz i opened the msg while out. check sms 
+- DONE ~~Powerlifting 1pm~~
+- DONE ~~catch up on the manually paid bills. rent, electric done.~~
 
 ## 5/20/26 - Wednesday 
 - Bike fitting today
