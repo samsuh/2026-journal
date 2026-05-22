@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 5/23/26 - Saturday 
+- Bike Fitting Session 2
+  - bring new components; shoes, cleats, power meter pedals, saddle installed already
+- Coding planning meetup dinner at 6pm
+
 ## 5/22/26 - Friday 
 - DONE ~~Bicycle components shopping day~~
   - DONE ~~1pm - saddle pick up jamsil~~
