@@ -1,10 +1,10 @@
 # 2026-journal
 
 ## 5/22/26 - Friday 
-Bicycle components shopping day
-- 1pm - saddle pick up jamsil
-- Go to lake shop easy of jamsil at KOMBike
-- 3pm - pick up power meter in jongno
+- DONE ~~Bicycle components shopping day~~
+  - DONE ~~1pm - saddle pick up jamsil~~
+  - DONE ~~Go to lake shop easy of jamsil at KOMBike~~
+  - DONE ~~3pm - pick up power meter in jongno~~
 - Maybe go ride if there's still good weather and light
 
 ## 5/21/26 - Thursday 
