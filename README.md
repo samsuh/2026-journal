@@ -5,7 +5,7 @@
   - DONE ~~1pm - saddle pick up jamsil~~
   - DONE ~~Go to lake shop easy of jamsil at KOMBike~~
   - DONE ~~3pm - pick up power meter in jongno~~
-- Maybe go ride if there's still good weather and light
+- nope. ~~Maybe go ride if there's still good weather and light~~
 
 ## 5/21/26 - Thursday 
 - DONE ~~Powerlifting 1pm~~
