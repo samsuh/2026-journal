@@ -4,7 +4,8 @@
 - Bike Fitting second session at 3pm
   - bring new components; shoes, cleats, power meter pedals, saddle installed already
 - Coding planning meetup dinner at 6pm
-
+- make appt later for third follow up in a month or two. do longer 100km rides to test fit. 
+- look into easier rear casette to increase cadence. 
 ## 5/22/26 - Friday 
 - DONE ~~Bicycle components shopping day~~
   - DONE ~~1pm - saddle pick up jamsil~~
