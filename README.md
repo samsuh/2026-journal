@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 5/24/26 - Sunday 
+- Lets go for a ride, and also get to the gym for a bit.
+- Tomorrow ill spend hanging out with mom when mom and dad get back to korea
+
 ## 5/23/26 - Saturday 
 - Bike Fitting second session at 3pm
   - bring new components; shoes, cleats, power meter pedals, saddle installed already
