@@ -2,6 +2,7 @@
 
 ## 5/24/26 - Sunday 
 - Lets go for a ride, and also get to the gym for a bit.
+  - Oof. fell going on an uphill ramp. could get out of the cleats. rip. 
 - Tomorrow ill spend hanging out with mom when mom and dad get back to korea
 
 ## 5/23/26 - Saturday 
