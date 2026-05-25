@@ -1,5 +1,11 @@
 # 2026-journal
 
+
+## 5/25/26 - Monday
+- DONE ~~Gym Set A~~
+  - my knee sleeves are getting kinda tight. calves win?
+- Going to try taking shoes to shop again, but ill call in advance 
+
 ## 5/24/26 - Sunday 
 - Lets go for a ride, and also get to the gym for a bit.
   - Oof. fell going on an uphill ramp. could get out of the cleats. rip. 
