@@ -4,7 +4,8 @@
 ## 5/25/26 - Monday
 - DONE ~~Gym Set A~~
   - my knee sleeves are getting kinda tight. calves win?
-- Going to try taking shoes to shop again, but ill call in advance 
+- DONE ~~Going to try taking shoes to shop again, but ill call in advance~~
+  - KOM Bike guy fixed it pretty quickly. 
 
 ## 5/24/26 - Sunday 
 - Lets go for a ride, and also get to the gym for a bit.
