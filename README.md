@@ -2,8 +2,9 @@
 
 ## 5/26/26 - Tuesday
 - hung out with parents around seoul
-- rose festival was a miss
-- seoul forest and kongnamulgukbap and bakery was a hit
+  - rose festival was a miss
+  - seoul forest and kongnamulgukbap and bakery was a hit
+- Told dad id buy him a new phone cuz his screen cracked
 
 ## 5/25/26 - Monday
 - DONE ~~Gym Set A~~
