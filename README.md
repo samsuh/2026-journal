@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 5/26/26 - Tuesday
+- hung out with parents around seoul
+- rose festival was a miss
+- seoul forest and kongnamulgukbap and bakery was a hit
 
 ## 5/25/26 - Monday
 - DONE ~~Gym Set A~~
