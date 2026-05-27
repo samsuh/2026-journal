@@ -1,5 +1,9 @@
 # 2026-journal
 
+
+## 5/27/26 - Friday 
+- DONE ~~Gym Set B~~
+
 ## 5/26/26 - Tuesday
 - hung out with parents around seoul
   - rose festival was a miss
