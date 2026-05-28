@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 5/29/26 - Friday 
+- Gym, Set A.
+
 ## 5/28/26 - Thursday 
 - Eye appointment. The macular edema is settling down on its own. no surgery or special injection needed. Will revisit in 3 months.
 - Cycling FTP currently measured at 215W from a ramp test. I did another workout after the ramp test. that might have been stupid, since my legs were gone. 
