@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 5/30/26 - Saturday 
+- Do a power meter calibration, zero point offset
+- Check with J
+
 ## 5/29/26 - Friday 
 - DONE ~~Gym, Set A.~~
 
