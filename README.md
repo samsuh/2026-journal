@@ -1,11 +1,11 @@
 # 2026-journal
 
 ## 5/30/26 - Saturday 
-- Do a power meter calibration, zero point offset
 - Check with J
 
 ## 5/29/26 - Friday 
 - DONE ~~Gym, Set A.~~
+- DONE~~Do a power meter calibration, zero point offset~~
 
 ## 5/28/26 - Thursday 
 - Eye appointment. The macular edema is settling down on its own. no surgery or special injection needed. Will revisit in 3 months.
