@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 5/30/26 - Saturday 
-- Check with J
+- Check with J. It's so hot today, damn. Running AC for the first time this year. 
 
 ## 5/29/26 - Friday 
 - DONE ~~Gym, Set A.~~
