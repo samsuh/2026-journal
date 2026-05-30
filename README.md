@@ -1,7 +1,11 @@
 # 2026-journal
 
+## 5/31/26 - Sunday 
+- Goal is to go riding outside since it's been a while. 
+
 ## 5/30/26 - Saturday 
-- Check with J. It's so hot today, damn. Running AC for the first time this year. 
+- Check with J.
+- It's so hot today, damn. Running AC for the first time this year. Only ran it for a bit during the hottest part of the day and turned it off. 
 
 ## 5/29/26 - Friday 
 - DONE ~~Gym, Set A.~~
