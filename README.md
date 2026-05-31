@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 5/31/26 - Sunday 
-- Goal is to go riding outside since it's been a while. 
+- Goal is to go riding outside since it's been a while. It's hot out. feels like a mild baking. 
 
 ## 5/30/26 - Saturday 
 - Check with J.
