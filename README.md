@@ -1,7 +1,11 @@
 # 2026-journal
 
+## 6/1/26 - Monday 
+- Check for access to server remotely for japan trip. 
+
 ## 5/31/26 - Sunday 
-- Goal is to go riding outside since it's been a while. It's hot out. feels like a mild baking. 
+- DONE ~~Goal is to go riding outside since it's been a while.~~ It's hot out. feels like a mild baking.
+- DONE ~~bought some gifts, sunscreen, for J for japan~~
 
 ## 5/30/26 - Saturday 
 - Check with J.
