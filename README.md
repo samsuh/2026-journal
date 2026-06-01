@@ -2,7 +2,7 @@
 
 ## 6/1/26 - Monday 
 - Check for access to server remotely for japan trip.
-- Maybe rest day? maybe more cycling. powerlifting tomorrow. 
+- Maybe rest day? maybe more cycling. powerlifting tomorrow. nope. 65km lol.
 
 ## 5/31/26 - Sunday 
 - DONE ~~Goal is to go riding outside since it's been a while.~~ It's hot out. feels like a mild baking.
