@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 6/2/26 - Tuesday 
+- DONE ~~Gym, Set B, powerlifting training~~
+- didnt do remote checking. needs to get done before trip. 
+
 ## 6/1/26 - Monday 
 - Check for access to server remotely for japan trip.
 - Maybe rest day? maybe more cycling. powerlifting tomorrow. nope. 65km lol.
