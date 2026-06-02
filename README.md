@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 6/3/26 - Wednesday 
+- Yesterday felt pretty empty/uneventful.
+- Maybe go for a ride today before it starts raining
+  - Wash bike again, prep for indoor riding maybe 
 ## 6/2/26 - Tuesday 
 - DONE ~~Gym, Set B, powerlifting training~~
 - didnt do remote checking. needs to get done before trip. 
