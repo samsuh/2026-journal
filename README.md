@@ -2,8 +2,10 @@
 
 ## 6/3/26 - Wednesday 
 - Yesterday felt pretty empty/uneventful.
-- Maybe go for a ride today before it starts raining
-  - Wash bike again, prep for indoor riding maybe 
+- DONE ~~Maybe go for a ride today before it starts raining~~ 58km ride
+  - DONE ~~Wash bike again, prep for indoor riding maybe~~ washed.
+- Got hit my a teenage girl in an suv on the bike at a slow speed. she didnt even look. i told her to just go since i wasnt hurt, and the bike didnt really get damaged beyond the handlebar end; some tape and the end cap.
+
 ## 6/2/26 - Tuesday 
 - DONE ~~Gym, Set B, powerlifting training~~
 - didnt do remote checking. needs to get done before trip. 
