@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/4/26 - Thursday 
+- Nothing planned for today. i should prob get a haircut tomorrow. 
+
 ## 6/3/26 - Wednesday 
 - Yesterday felt pretty empty/uneventful.
 - DONE ~~Maybe go for a ride today before it starts raining~~ 58km ride
