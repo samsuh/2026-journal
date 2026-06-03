@@ -1,7 +1,11 @@
 # 2026-journal
 
 ## 6/4/26 - Thursday 
-- Nothing planned for today. i should prob get a haircut tomorrow. 
+- Nothing planned for today. i should prob get a haircut tomorrow.
+- Find or buy CR2032 battery for luggage scale.
+  - weigh bike
+  - start initially packing for japan.
+  - look up luggage allowance for my flight. 
 
 ## 6/3/26 - Wednesday 
 - Yesterday felt pretty empty/uneventful.
