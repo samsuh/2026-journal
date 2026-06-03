@@ -6,6 +6,7 @@
   - weigh bike
   - start initially packing for japan.
   - look up luggage allowance for my flight. 
+- buy nitrile gloves
 
 ## 6/3/26 - Wednesday 
 - Yesterday felt pretty empty/uneventful.
