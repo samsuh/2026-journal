@@ -7,7 +7,7 @@
 - Japan
   - start initially packing for japan.
   - look up luggage allowance for my flight.
-  - decide cities in japan. when will i be in each city
+  - ~~decide cities in japan. when will i be in each city~~
   - figure out phone situation for japan 
 - buy gloves nitrile 
 - disposal of drying rack. sticker? 
