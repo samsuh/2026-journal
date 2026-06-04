@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/5/26 - Friday 
+- haircut
+
 ## 6/4/26 - Thursday 
 - Nothing planned for today. i should prob get a haircut tomorrow.
 - DONE ~~Find or buy CR2032 battery for luggage scale.~~
