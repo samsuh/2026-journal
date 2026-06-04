@@ -6,7 +6,10 @@
   - weigh bike
   - start initially packing for japan.
   - look up luggage allowance for my flight. 
-- buy nitrile gloves
+- buy gloves nitrile 
+- disposal of drying rack. sticker? 
+- decide cities in japan. when will i be in each city
+- figure out phone situation for japan 
 
 ## 6/3/26 - Wednesday 
 - Yesterday felt pretty empty/uneventful.
