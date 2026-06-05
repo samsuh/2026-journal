@@ -1,18 +1,18 @@
 # 2026-journal
 
 ## 6/5/26 - Friday 
-- haircut
+- DONE ~~haircut~~
 
 ## 6/4/26 - Thursday 
 - Nothing planned for today. i should prob get a haircut tomorrow.
 - DONE ~~Find or buy CR2032 battery for luggage scale.~~
-- weigh bike
+- DONE ~~weigh bike~~. 6.7 without rear wheel + 1.5 for rear wheel
 - Japan
   - start initially packing for japan.
-  - look up luggage allowance for my flight.
+  - ~~look up luggage allowance for my flight.~~ 15kg
   - ~~decide cities in japan. when will i be in each city~~
   - figure out phone situation for japan 
-- buy gloves nitrile 
+- DONE ~~buy gloves nitrile~~
 - disposal of drying rack. sticker? 
 
 
