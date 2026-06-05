@@ -6,7 +6,13 @@
   - Japan - figure out phone solution
   - Japan - figure out credit card and suica solution
   - dispose of drying rack
-  - confirm what i can get done remotely for server upkeep. do i just let it run dead for a week worst case scenario? maybe. 
+  - confirm what i can get done remotely for server upkeep. do i just let it run dead for a week worst case scenario? maybe.
+- Cycling things to buy:
+  - https://smartstore.naver.com/bwell/products/4819375563?nl-query=%EC%8B%9C%EB%A7%88%EB%85%B8+%EB%92%B7%EB%93%9C%EB%A0%88%EC%9D%BC%EB%9F%AC+r7000+gs&nl-ts-pid=jAKTelqXKZGssECwW7C-474608&NaPm=ct%3Dmq19ilbc%7Cci%3D578d8aa4d5e56b386e8d2ec092c03e3c4cda49ed%7Ctr%3Dsls%7Csn%3D569964%7Chk%3D5b9659b9512e6275b5122369b920fe6329589aed
+    - 105 11S rear derailleur rd-r7000-gs ($48)
+    - 105 11-34T cassette CS-HG700 ($44)
+    - ultegra chain CN-HG701 ($28)
+    - need to figure out which 'shift inner cable' i need.
 
 ## 6/5/26 - Friday 
 - DONE ~~haircut~~
