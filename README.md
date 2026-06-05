@@ -1,5 +1,13 @@
 # 2026-journal
 
+## 6/6/26 - Saturday 
+- Start packing for Tuesday
+- Complete to dos backlogged
+  - Japan - figure out phone solution
+  - Japan - figure out credit card and suica solution
+  - dispose of drying rack
+  - confirm what i can get done remotely for server upkeep. do i just let it run dead for a week worst case scenario? maybe. 
+
 ## 6/5/26 - Friday 
 - DONE ~~haircut~~
 
