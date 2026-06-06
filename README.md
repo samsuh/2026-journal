@@ -4,7 +4,8 @@
 - Start packing for Tuesday
 - Complete to dos backlogged
   - DONE ~~Japan - figure out phone solution~~
-  - Japan - figure out credit card and suica solution
+  - DONE ~~Japan - figure out credit card and suica solution~~
+    - call hyatt to release fraud detection
   - effectively DONE. SCHEDULED for tmrw and placed outside. ~~dispose of drying rack~~
   - confirm what i can get done remotely for server upkeep. do i just let it run dead for a week worst case scenario? maybe.
 - Cycling things to buy:
