@@ -13,6 +13,7 @@
     - 105 11-34T cassette CS-HG700 ($44)
     - ultegra chain CN-HG701 ($28)
     - need to figure out which 'shift inner cable' i need.
+  - DONE ~~Gym Set B~~
 
 ## 6/5/26 - Friday 
 - DONE ~~haircut~~
