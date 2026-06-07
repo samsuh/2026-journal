@@ -3,7 +3,7 @@
 ## 6/7/26 - Sunday 
 - Packing
 - Decide computer(s) to take on trip.
-- zwift? ride outside? 
+- DONE ~~zwift? ride outside?~~
 
 ## 6/6/26 - Saturday 
 - Start packing for Tuesday
