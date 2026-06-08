@@ -1,5 +1,9 @@
 # 2026-journal
 
+##. 6/7/26 - Tuesday
+- go japan 
+- go karuizawa 
+
 ## 6/8/26 - Monday
 - DONE ~~Get IDP~~
 - DONE ~~Gym Set A~~
