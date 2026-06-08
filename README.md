@@ -2,6 +2,7 @@
 
 ## 6/8/26 - Monday
 - DONE ~~Get IDP~~
+- DONE ~~Gym Set A~~
 - Actual last day to pack
 - Go to sleep early, at like 10pm. Wake up at 6 and get out by 7.
 - pack american chargers for japan
