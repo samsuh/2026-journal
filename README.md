@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 6/8/26 - Monday
+- DONE ~~Get IDP~~
+- Actual last day to pack
+- Go to sleep early, at like 10pm. Wake up at 6 and get out by 7. 
+
 ## 6/7/26 - Sunday 
 - Packing
 - Decide computer(s) to take on trip.
