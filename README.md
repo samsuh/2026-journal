@@ -1,8 +1,12 @@
 # 2026-journal
 
-##. 6/7/26 - Tuesday
+## 6/10/26 - Wednesday 
+- Hung out with J and her friend J. met up with the kids and went to get dinner at the suoermarket. then went back to est Johnny the watermelon. 
+
+## 6/9/26 - Tuesday
 - go japan 
 - go karuizawa 
+- hung out with J and L 
 
 ## 6/8/26 - Monday
 - DONE ~~Get IDP~~
