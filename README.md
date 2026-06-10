@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 6/11/26 - Thursday 
+- hang out with J and J again 
+- figure out where to stay in tokyo 
+
 ## 6/10/26 - Wednesday 
 - Hung out with J and her friend J. met up with the kids and went to get dinner at the suoermarket. then went back to est Johnny the watermelon. 
 
