@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/16/26 - Tuesday
+- heading back to korea today 
+
 ## 6/11/26 - Thursday 
 - hang out with J and J again 
 - figure out where to stay in tokyo 
