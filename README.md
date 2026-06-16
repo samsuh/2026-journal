@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 6/16/26 - Tuesday
-- heading back to korea today 
+- DONE ~~heading back to korea today~~. im back
 
 ## 6/11/26 - Thursday 
 - hang out with J and J again 
