@@ -3,6 +3,7 @@
 ## 6/18/26 - Thursday 
 - Powerlifting today
 - Maybe start planning Hawaii
+- do finance overview check. check for american account status and see if everythings maintaining itself. 
 
 ## 6/17/26 - Wednesday 
 - Ride bike? prob not lifting since ill do it tomorrow.
