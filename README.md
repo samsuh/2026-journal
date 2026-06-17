@@ -1,7 +1,11 @@
 # 2026-journal
 
+## 6/18/26 - Thursday 
+- Powerlifting today 
+
 ## 6/17/26 - Wednesday 
-- Ride bike? prob not lifting since ill do it tomorrow. 
+- Ride bike? prob not lifting since ill do it tomorrow.
+  - did 100km :)
 
 ## 6/16/26 - Tuesday
 - DONE ~~heading back to korea today~~. im back
