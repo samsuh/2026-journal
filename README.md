@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 6/18/26 - Thursday 
-- Powerlifting today 
+- Powerlifting today
+- Maybe start planning Hawaii
 
 ## 6/17/26 - Wednesday 
 - Ride bike? prob not lifting since ill do it tomorrow.
