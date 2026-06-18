@@ -2,6 +2,7 @@
 
 ## 6/18/26 - Thursday 
 - DONE ~~Powerlifting today~~
+  - also did a quick 25min zwift ride after lifting. 
 - Maybe start planning Hawaii
 - do finance overview check. check for american account status and see if everythings maintaining itself. 
 
