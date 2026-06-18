@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/19/26 - Friday 
+- No plans 
+
 ## 6/18/26 - Thursday 
 - DONE ~~Powerlifting today~~
   - also did a quick 25min zwift ride after lifting. 
