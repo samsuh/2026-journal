@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 6/18/26 - Thursday 
-- Powerlifting today
+- DONE ~~Powerlifting today~~
 - Maybe start planning Hawaii
 - do finance overview check. check for american account status and see if everythings maintaining itself. 
 
