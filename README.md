@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/21/26 - Sunday 
+- If it's not raining, go for a ride outdoors. Otherwise ride indoors. 
+
 ## 6/20/26 - Saturday 
 - Still no plans. This might not be the greatest.
 - DONE ~~Gym Set B~~
