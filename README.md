@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 6/20/26 - Saturday 
-- Still no plans. This might not be the greatest. 
+- Still no plans. This might not be the greatest.
+- DONE ~~Gym Set B~~
 
 ## 6/19/26 - Friday 
 - No plans 
