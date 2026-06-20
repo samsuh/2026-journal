@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/20/26 - Saturday 
+- Still no plans. This might not be the greatest. 
+
 ## 6/19/26 - Friday 
 - No plans 
 
