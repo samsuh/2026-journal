@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 6/22/26 - Monday 
+- DONE ~~Gym. Set A~~
+- Zwift cooldown?
+
 ## 6/21/26 - Sunday 
 - If it's not raining, go for a ride outdoors. Otherwise ride indoors. weather forecast seems to say no rain. and nice temp.
   - zwifted instead
