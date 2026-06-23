@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 6/23/26 - Tuesday 
-- Rest day
+- Rest day. Nope. did a zwift ride. gassed pretty hard and felt super sleepy during the ride. looking it up it says thats a type of bonk. someone else suggested it might be a sugar crash from eating cereal before riding. was a weird sensation falling asleep on a bike. 
 
 ## 6/22/26 - Monday 
 - DONE ~~Gym. Set A~~
