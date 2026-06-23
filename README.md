@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/23/26 - Tuesday 
+- Rest day
+
 ## 6/22/26 - Monday 
 - DONE ~~Gym. Set A~~
 - DONE ~~Zwift cooldown?~~
