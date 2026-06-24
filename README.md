@@ -1,5 +1,10 @@
 # 2026-journal
 
+
+## 6/24/26 - Wednesday 
+- DONE ~~Gym. Set B, but only squats/light deadlift, brace practice. then machines, lat pulldown and leg adduction"~~
+  - practice bracing. push out from bellybutton using muscles, then breathe in bracing, exhale bracing, etc.
+
 ## 6/23/26 - Tuesday 
 - Rest day. Nope. did a zwift ride. gassed pretty hard and felt super sleepy during the ride. looking it up it says thats a type of bonk. someone else suggested it might be a sugar crash from eating cereal before riding. was a weird sensation falling asleep on a bike. 
 
