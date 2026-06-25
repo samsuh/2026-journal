@@ -1,5 +1,7 @@
 # 2026-journal
 
+## 6/25/26 - Thursday
+- Went for a ride to seoul forest, went a bit beyond to test the new cassette. it's great. makes cadence easier and makes climbing easier. 
 
 ## 6/24/26 - Wednesday 
 - DONE ~~Gym. Set B, but only squats/light deadlift, brace practice. then machines, lat pulldown and leg adduction"~~
