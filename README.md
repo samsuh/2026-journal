@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 6/26/26 - Friday 
-- Gym Set A
+- DONE ~~Gym Set A~~
+  - also did a zwift ride after. 
 - look into threejs stuff again; maybe do some market research to figure out the current trends
 
 ## 6/25/26 - Thursday
