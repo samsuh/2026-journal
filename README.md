@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 6/27/26 - Saturday
+- slept a lot. too hot to ride outside.
+- indoor zwift today? 
+
 ## 6/26/26 - Friday 
 - DONE ~~Gym Set A~~
   - also did a zwift ride after. 
