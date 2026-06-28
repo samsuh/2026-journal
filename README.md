@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 6/29/26 - Monday
+- Meet up with parents at airport before they head to hospital
+- Maybe ride outdoors if not too hot. zwift otherwise. 
+
 ## 6/28/26 - Sunday 
 - DONE ~~Gym Set B~~
 
