@@ -3,7 +3,7 @@
 ## 6/29/26 - Monday
 - Meet up with parents at airport before they head to hospital
 - Maybe ride outdoors if not too hot. zwift otherwise.
-- I want to get back to "being productive" sometime soon. I don't know what that means though. 
+- I want to get back to "being productive" sometime soon. I don't know what that means though. Im being pulled in a few directions; coding (threejs, rust, web dev, or ai stuff; both automation and practical), music (guitar, music production), aviation, gaming.
 
 ## 6/28/26 - Sunday 
 - DONE ~~Gym Set B~~
