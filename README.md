@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 6/28/26 - Sunday 
-- Gym Set B
+- DONE ~~Gym Set B~~
 
 ## 6/27/26 - Saturday
 - slept a lot. too hot to ride outside.
