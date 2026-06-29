@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 6/30/26 - Tuesday 
+- I wonder if i can wake up early enough to go for a morning ride and be back before it gets hot.
+
 ## 6/29/26 - Monday
 - DONE ~~Meet up with parents at airport before they head to hospital~~
 - DONE. zwifted. ~~Maybe ride outdoors if not too hot. zwift otherwise.~~
