@@ -2,6 +2,7 @@
 
 ## 6/30/26 - Tuesday 
 - I wonder if i can wake up early enough to go for a morning ride and be back before it gets hot.
+- Eating restriction: attempting intermittent fasting.
 
 ## 6/29/26 - Monday
 - DONE ~~Meet up with parents at airport before they head to hospital~~
