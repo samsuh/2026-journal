@@ -2,6 +2,7 @@
 
 ## 6/30/26 - Tuesday 
 - I wonder if i can wake up early enough to go for a morning ride and be back before it gets hot.
+  - went for a ride but didnt make it back before it got hot. too hot. 
 - Eating restriction: attempting intermittent fasting.
   - ride more to burn more carbs and calories.
 
