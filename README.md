@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/1/26 - Wednesday 
+- 2026 is half over. damn.
+- Gym, Set A. coaching. i dont think i have many sessions left. 
+
 ## 6/30/26 - Tuesday 
 - I wonder if i can wake up early enough to go for a morning ride and be back before it gets hot.
   - went for a ride but didnt make it back before it got hot. too hot. 
