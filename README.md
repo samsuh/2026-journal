@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/2/26 - Thursday 
+- Parents prob heading back to jeju. check in on them
+- Cycling day probably. maybe zwift if it looks like its gonna rain.
+
 ## 7/1/26 - Wednesday 
 - 2026 is half over. damn.
 - DONE ~~Gym, Set A. coaching.~~ i dont think i have many sessions left. apparently 2-3 more. 
