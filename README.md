@@ -2,7 +2,8 @@
 
 ## 7/1/26 - Wednesday 
 - 2026 is half over. damn.
-- Gym, Set A. coaching. i dont think i have many sessions left. 
+- Gym, Set A. coaching. i dont think i have many sessions left.
+- Small restriction rules on eating is helping curb overeating while not being too bad. times for the intermittent fasting help push like 30 mins or an hour here and there, which prob saves a snack or two in calories. More than the actual food, it's hopefully going to train the ability to resist the initial urge to eat. 
 
 ## 6/30/26 - Tuesday 
 - I wonder if i can wake up early enough to go for a morning ride and be back before it gets hot.
