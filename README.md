@@ -2,7 +2,7 @@
 
 ## 7/2/26 - Thursday 
 - Parents prob heading back to jeju. check in on them
-- Cycling day probably. maybe zwift if it looks like its gonna rain.
+- Done. Zwifted. Cycling day probably. maybe zwift if it looks like its gonna rain. 
 
 ## 7/1/26 - Wednesday 
 - 2026 is half over. damn.
