@@ -2,6 +2,7 @@
 
 ## 7/3/26 - Friday 
 - Wow it's already friday. no plans really. maybe gym, set B with some light bench practice 
+- motorcycle testing
 
 ## 7/2/26 - Thursday 
 - Parents prob heading back to jeju. check in on them
