@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 7/3/26 - Friday 
+- Wow it's already friday. no plans really. maybe gym, set B with some light bench practice 
+
 ## 7/2/26 - Thursday 
 - Parents prob heading back to jeju. check in on them
 - Done. Zwifted. Cycling day probably. maybe zwift if it looks like its gonna rain. 
