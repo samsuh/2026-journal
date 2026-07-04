@@ -2,6 +2,8 @@
 
 ## 7/4/26 - Saturday 
 - No plans
+- did FTP ramp test. ftp = 200. felt good but i messed up the end so i ended up getting a lower result than last time. felt better than last time tho.
+- MJ randomly messaged me out of the blue to ask if i wanted to hang out. we got food around here and went to walk around hangang and saw independence day fireworks. was nice. 
 
 ## 7/3/26 - Friday 
 - Wow it's already friday. no plans really. maybe gym, set B with some light bench practice 
