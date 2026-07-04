@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 7/5/26 - Sunday 
+- Gym Set A
+
 ## 7/4/26 - Saturday 
 - No plans
 - did FTP ramp test. ftp = 200. felt good but i messed up the end so i ended up getting a lower result than last time. felt better than last time tho.
