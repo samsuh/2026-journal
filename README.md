@@ -2,7 +2,7 @@
 
 ## 7/5/26 - Sunday 
 - DONE ~~Gym Set A~~
-- maybe i can set a timer to clean every day for like 5-10 minutes 
+- DONE ~~maybe i can set a timer to clean every day for like 5-10 minutes.~~ nice. 
 
 ## 7/4/26 - Saturday 
 - No plans
