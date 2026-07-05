@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/6/26 - Monday 
+- Bike ride indoors cuz it's supposed to rain
+- try cleaning something again today for 5 mins
+
 ## 7/5/26 - Sunday 
 - DONE ~~Gym Set A~~
 - DONE ~~maybe i can set a timer to clean every day for like 5-10 minutes.~~ nice. 
