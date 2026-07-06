@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 7/6/26 - Monday 
-- Bike ride indoors cuz it's supposed to rain
+- DONE 10/8/4 was difficult. ~~Bike ride indoors cuz it's supposed to rain~~
 - try cleaning something again today for 5 mins
 
 ## 7/5/26 - Sunday 
