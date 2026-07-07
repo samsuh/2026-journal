@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/7/26 - Tuesday
+- Met up with E and his gf. went to cheonho bike street, then dinner at a fancy yakitori spot in hannam.
+- I went to get my motorcycle inspected. i have to get the horn and rear license plate lightbulb replaced and rechecked by 7/21.
+
 ## 7/6/26 - Monday 
 - DONE 10/8/4 was difficult. ~~Bike ride indoors cuz it's supposed to rain~~
 - try cleaning something again today for 5 mins
