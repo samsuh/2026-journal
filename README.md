@@ -3,6 +3,12 @@
 ## 7/7/26 - Tuesday
 - Met up with E and his gf. went to cheonho bike street, then dinner at a fancy yakitori spot in hannam.
 - I went to get my motorcycle inspected. i have to get the horn and rear license plate lightbulb replaced and rechecked by 7/21.
+  - Horn (service manual page 9C-11)
+    - first check the screw to see if it's the screw i messed with that adjusts the horn sound. screwdriver+key
+    - if it's not that, test the switch
+    - if it's not the switch, buy a new horn
+  - Light
+    - 12v 5w light, according to the service manual, but confirm it by looking at it. just take the cover off next time you go down and bring the bulb up
 
 ## 7/6/26 - Monday 
 - DONE 10/8/4 was difficult. ~~Bike ride indoors cuz it's supposed to rain~~
