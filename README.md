@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 7/8/26 - Wednesday
-- Powerlifting at 1pm
+- DONE ~~Powerlifting at 1pm~~
+- going to check out map giant with E
 
 ## 7/7/26 - Tuesday
 - Met up with E and his gf. went to cheonho bike street, then dinner at a fancy yakitori spot in hannam.
