@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/9/26 - Thursday 
+- Check horn function during daytime when honking horn wouldnt be crazy. Decide if i want a new horn or not.
+- place order for license light and possibly new horn. also get wrench adapter to use my 3/8 torque wrench on the 1/2 inch cassette tool. 
+
 ## 7/8/26 - Wednesday
 - DONE ~~Powerlifting at 1pm~~
 - going to check out map giant with E
