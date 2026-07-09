@@ -1,9 +1,10 @@
 # 2026-journal
 
 ## 7/9/26 - Thursday 
-- Check horn function during daytime when honking horn wouldnt be crazy. Decide if i want a new horn or not.
+- DONE ~~Check horn function during daytime when honking horn wouldnt be crazy. Decide if i want a new horn or not.~~
   - i prob need a new one. i didnt check the wiring but the horn itself was rusty. prob better to replace since its cheap anyway
     - place order for license light and possibly new horn. also get wrench adapter to use my 3/8 torque wrench on the 1/2 inch cassette tool.
+    - order placed. ill try to fix it myself and if it doesnt work ill take it in
 - DONE ~~Zwifted~~
 
 ## 7/8/26 - Wednesday
