@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 7/11/26 - Saturday 
+- Haircut 1130a
+- meet up w E for lunch ~1p
+- Observability meetup 6p
+- try to cycle in the morning 
+
 ## 7/10/26 - Friday
 - DONE ~~gym set a~~ added a few accessory exercises for chest and triceps
 - figure out how to replace horn on motorcycle in detail
