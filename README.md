@@ -1,8 +1,9 @@
 # 2026-journal
 
 ## 7/10/26 - Friday
-- gym set a
-- figure out fire to replace horn on motorcycle in detail 
+- DONE ~~gym set a~~ added a few accessory exercises for chest and triceps
+- figure out how to replace horn on motorcycle in detail
+
 ## 7/9/26 - Thursday 
 - DONE ~~Check horn function during daytime when honking horn wouldnt be crazy. Decide if i want a new horn or not.~~
   - i prob need a new one. i didnt check the wiring but the horn itself was rusty. prob better to replace since its cheap anyway
