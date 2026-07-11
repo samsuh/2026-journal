@@ -1,9 +1,9 @@
 # 2026-journal
 
 ## 7/11/26 - Saturday 
-- Haircut 1130a
-- meet up w E for lunch ~1p
-- Observability meetup 6p
+- DONE ~~Haircut 1130a~~
+- DONE ~~meet up w E for lunch 1p~~ we ate clam boil
+- DONE ~~Observability meetup 6p~~. i think im gonna step away from this meetup. im not really getting anything out of it, and there are several friction points. 
 - try to cycle in the morning 
 
 ## 7/10/26 - Friday
