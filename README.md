@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 7/12/26 - Sunday
-- no plans. rest. 
+- no plans. rest.
+- cycle or gym
 
 ## 7/11/26 - Saturday 
 - DONE ~~Haircut 1130a~~
