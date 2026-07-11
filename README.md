@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 7/12/26 - Sunday
+- no plans. rest. 
+
 ## 7/11/26 - Saturday 
 - DONE ~~Haircut 1130a~~
 - DONE ~~meet up w E for lunch 1p~~ we ate clam boil
