@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/13/26 - Monday
+- Check on motorcycle parts delivery status
+- Start shopping for Hawaii trip. gifts?
+
 ## 7/12/26 - Sunday
 - no plans. rest.
 - DONE ~~cycle or gym~~ zwifted.
