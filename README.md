@@ -2,7 +2,7 @@
 
 ## 7/12/26 - Sunday
 - no plans. rest.
-- cycle or gym
+- DONE ~~cycle or gym~~ zwifted.
 
 ## 7/11/26 - Saturday 
 - DONE ~~Haircut 1130a~~
