@@ -3,6 +3,7 @@
 ## 7/13/26 - Monday
 - Check on motorcycle parts delivery status
 - Start shopping for Hawaii trip. gifts?
+- DONE ~~Gym Set B~~
 
 ## 7/12/26 - Sunday
 - no plans. rest.
