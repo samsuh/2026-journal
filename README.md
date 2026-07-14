@@ -8,7 +8,7 @@
     - Test new horn
     - unhinge radiator, remove old horn.
 - DONE ~~Cycling on zwift~~
-- update reth when you can
+- DONE ~~update reth when you can~~
 
 ## 7/13/26 - Monday
 - DONE ~~Check on motorcycle parts delivery status~~ should arrive tomorrowish. 
