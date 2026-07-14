@@ -6,6 +6,7 @@
 - Fix horn.
   - Test new horn
   - unhinge radiator, remove old horn.
+- DONE ~~Cycling on zwift~~
 
 ## 7/13/26 - Monday
 - DONE ~~Check on motorcycle parts delivery status~~ should arrive tomorrowish. 
