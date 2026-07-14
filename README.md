@@ -1,12 +1,14 @@
 # 2026-journal
 
 ## 7/14/26 - Tuesday 
-- Motorcycle repair items arrive prob.
+- DONE ~~Motorcycle repair items arrive prob.~~ arrived
 - Fix rear light
-- Fix horn.
-  - Test new horn
-  - unhinge radiator, remove old horn.
+- Fixes will have to happenn tomorrow since it's so late, im not gonna work on the horn
+  - Fix horn. 
+    - Test new horn
+    - unhinge radiator, remove old horn.
 - DONE ~~Cycling on zwift~~
+- update reth when you can
 
 ## 7/13/26 - Monday
 - DONE ~~Check on motorcycle parts delivery status~~ should arrive tomorrowish. 
