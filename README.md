@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 7/14/26 - Tuesday 
+- Motorcycle repair items arrive prob.
+- Fix rear light
+- Fix horn.
+  - Test new horn
+  - unhinge radiator, remove old horn.
+
 ## 7/13/26 - Monday
 - DONE ~~Check on motorcycle parts delivery status~~ should arrive tomorrowish. 
 - DONE ~~Start shopping for Hawaii trip. gifts?~~ 
