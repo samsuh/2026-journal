@@ -1,10 +1,11 @@
 # 2026-journal
 
 ## 7/15/26 - Wednesday
-- Powerlifting at 2pm but go at 1pm or 130 to do squats and stuff ahead of time
+- DONE ~~Powerlifting at 2pm but go at 1pm or 130 to do squats and stuff ahead of time~~
 - Do motorcycle fixes even if it's raining. maybe inspection tomorrow if i can get it fixed in time. if i cant, look up somewhere thatll fix my bike.
-  - confirm lightbulb works
-  - confirm horn electric works, confirm new horn works. 
+  - DONE ~~confirm lightbulb works~~
+  - confirm horn electric works, confirm new horn works.
+    - new horn does not work! unfortunate turn of events. i think ill just take it into a shop and have them fix it. 
 
 ## 7/14/26 - Tuesday 
 - DONE ~~Motorcycle repair items arrive prob.~~ arrived
