@@ -5,7 +5,11 @@
   - return done. ~~make sure to return the broken horna nd leave a review for the hassle~~
 - Inspection DONE. passed, no issues. waiting took a while.
 - Air Premia baggage allowance; 23kg checked, 10kg carry on.
-  - flight times confirmed. 
+  - flight times confirmed.
+- To do before flying out:
+  - bike fitting tomorrow 5pm
+  - olive young shopping. maybe find someone to go with you
+  - buy snacks for nieces
 
 ## 7/15/26 - Wednesday
 - DONE ~~Powerlifting at 2pm but go at 1pm or 130 to do squats and stuff ahead of time~~
