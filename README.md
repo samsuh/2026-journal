@@ -2,6 +2,8 @@
 
 ## 7/16/27 - Thursday
 - went to get my bike gorn looked at by a reapair shop. turne out one of the horns i bought is broken and the second was just fiddly. cost 30k won to have them do it. prob worth it for the certainty. 
+- make sure to return the broken horna nd leave a review for the hassle
+
 ## 7/15/26 - Wednesday
 - DONE ~~Powerlifting at 2pm but go at 1pm or 130 to do squats and stuff ahead of time~~
 - Do motorcycle fixes even if it's raining. maybe inspection tomorrow if i can get it fixed in time. if i cant, look up somewhere thatll fix my bike.
