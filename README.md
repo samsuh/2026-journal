@@ -1,6 +1,10 @@
 # 2026-journal
 
-## 7/16/27 - Thursday
+## 7/17/26 - Friday 
+- Bike fitting
+- shopping?
+
+## 7/16/26 - Thursday
 - REPAIR DONE ~~went to get my bike gorn looked at by a reapair shop. turne out one of the horns i bought is broken and the second was just fiddly. cost 30k won to have them do it. prob worth it for the certainty. ~~
   - return done. ~~make sure to return the broken horna nd leave a review for the hassle~~
 - Inspection DONE. passed, no issues. waiting took a while.
