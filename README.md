@@ -4,6 +4,8 @@
 - Bike fitting. failed. the guy's site didnt make the appointment without some extra step. bad user experience. i dont think i'm gonna go back. 
 - shopping?
 
+Man, this one failure on doing the bike fitting is causing a ripple effect, making me feel like shit for failing. makes me want to curl up and jsut go away. 
+
 ## 7/16/26 - Thursday
 - REPAIR DONE ~~went to get my bike gorn looked at by a reapair shop. turne out one of the horns i bought is broken and the second was just fiddly. cost 30k won to have them do it. prob worth it for the certainty. ~~
   - return done. ~~make sure to return the broken horna nd leave a review for the hassle~~
