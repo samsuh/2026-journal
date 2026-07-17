@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 7/17/26 - Friday 
-- Bike fitting
+- Bike fitting. failed. the guy's site didnt make the appointment without some extra step. bad user experience. i dont think i'm gonna go back. 
 - shopping?
 
 ## 7/16/26 - Thursday
