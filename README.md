@@ -4,7 +4,8 @@
 rainy day
 - no plans
 - DONE ~~gym,set b with additional chest accessory exercises~~
-- DONE. scheduled for tomorrow afternoon 5pm. ~~maybe schedule bike fitting for tomorrow ifweather permits~~
+- DONE. scheduled for tomorrow afternoon 5pm. hopefully rain cooperates. ~~maybe schedule bike fitting for tomorrow ifweather permits~~
+- DONE ~~Olive Young shopping for gifts~~
 
 ## 7/17/26 - Friday 
 - Bike fitting. failed. the guy's site didnt make the appointment without some extra step. bad user experience. i dont think i'm gonna go back. 
