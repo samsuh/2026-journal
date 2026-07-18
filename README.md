@@ -3,6 +3,8 @@
 ## 7/18/26 - Saturday
 rainy day
 - no plans
+- gym,set b with additional chest accessory exercises
+- maybe schedule bike fitting for tomorrow ifweather permits
 
 ## 7/17/26 - Friday 
 - Bike fitting. failed. the guy's site didnt make the appointment without some extra step. bad user experience. i dont think i'm gonna go back. 
