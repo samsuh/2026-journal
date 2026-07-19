@@ -4,6 +4,7 @@
 - 1030pm flight to hawaii. board prob 10pm. get theough security and check bags so arrive prob around 9am latest 830 to be safe. estimate 2 hours for transit to airport. so 630. add a little for rush hour so leave here at 6pm latest. 
 - before then finish packing. shirts from bedroom. 
 - check for mosquito repellant 
+- bring bike inside. wash or wipe dowm bike 
 
 ## 7/19/26 - Sunday
 - DONE ~~Bike fitting scheduled for 5pm~~ no major changes. he fixed cleat shim, and sent me some measurements. and noticed my stem was crooked after the accident/fall. he fixed that. 
