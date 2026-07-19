@@ -5,7 +5,7 @@
 - before then finish packing. shirts from bedroom. 
 - check for mosquito repellant 
 - bring bike inside. wash or wipe dowm bike 
-
+- gym if time. laundry if time. 
 ## 7/19/26 - Sunday
 - DONE ~~Bike fitting scheduled for 5pm~~ no major changes. he fixed cleat shim, and sent me some measurements. and noticed my stem was crooked after the accident/fall. he fixed that. 
 
