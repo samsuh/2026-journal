@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 7/19/26 - Sunday
-- Bike fitting scheduled for 5pm 
+- DONE ~~Bike fitting scheduled for 5pm~~ no major changes. he fixed cleat shim, and sent me some measurements. and noticed my stem was crooked after the accident/fall. he fixed that. 
 
 ## 7/18/26 - Saturday
 rainy day
