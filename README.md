@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 7/19/26 - Sunday
+- Bike fitting scheduled for 5pm 
+
 ## 7/18/26 - Saturday
 rainy day
 - no plans
