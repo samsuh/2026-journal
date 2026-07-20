@@ -1,14 +1,15 @@
 # 2026-journal
 
 ## 7/20/26 - Monday 
-- 1030pm flight to hawaii. board prob 10pm. get theough security and check bags so arrive prob around 9am latest 830 to be safe. estimate 2 hours for transit to airport. so 630. add a little for rush hour so leave here at 6pm latest. 
+- 1030pm flight to hawaii. 
+  - left. board prob 10pm. get theough security and check bags so arrive prob around 9am latest 830 to be safe. estimate 2 hours for transit to airport. so 630. add a little for rush hour so leave here at 6pm latest. 
 - before then finish packing.
   - PACKED ~~shirts from bedroom.~~
 - DONE ~~check for mosquito repellant~~
 - DONE ~~bring bike inside. wash or wipe dowm bike~~
 - DONE ~~gym if time. laundry if time.~~
 - DONE ~~us adapter~~
-- take out trash
+- DONE ~~take out trash~~
 
 ## 7/19/26 - Sunday
 - DONE ~~Bike fitting scheduled for 5pm~~ no major changes. he fixed cleat shim, and sent me some measurements. and noticed my stem was crooked after the accident/fall. he fixed that. 
