@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 7/28/26 - Tuesday? 
+- Jsut got back from hawaii
+- will write it uplater but main focus was that the server went down yesterday. still figuring it out rn. internet was definitely down tho.
+
 ## 7/20/26 - Monday 
 - 1030pm flight to hawaii. 
   - left. board prob 10pm. get theough security and check bags so arrive prob around 9am latest 830 to be safe. estimate 2 hours for transit to airport. so 630. add a little for rush hour so leave here at 6pm latest. 
