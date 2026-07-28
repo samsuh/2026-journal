@@ -1,8 +1,13 @@
 # 2026-journal
 
 ## 7/28/26 - Tuesday? 
-- Jsut got back from hawaii
-- will write it uplater but main focus was that the server went down yesterday. still figuring it out rn. internet was definitely down tho.
+- Just got back from hawaii
+- will write it up later; but main focus was that the server went down yesterday. still figuring it out rn. internet was definitely down tho.
+  - figured it out. i think the heat took out the cable modem/router. 
+
+## 7/21 to 7/27
+- Went to hawaii with sister and her fam. was great overall. nice to chill and live in a different mode for a while with a different routine and different priorities.
+- Tried to meet up with A, but that didnt work cuz she is bad at replying; then left a really bad impression by blaming me for not making plans. Disappointing for someone Ive known for this long to be this hard to get along with, but it kinda tracks. 
 
 ## 7/20/26 - Monday 
 - 1030pm flight to hawaii. 
