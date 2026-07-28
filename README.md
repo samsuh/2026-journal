@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 7/29/26 - Wednesday 
+- Go ride bike
+
 ## 7/28/26 - Tuesday? 
 - Just got back from hawaii
 - will write it up later; but main focus was that the server went down yesterday. still figuring it out rn. internet was definitely down tho.
