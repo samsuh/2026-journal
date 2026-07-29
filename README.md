@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 7/29/26 - Wednesday 
-- Go ride bike
+- Go ride bike. rode way too much. was gonna go for like 30-50, but did 91.
 - dl renewal 
 
 ## 7/28/26 - Tuesday? 
