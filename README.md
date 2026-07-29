@@ -2,6 +2,7 @@
 
 ## 7/29/26 - Wednesday 
 - Go ride bike
+- dl renewal 
 
 ## 7/28/26 - Tuesday? 
 - Just got back from hawaii
