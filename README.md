@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 7/31/26 - Friday 
+- No plans 
+
 ## 7/30/26 - Thursday 
 - Recover from yesterday's overdoing it.
 - it's hot. stay cool. stay hydrated
