@@ -5,6 +5,7 @@
 - it's hot. stay cool. stay hydrated
 - DONE ~~Gym Set A~~
 - DONE ~~DL renewal~~
+- Went to eat samgyetang with landlord/landlady and their daughter. Was nice. 
 
 ## 7/29/26 - Wednesday 
 - Go ride bike. rode way too much. was gonna go for like 30-50, but did 91.
