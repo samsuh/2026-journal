@@ -2,7 +2,7 @@
 
 ## 7/31/26 - Friday 
 - No plans
-- gonna prob stop taking P for hair, and just deal with it. 
+- gonna prob stop hair treatment, and just deal without it 
 
 ## 7/30/26 - Thursday 
 - Recover from yesterday's overdoing it.
