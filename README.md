@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/1/26 - Saturday 
+- DONE ~~Gym Set B~~
+
 ## 7/31/26 - Friday 
 - No plans
 - gonna prob stop hair treatment, and just deal without it 
