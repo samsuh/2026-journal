@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 8/3/26 - Monday 
-- Gym Set A 
+- DONE ~~Gym Set A~~
 
 ## 8/2/26 - Sunday 
 - continue claude stuff. finish section then go try something
