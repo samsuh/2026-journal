@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/4/26 - Tuesday
+- No plans. stay cool. 
+
 ## 8/3/26 - Monday 
 - DONE ~~Gym Set A~~
 
