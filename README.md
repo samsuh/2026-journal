@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/5/26 - Wednesday 
+- Gym Set B
+
 ## 8/4/26 - Tuesday
 - No plans. stay cool. 
 
