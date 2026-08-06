@@ -1,5 +1,7 @@
 # 2026-journal
 
+## 8/7/26 - Friday
+- Gym Set A
 
 ## 8/6/26 - Thursday 
 - Tried cycling on mywoosh. it wasnt bad.
