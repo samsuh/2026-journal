@@ -2,6 +2,7 @@
 
 ## 8/8/26 - Saturday 
 - Wow a week went by so fast
+- ride bike?
 
 ## 8/7/26 - Friday
 - DONE ~~Gym Set A~~
