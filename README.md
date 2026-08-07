@@ -1,7 +1,10 @@
 # 2026-journal
 
+## 8/8/26 - Saturday 
+- Wow a week went by so fast
+
 ## 8/7/26 - Friday
-- Gym Set A
+- DONE ~~Gym Set A~~
 
 ## 8/6/26 - Thursday 
 - Tried cycling on mywoosh. it wasnt bad.
