@@ -2,7 +2,7 @@
 
 ## 8/8/26 - Saturday 
 - Wow a week went by so fast
-- ride bike?
+- DONE ~~ride bike?~~ rode on mywhoosh. got E to try it, but it didnt work for him; the zwift hardware didnt like it at all, and requires some additional setup that he couldnt get to work
 
 ## 8/7/26 - Friday
 - DONE ~~Gym Set A~~
