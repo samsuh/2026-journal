@@ -1,5 +1,9 @@
 # 2026-journal
 
+
+## 8/9/26 - Sunday
+- Weather finally easing up from relentless heat. maybe go for a bike ride outside in the morning
+
 ## 8/8/26 - Saturday 
 - Wow a week went by so fast
 - DONE ~~ride bike?~~ rode on mywhoosh. got E to try it, but it didnt work for him; the zwift hardware didnt like it at all, and requires some additional setup that he couldnt get to work
