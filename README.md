@@ -3,6 +3,7 @@
 
 ## 8/9/26 - Sunday
 - Weather finally easing up from relentless heat. maybe go for a bike ride outside in the morning. missed opportunity
+- Gym Set B
 
 ## 8/8/26 - Saturday 
 - Wow a week went by so fast
