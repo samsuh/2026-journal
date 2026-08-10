@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/11/26 - Tuesday 
+Had a severe deja vu event triggered by a video i watched on youtube about an old video game i used to play. i started predicting what the video maker would say in his commentary, and that triggered a larger deja vu episode. I was explaining to H that this has happened before, the previous time was also video game related, and the one before that which was kind of the first one was during a high stress event when i was in law school. 
+
 ## 8/10/26 - Monday 
 - claude stuff
 - i felt the urge to go get dumplings. i walked down to get them and on the way back, i found 2k on the floor. i took it as a sign of good luck and put it into a lotto ticket. :) wouldnt it be fun if it hits? what a story! 
