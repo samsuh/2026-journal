@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 8/12/26 - Wednesday
+- started exploring different potential paths for working on next. it feels like there's a chapter marker coming up.
+- looked into a bit of ai
+- looked into a bit of mathematics again
+- other paths; website implementations; machine learning fundamentals
+
 ## 8/11/26 - Tuesday 
 Had a severe deja vu event triggered by a video i watched on youtube about an old video game i used to play. i started predicting what the video maker would say in his commentary, and that triggered a larger deja vu episode. I was explaining to H that this has happened before, the previous time was also video game related, and the one before that which was kind of the first one was during a high stress event when i was in law school. 
 
