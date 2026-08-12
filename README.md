@@ -8,6 +8,7 @@
 Task: go through existing courses and pick one or two to focus on; ideally one.
 - how about 100 days of code to get back into the habit of coding regularly?
   - already a hurdle cuz they want to use a free trial software for their course. rip
+  - done with day 1. was fine. easy content, but adhering to structure is new, and prob good for me. 
 
 ## 8/11/26 - Tuesday 
 Had a severe deja vu event triggered by a video i watched on youtube about an old video game i used to play. i started predicting what the video maker would say in his commentary, and that triggered a larger deja vu episode. I was explaining to H that this has happened before, the previous time was also video game related, and the one before that which was kind of the first one was during a high stress event when i was in law school. 
