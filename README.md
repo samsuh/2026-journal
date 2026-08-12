@@ -7,7 +7,8 @@
 
 Study summary
 - Dot multiplication video. elementwise multiplcation and sum the results up
-- ML Course intro again 
+- ML Course intro again
+- Drawing; procreate sketching; got through sketch, ink, color blocking.
 
 ## 8/12/26 - Wednesday
 - started exploring different potential paths for working on next. it feels like there's a chapter marker coming up.
