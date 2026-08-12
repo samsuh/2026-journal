@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 8/13/26 - Thursday 
+- 100 days of coding; python basics refresher
+- Math fundamentals re-learn
+- Gym Set B
+
 ## 8/12/26 - Wednesday
 - started exploring different potential paths for working on next. it feels like there's a chapter marker coming up.
 - looked into a bit of ai
