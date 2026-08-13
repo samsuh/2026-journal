@@ -3,7 +3,7 @@
 ## 8/13/26 - Thursday 
 - 100 days of coding; python basics refresher
 - Math fundamentals re-learn
-- Gym Set B
+- DONE ~~Gym Set B~~
 
 Study summary
 - Dot multiplication video. elementwise multiplcation and sum the results up
