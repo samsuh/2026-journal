@@ -2,6 +2,7 @@
 
 ## 8/13/26 - Thursday 
 - 100 days of coding; python basics refresher
+  - day 2. got halfway through it. it's so boring and slow. but it's good review of absolute basics. 
 - Math fundamentals re-learn
 - DONE ~~Gym Set B~~
 
