@@ -13,6 +13,8 @@ Study summary
 - Drawing; procreate sketching; got through sketch, ink, color blocking.
 - 100 days day2.
 - Math; i dont think i fundamentally understand working with matrices. i get how to do it, but im disconnected from first principles. I should pause the math stuff and go learn more about matrices, esp as used in linear algebra
+  - came back around to 3b1b's linear algebra explainers. i should work through this before going back to applying it in code.
+  - https://youtu.be/fNk_zzaMoSs?si=31SPnbNoytvtCKcZ
 
 ## 8/12/26 - Wednesday
 - started exploring different potential paths for working on next. it feels like there's a chapter marker coming up.
