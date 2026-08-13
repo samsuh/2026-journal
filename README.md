@@ -1,5 +1,13 @@
 # 2026-journal
 
+## 8/14/26 - Friday 
+- Haircut at noon
+- Zwift with E sometime, prob afternoon
+- Maybe meet up with M in seongsu to cowork.
+
+Study summary: 
+- Started reviewing procreate lessons; reviewing stuff already covered.
+
 ## 8/13/26 - Thursday 
 - DONE for the day. 100 days of coding; python basics refresher
   - day 2. got halfway through it. it's so boring and slow. but it's good review of absolute basics.
