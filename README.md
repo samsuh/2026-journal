@@ -1,10 +1,10 @@
 # 2026-journal
 
 ## 8/13/26 - Thursday 
-- 100 days of coding; python basics refresher
+- DONE for the day. 100 days of coding; python basics refresher
   - day 2. got halfway through it. it's so boring and slow. but it's good review of absolute basics.
-  - done. 
-- Math fundamentals re-learn
+  - done later in the day. 
+- DONE for the day. Math fundamentals re-learn
 - DONE ~~Gym Set B~~
 
 Study summary
