@@ -9,6 +9,7 @@ Study summary:
 - Started reviewing procreate lessons; reviewing stuff already covered.
 - Review deep learning course curriculum and sequence
 - Bike mechanic: rear derailleur removal, installation, and adjustment
+- 100 days of code day 3 complete
 
 ## 8/13/26 - Thursday 
 - DONE for the day. 100 days of coding; python basics refresher
