@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 8/14/26 - Friday 
-- Haircut at noon
+- DONE ~~Haircut at noon~~
 - Zwift with E sometime, prob afternoon
 - Maybe meet up with M in seongsu to cowork.
 
