@@ -2,11 +2,13 @@
 
 ## 8/14/26 - Friday 
 - DONE ~~Haircut at noon~~
-- Zwift with E sometime, prob afternoon
-- Maybe meet up with M in seongsu to cowork.
+- he cant. ~~Zwift with E sometime, prob afternoon~~
+- couldnt figure out a good place to meet/ didnt want to in the heat. ~~Maybe meet up with M in seongsu to cowork.~~
 
 Study summary: 
 - Started reviewing procreate lessons; reviewing stuff already covered.
+- Review deep learning course curriculum and sequence
+- Bike mechanic: rear derailleur removal, installation, and adjustment
 
 ## 8/13/26 - Thursday 
 - DONE for the day. 100 days of coding; python basics refresher
