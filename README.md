@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 8/16/26 - Sunday 
-
+Lets call it a rest day and just plan ahead for it. No studying, no gym, no bike. 
 
 ## 8/15/26 - Saturday
 Feeling lazy and unproductive today. 
