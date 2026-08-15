@@ -1,10 +1,16 @@
 # 2026-journal
 
+## 8/16/26 - Sunday 
+
+
 ## 8/15/26 - Saturday
 Feeling lazy and unproductive today. 
 - DONE ~~Gym Set A~~
   - got a free slice of pizza :) thanks blonde worker dude
-- 
+- Starting messing with rear derailleur. need a few things still, so ordered and awaiting; blue loctite 243, cable end caps, cable cutter. I also got chain link pliers with better leverage after struggling with the folding portable one. 
+
+Study summary:
+- Day 4 of 100daysofcode done. 
 
 ## 8/14/26 - Friday 
 - DONE ~~Haircut at noon~~
