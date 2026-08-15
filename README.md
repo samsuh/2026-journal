@@ -2,7 +2,8 @@
 
 ## 8/15/26 - Saturday
 Feeling lazy and unproductive today. 
-- Gym Set A
+- DONE ~~Gym Set A~~
+  - got a free slice of pizza :) thanks blonde worker dude
 - 
 
 ## 8/14/26 - Friday 
