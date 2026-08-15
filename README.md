@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 8/15/26 - Saturday
+Feeling lazy and unproductive today. 
+- Gym Set A
+- 
+
 ## 8/14/26 - Friday 
 - DONE ~~Haircut at noon~~
 - he cant. ~~Zwift with E sometime, prob afternoon~~
