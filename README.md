@@ -1,5 +1,9 @@
 # 2026-journal
 
+
+## 8 /17/26 - Monday 
+- DONE ~~Gym Set B~~
+
 ## 8/16/26 - Sunday 
 Lets call it a rest day and just plan ahead for it. No studying, no gym, no bike. 
 Yeah this isnt a great idea for me. i just eat and sleep, and it's overdone. prob better to stay consistent and wait for a more natural rest day driven by tiredness than an arbitrary one. 
