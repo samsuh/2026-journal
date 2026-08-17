@@ -1,7 +1,15 @@
 # 2026-journal
 
+## 8/18/26 = Tuesday
+- Check on bike parts
+- do some cardio
+- clean something around the house. 
+- check on dinner plans. cancel gracefully if i can
+- maybe paint something or sketch something
+- maybe mess with music?
+- cooking went well. maybe keep that going?
 
-## 8 /17/26 - Monday 
+## 8/17/26 - Monday 
 - DONE ~~Gym Set B~~
 - DONE ~~100daysofcode Day 5~~
 
