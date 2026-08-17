@@ -3,7 +3,7 @@
 
 ## 8 /17/26 - Monday 
 - DONE ~~Gym Set B~~
-- 100daysofcode Day 5
+- DONE ~~100daysofcode Day 5~~
 
 ## 8/16/26 - Sunday 
 Lets call it a rest day and just plan ahead for it. No studying, no gym, no bike. 
