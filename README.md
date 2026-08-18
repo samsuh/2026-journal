@@ -2,6 +2,8 @@
 
 ## 8/18/26 = Tuesday
 - Check on bike parts
+  - cleaned old chain, 30t cassette. they look good.
+  - to do, take off the 28t and put the 30t on, so the gs cage fits closer.
 - do some cardio
 - clean something around the house. 
 - DONE. cancelled ungracefully. ~~check on dinner plans. cancel gracefully if i can~~
