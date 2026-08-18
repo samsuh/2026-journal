@@ -7,6 +7,7 @@
 - DONE. cancelled ungracefully. ~~check on dinner plans. cancel gracefully if i can~~
 - maybe paint something or sketch something
 - maybe mess with music?
+  - it has come to my attention that my new years resolution was music related. i got to a good stopping point, but i dont think ive fulfilled my resolution, so i should put music back in the rotation for learning and working on. 
 - cooking went well. maybe keep that going?
 
 ## 8/17/26 - Monday 
