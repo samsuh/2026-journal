@@ -1,6 +1,10 @@
 # 2026-journal
 
-## 8/18/26 = Tuesday
+## 8/19/26 - Wednesday 
+- olympics discussion at hangang
+- 
+
+## 8/18/26 - Tuesday
 - Check on bike parts
   - cleaned old chain, 30t cassette. they look good.
   - to do, take off the 28t and put the 30t on, so the gs cage fits closer.
