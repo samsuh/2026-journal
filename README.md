@@ -4,7 +4,7 @@
 - Check on bike parts
 - do some cardio
 - clean something around the house. 
-- check on dinner plans. cancel gracefully if i can
+- DONE. cancelled ungracefully. ~~check on dinner plans. cancel gracefully if i can~~
 - maybe paint something or sketch something
 - maybe mess with music?
 - cooking went well. maybe keep that going?
