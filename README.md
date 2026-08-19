@@ -2,7 +2,7 @@
 
 ## 8/19/26 - Wednesday 
 - olympics discussion at hangang
-- 
+- loctite and cutters should arrive today. finish bike build
 
 ## 8/18/26 - Tuesday
 - Check on bike parts
