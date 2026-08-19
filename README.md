@@ -6,17 +6,19 @@ Idea: the main benefit of onchain funds is the ability to prove control of funds
 ## 8/19/26 - Wednesday 
 - DONE ~~olympics discussion at hangang~~. good general chat about blockchain communities. no follow up requirements. 
 - ARRIVED - loctite and cutters should arrive today. finish bike build
-  - packed away spare parts; old chain, unused cassettes. i should prob put the 11-30T onto the indoor trainer and take off its 11-28T, but this is a low priority task. i also want to clean the 11-28T after it comes off.
-    - mostly done. soaking the 11-28. scrub, dry, and put away in storage. 
-  - need to clean the front chainrings before putting new stuff on, or call it good enough and proceed with installation
-  - the order of stuff left to do:
+  - packed away spare parts; old chain, unused cassettes.
+    - put the 11-30T onto the indoor trainer (eventually)
+    - DONE -- take off its 11-28T, but this is a low priority task. i also want to clean the 11-28T after it comes off. drying now. will pack it and store it tmrw. 
+      - mostly done. soaking the 11-28. scrub, dry, and put away in storage. 
+  - Called it good enough after wipe down. need to clean the front chainrings before putting new stuff on, or call it good enough and proceed with installation
+  - DONE -- the order of stuff left to do:
     - DONE -- blue loctite on rd mounting bolt. make sure the stop clears while mounting before final tightening. torque to 8-10nm using 5mm hex. stuck on opening blue loctite. lol.
     - DONE ~~install 11-36T onto wheel.~~
     - DONE, but confirm it again later with more weight on it. -- install rear wheel onto bike; do the rest on the bike, not the trainer. 
-    - Chain stuff
-      - size chain. break chain at reference link +2 links.
-      - install chain; route correctly; watch out for the routing in the rd. secure using quicklink tool
-    - index rd again with chain on
+    - DONE -- Chain stuff
+      - DONE -- size chain. break chain at reference link +2 links.
+      - DONE -- install chain; route correctly; watch out for the routing in the rd. secure using quicklink tool
+    - DONE, kind of. still need to check irl -- index rd again with chain on
   - put 11-30t on indoor trainer at some point in the future. set a date for 'if i dont use the 11-25 or 11-28 at all, then sell it on used market' 
 
 ## 8/18/26 - Tuesday
