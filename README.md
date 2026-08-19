@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/20/26 - Thursday 
+Idea: the main benefit of onchain funds is the ability to prove control of funds. this can be used to 'back' actions or other activities onchain. if there's a way to use perhaps smart contracts to enforce 'putting money where you mouth is'/'put up or shut up'. 
+
 ## 8/19/26 - Wednesday 
 - DONE ~~olympics discussion at hangang~~. good general chat about blockchain communities. no follow up requirements. 
 - ARRIVED - loctite and cutters should arrive today. finish bike build
