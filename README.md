@@ -1,8 +1,17 @@
 # 2026-journal
 
 ## 8/19/26 - Wednesday 
-- olympics discussion at hangang
-- loctite and cutters should arrive today. finish bike build
+- DONE ~~olympics discussion at hangang~~. good general chat about blockchain communities. no follow up requirements. 
+- ARRIVED - loctite and cutters should arrive today. finish bike build
+  - packed away spare parts; old chain, unused cassettes. i should prob put the 11-30T onto the indoor trainer and take off its 11-28T, but this is a low priority task. i also want to clean the 11-28T after it comes off.
+  - need to clean the front chainrings before putting new stuff on, or call it good enough and proceed with installation
+  - the order of stuff left to do:
+    - blue loctite on rd mounting bolt. make sure the stop clears while mounting before final tightening. torque to 8-10nm using 5mm hex. stuck on opening blue loctite. lol.
+    - size chain. break chain at reference link +2 links.
+    - DONE ~~install 11-36T onto wheel.~~
+    - install rear wheel onto bike; do the rest on the bike, not the trainer. 
+    - install chain; route correctly; watch out for the routing in the rd. secure using quicklink tool
+    - index rd
 
 ## 8/18/26 - Tuesday
 - Check on bike parts
