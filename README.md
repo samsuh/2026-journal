@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/21/26 - Friday 
+Was cycling a hyperfixation? is it wearing off? Am i heading into a slump? did the break from cycling from the bad weather and the component change (that ended up taking an extra week) kill it? maybe it's salvageable with a break? or the opposite, getting more into it? 
+
 ## 8/20/26 - Thursday 
 Idea: the main benefit of onchain funds is the ability to prove control of funds. this can be used to 'back' actions or other activities onchain. if there's a way to use perhaps smart contracts to enforce 'putting money where you mouth is'/'put up or shut up'. 
 - DONE ~~Gym Set A~~
