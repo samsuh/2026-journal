@@ -5,6 +5,7 @@ Was cycling a hyperfixation? is it wearing off? Am i heading into a slump? did t
 - 11-30t put on indoor trainer
 - put bike on indoor trainer.
   - look up which side the spring goes on a qr.
+- DONE ~~indoor training ride~~
 
 ## 8/20/26 - Thursday 
 Idea: the main benefit of onchain funds is the ability to prove control of funds. this can be used to 'back' actions or other activities onchain. if there's a way to use perhaps smart contracts to enforce 'putting money where you mouth is'/'put up or shut up'. 
