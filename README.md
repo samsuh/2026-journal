@@ -4,7 +4,7 @@
 Was cycling a hyperfixation? is it wearing off? Am i heading into a slump? did the break from cycling from the bad weather and the component change (that ended up taking an extra week) kill it? maybe it's salvageable with a break? or the opposite, getting more into it? 
 - 11-30t put on indoor trainer
 - put bike on indoor trainer.
-  - look up which side the spring goes on a qr. it goes > <
+  - look up which side the spring goes on a qr. it goes ->-<-
 - DONE ~~indoor training ride~~
 
 ## 8/20/26 - Thursday 
