@@ -3,7 +3,12 @@
 ## 8/23/26 - Sunday 
 - I tinkered with the rear derailleur settings, but messed it up. need to give it more concentrated effort again.
 - lift? gym set B
-- get back to the other projects. it's been like 6 days lol. stopping the habit is really rough since even a minor stoppage can turn into a week of nothing. 
+- get back to the other projects. it's been like 6 days lol. stopping the habit is really rough since even a minor stoppage can turn into a week of nothing.
+
+Dating app idea: 
+matching still, but once you get through the initial intro and chatting phase to actively date irl, the profiles move you into 'actively dating' mode. it switches to trying to mediate and help the relationship between you two, but more importantly itll gracefully pause the other ongoing conversations so you dont have to split mental energy in planting more seeds afterwards. 
+if it doesnt work out with the first dating person, you get interviewed on what happened, and it gets put into a backend db that will later be used to help each other highlight weaknesses in dating style, and possibly even do a port mortem on what happened, and what the sources of incompatibility or weaknesses on both sides caused it to not work. 
+this can be gamified further by showing 'time til first relationship' and 'avg relationships until goal reached'. 
 
 ## 8/22/26 - Saturday
 - lazy day catching up on sleep after all nighters watching trading price all night
