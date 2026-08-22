@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/22/26 - Saturday
+- lazy day catching up on Dori after all nighters watching trading price all night
+
 ## 8/21/26 - Friday 
 Was cycling a hyperfixation? is it wearing off? Am i heading into a slump? did the break from cycling from the bad weather and the component change (that ended up taking an extra week) kill it? maybe it's salvageable with a break? or the opposite, getting more into it? 
 - 11-30t put on indoor trainer
