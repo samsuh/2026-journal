@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 8/23/26 - Sunday 
+- I tinkered with the rear derailleur settings, but messed it up. need to give it more concentrated effort again.
+- lift? gym set B
+- get back to the other projects. it's been like 6 days lol. stopping the habit is really rough since even a minor stoppage can turn into a week of nothing. 
+
 ## 8/22/26 - Saturday
 - lazy day catching up on sleep after all nighters watching trading price all night
 - wild moves by zec up 40%. i missed most of it though, 29% of 40. rip. but it was a conscious decision i made beforehand, and chose to not risk it. i was happy briefly while it peaked at my sell order and dropped a bit, before taking off like a rocket. 
