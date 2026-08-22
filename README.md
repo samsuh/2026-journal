@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 8/22/26 - Saturday
-- lazy day catching up on Dori after all nighters watching trading price all night
+- lazy day catching up on sleep after all nighters watching trading price all night
+- wild moves by zec up 40%. i missed most of it though, 29% of 40. rip. but it was a conscious decision i made beforehand, and chose to not risk it. i was happy briefly while it peaked at my sell order and dropped a bit, before taking off like a rocket. 
 
 ## 8/21/26 - Friday 
 Was cycling a hyperfixation? is it wearing off? Am i heading into a slump? did the break from cycling from the bad weather and the component change (that ended up taking an extra week) kill it? maybe it's salvageable with a break? or the opposite, getting more into it? 
