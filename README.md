@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/24/26 - Monday 
+- For some reason i thought it was monday all day. i gained a free day. 
+
 ## 8/23/26 - Sunday 
 - I tinkered with the rear derailleur settings, but messed it up. need to give it more concentrated effort again.
   -  gave it another shot. still needs work
