@@ -2,7 +2,8 @@
 
 ## 8/23/26 - Sunday 
 - I tinkered with the rear derailleur settings, but messed it up. need to give it more concentrated effort again.
-- lift? gym set B
+  -  gave it another shot. still needs work
+- DONE. ~~lift? gym set B~~
 - get back to the other projects. it's been like 6 days lol. stopping the habit is really rough since even a minor stoppage can turn into a week of nothing.
 
 Dating app idea: 
