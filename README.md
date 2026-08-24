@@ -1,7 +1,9 @@
 # 2026-journal
 
 ## 8/24/26 - Monday 
-- For some reason i thought it was monday all day. i gained a free day. 
+- For some reason i thought it was monday all day yesterday. i gained a free day.
+- Figured out the rear derailleur/cassette indexing situation. the cable tension has to start tighter than expected (already partially engaged). the wide range seems to make dialing in the indexing a little sensitive/exact. needs precision to even less than a quarter turn of the barrel adjuster.
+- Went for a test ride to the bakery and back. was pretty hot 32c on the weather app 33-36 on the device temp. Made it fine. need to drink more water than i am. felt dehyrated at the end. 
 
 ## 8/23/26 - Sunday 
 - I tinkered with the rear derailleur settings, but messed it up. need to give it more concentrated effort again.
