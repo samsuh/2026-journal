@@ -1,4 +1,6 @@
 # 2026-journal
+## 8/26/26/ - Wednesday 
+- Cycling? 
 
 ## 8/25/26 - Tuesday
 - DONE ~~Gym Set A~~
