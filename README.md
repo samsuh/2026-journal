@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 8/25/26 - Tuesday
+- DONE ~~Gym Set A~~
+- Eye appt at 4
+- date at 6. first date in a while, seeing how it goes
+
 ## 8/24/26 - Monday 
 - For some reason i thought it was monday all day yesterday. i gained a free day.
 - Figured out the rear derailleur/cassette indexing situation. the cable tension has to start tighter than expected (already partially engaged). the wide range seems to make dialing in the indexing a little sensitive/exact. needs precision to even less than a quarter turn of the barrel adjuster.
