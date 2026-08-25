@@ -1,11 +1,12 @@
 # 2026-journal
+
 ## 8/26/26/ - Wednesday 
 - Cycling? 
 
 ## 8/25/26 - Tuesday
 - DONE ~~Gym Set A~~
 - DONE ~~Eye appt at 4~~ gotta start doing the eye drops again for another month. was told to sleep better if i can. 
-- DONE ~~date at 6. first date in a while, seeing how it goes~~ went alright. not feeling a spark, but maybe friendship. talking was good. but didnt feel like we connected individually.
+- DONE ~~date at 6. first date in a while, seeing how it goes~~ went alright. not feeling a spark, but maybe friendship. talking was good. but didnt feel like we connected individually. ill msg her tomorrow after she finishes work at 4pm and let her know.
 - Eyedrop log: 11:13pm 
 
 ## 8/24/26 - Monday 
