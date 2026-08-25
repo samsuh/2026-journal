@@ -4,7 +4,7 @@
 - DONE ~~Gym Set A~~
 - DONE ~~Eye appt at 4~~ gotta start doing the eye drops again for another month. was told to sleep better if i can. 
 - DONE ~~date at 6. first date in a while, seeing how it goes~~ went alright. not feeling a spark, but maybe friendship. talking was good. but didnt feel like we connected individually.
-- Eyedrop log: 11:13pm
+- Eyedrop log: 11:13pm 
 
 ## 8/24/26 - Monday 
 - For some reason i thought it was monday all day yesterday. i gained a free day.
