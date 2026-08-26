@@ -2,7 +2,7 @@
 
 ## 8/26/26/ - Wednesday 
 - Cycling? 
-- eye drops 11am
+- eye drops 11am/835pm
 - apparently dad's in the hospital from a fever that wont break for a few days. 39 degrees.
 - Theres one person i dont like in korea, but he keeps showing up in literally every community im in, and infects it. i cut it off, and go somewhere else but then he keeps showing up. i leave cuz i dont wanna make a big deal about it, and talking to him to confront him sucks. 
 
