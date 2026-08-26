@@ -2,7 +2,8 @@
 
 ## 8/26/26/ - Wednesday 
 - Cycling? 
-eye drops 11am
+- eye drops 11am
+- apparently dad's in the hospital from a fever that wont break for a few days. 39 degrees. 
 
 ## 8/25/26 - Tuesday
 - DONE ~~Gym Set A~~
