@@ -2,6 +2,7 @@
 
 ## 8/26/26/ - Wednesday 
 - Cycling? 
+eye drops 11am
 
 ## 8/25/26 - Tuesday
 - DONE ~~Gym Set A~~
