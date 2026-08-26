@@ -1,7 +1,13 @@
 # 2026-journal
 
-## 8/26/26/ - Wednesday 
-- Cycling? 
+## 8/27/26 - Thursady 
+- Eye drops: 3am
+- Check in on dad
+- Gym Set B
+- Get prescription filled 
+
+## 8/26/26 - Wednesday 
+- Cycling? did not go cycling. 
 - eye drops 11am/835pm
 - apparently dad's in the hospital from a fever that wont break for a few days. 39 degrees.
 - Theres one person i dont like in korea, but he keeps showing up in literally every community im in, and infects it. i cut it off, and go somewhere else but then he keeps showing up. i leave cuz i dont wanna make a big deal about it, and talking to him to confront him sucks. 
