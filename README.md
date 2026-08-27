@@ -4,6 +4,7 @@
 - got through admin stuff on calculus course.
 - ride?
 - fill prescription before weekend
+- eyedrops 7:30am
 
 ## 8/27/26 - Thursady 
 - Eye drops: 3am/3:45pm/11:10pm 
