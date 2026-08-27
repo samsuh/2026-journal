@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 8/27/26 - Thursady 
-- Eye drops: 3am/3:45pm
+- Eye drops: 3am/3:45pm/11:10pm 
 - DONE ~~Check in on dad~~
 - DONE ~~Gym Set B~~
 - Get prescription filled 
