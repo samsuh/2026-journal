@@ -4,7 +4,8 @@
 - Eye drops: 3am/3:45pm/11:10pm 
 - DONE ~~Check in on dad~~
 - DONE ~~Gym Set B~~
-- Get prescription filled 
+- Get prescription filled
+- Started on the calculus course. Just getting through housekeeping and intros for now. Good point was to take handwritten notes on paper. It would help nucleate ideas in my own handwriting.
 
 ## 8/26/26 - Wednesday 
 - Cycling? did not go cycling. 
