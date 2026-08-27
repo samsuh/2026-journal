@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 8/28/26 - Friday 
+- got through admin stuff on calculus course.
+- ride?
+- fill prescription before weekend
+
 ## 8/27/26 - Thursady 
 - Eye drops: 3am/3:45pm/11:10pm 
 - DONE ~~Check in on dad~~
