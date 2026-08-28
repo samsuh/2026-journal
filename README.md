@@ -2,12 +2,13 @@
 
 ## 8/28/26 - Friday 
 - got through admin stuff on calculus course.
-- ride?
+- DONE ~~ride?~~
 - DONE ~~fill prescription before weekend~~. she had to order the eye drops, should come tomorrow. 
 - Take medicine:
   - eyedrops 7:30am/ 3:45pm
   - aspirin 3:45pm
-- i woke up super full and bloated after just like an hour or two of sleep. i ate too much sugar and food overnight. i need to stay away from candy. it was dangerous to get it for cycling. 
+- i woke up super full and bloated after just like an hour or two of sleep. i ate too much sugar and food overnight. i need to stay away from candy. it was dangerous to get it for cycling.
+- Found a nice bike to potentially buy. Factor Ostro VAM for 5m krw. nice, not perfect but very nice. and decent price. 
 
 ## 8/27/26 - Thursady 
 - Eye drops: 3am/3:45pm/11:10pm 
