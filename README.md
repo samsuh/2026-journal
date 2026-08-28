@@ -4,7 +4,8 @@
 - got through admin stuff on calculus course.
 - ride?
 - fill prescription before weekend
-- eyedrops 7:30am
+- eyedrops 7:30am/ 3:45pm
+- aspirin 3:45pm
 - i woke up super full and bloated after just like an hour or two of sleep. i ate too much sugar and food overnight. i need to stay away from candy. it was dangerous to get it for cycling. 
 
 ## 8/27/26 - Thursady 
