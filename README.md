@@ -6,7 +6,8 @@
 - skipping. back hurts from straining last time. ~~SKIP. gym set a~~
 - update val
 - DONE ~~wait for prescription and pick up~~
-- math? 
+- math?
+  - reviewed functions section. it was just watching the lecture and thinking "wow i remember seeing that before a long time ago" but i dont have the context, and it's not 'active' in my mind. 
 
 ## 8/28/26 - Friday 
 - got through admin stuff on calculus course.
