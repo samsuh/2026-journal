@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 8/29/26 - Saturday 
+- eyedrops: 10am
+- gym set a 
+- update val
+- wait for prescription and pick up
+- math? 
+
 ## 8/28/26 - Friday 
 - got through admin stuff on calculus course.
 - DONE ~~ride?~~
