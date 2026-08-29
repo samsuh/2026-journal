@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 8/29/26 - Saturday 
-- eyedrops: 10am
+- eyedrops: 10am/5:18pm
 - aspirin 3pm
 - skipping. back hurts from straining last time. ~~SKIP. gym set a~~
 - update val
