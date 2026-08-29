@@ -2,6 +2,7 @@
 
 ## 8/29/26 - Saturday 
 - eyedrops: 10am
+- aspirin 3pm
 - gym set a 
 - update val
 - wait for prescription and pick up
