@@ -2,6 +2,7 @@
 
 ## 8/30/26 - Sunday
 - eyedrops: 4am
+- math: started reviewing limits
 
 Trading is so hard sometimes. damned if you do, damned if you dont. 
 
