@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 8/30/26 - Sunday
+- Trading is so hard sometimes. damned if you do, damned if you dont. 
+
 ## 8/29/26 - Saturday 
 - eyedrops: 10am/5:18pm
 - aspirin 3pm
