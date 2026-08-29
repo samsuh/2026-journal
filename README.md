@@ -4,7 +4,7 @@
 - eyedrops: 10am/5:18pm
 - aspirin 3pm
 - skipping. back hurts from straining last time. ~~SKIP. gym set a~~
-- update val
+- DONE ~~update val~~
 - DONE ~~wait for prescription and pick up~~
 - math?
   - reviewed functions section. it was just watching the lecture and thinking "wow i remember seeing that before a long time ago" but i dont have the context, and it's not 'active' in my mind. 
