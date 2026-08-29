@@ -3,9 +3,9 @@
 ## 8/29/26 - Saturday 
 - eyedrops: 10am
 - aspirin 3pm
-- gym set a 
+- skipping. back hurts from straining last time. ~~SKIP. gym set a~~
 - update val
-- wait for prescription and pick up
+- DONE ~~wait for prescription and pick up~~
 - math? 
 
 ## 8/28/26 - Friday 
