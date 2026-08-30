@@ -2,6 +2,7 @@
 
 ## 8/31/26 - Monday
 - Gym Set A?
+- I think for the math stuff, i should get through it once, but then do it again taking notes, then do it again actively on my own. The way i think i learn best is through repetition, and exposure while being immersed in the content. It's just dangerous to try to do the same content multiple times, since i end up a little bored and i get distracted. Having videos playing while i get momentarily distracted by my phone will make the whole thing useless. 
 
 ## 8/30/26 - Sunday
 - eyedrops: 4am/ 12:25pm/ 10:30pm
