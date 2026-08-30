@@ -1,9 +1,9 @@
 # 2026-journal
 
 ## 8/30/26 - Sunday
-- eyedrops: 4am/ 12:25pm
+- eyedrops: 4am/ 12:25pm/ 10:30pm
 - aspirin: 5:35pm
-- math: started reviewing limits
+- math: started reviewing limits. good intuition, but lots of stuff i dont remember, like what all the graphs look like from just seeing the formulas
 
 Trading is so hard sometimes. damned if you do, damned if you dont. 
 
