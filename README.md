@@ -3,6 +3,7 @@
 ## 8/31/26 - Monday
 - DONE went in the morning at 6amish ~~Gym Set A?~~
 - I think for the math stuff, i should get through it once, but then do it again taking notes, then do it again actively on my own. The way i think i learn best is through repetition, and exposure while being immersed in the content. It's just dangerous to try to do the same content multiple times, since i end up a little bored and i get distracted. Having videos playing while i get momentarily distracted by my phone will make the whole thing useless.
+  - math is kinda fun. reviewing derivatives. it's nice to start with concepts and intuition instead of being told once then whipped into doing math. 
 - eyedrops: 7:25am/ 4:40pm 
 - aspirin: 4:40pm
 
