@@ -6,6 +6,7 @@
   - math is kinda fun. reviewing derivatives. it's nice to start with concepts and intuition instead of being told once then whipped into doing math. 
 - eyedrops: 7:25am/ 4:40pm 
 - aspirin: 4:40pm
+- gym called for an annual renewal. i think i really dont like being pressured. i was going to renew it anyway; the call was fine, and the suggestion and reminder to renew is fine. but i said id do it when im at the gym next time, they pushed to try to get a commitment to renew, which kinda irked me. now i have to actually shop around and consider what i want. 
 
 ## 8/30/26 - Sunday
 - eyedrops: 4am/ 12:25pm/ 10:30pm
