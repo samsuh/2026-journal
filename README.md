@@ -6,6 +6,11 @@
 - DONE ~~call KT about router~~
   - technician coming tomorrow morning 10am-11am
   - CLEAN UP!
+    - did motorcycle laundry
+    - cleared computer room floor mostly.
+      - throw away old keyboard slider/ decide on throwing out old ipad case
+      - clear desks of all stuff. put it in a doom pile in a diff room. sort.
+      - put stuff in the bookshelf bins after sorted
 - check out other gyms. gymboxx seems fine. 399k for the year. app. 24 hours. a little bit farther away tho
 - DONE. aliex sale?
   - ordered a blue toopre-style bike repair stand. maybe not the most efficient way to have it play out, but better to get it done and deal with it than to not decide. 
