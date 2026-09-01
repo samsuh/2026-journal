@@ -2,10 +2,11 @@
 
 ## 9/1/26 - Tuesday
 - Eyedrops: 5:37am
-- call KT about router 
+- DONE ~~call KT about router~~
+  - technician coming tomorrow morning 10am-11am
+  - CLEAN UP!
 - check out other gyms. gymboxx seems fine. 399k for the year. app. 24 hours. a little bit farther away tho
 - aliex sale? 
-- clean up in case they send a technician
 
 ## 8/31/26 - Monday
 - DONE went in the morning at 6amish ~~Gym Set A?~~
