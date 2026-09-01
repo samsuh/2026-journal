@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 9/1/26 - Tuesday
-- Eyedrops: 5:37am
+- Eyedrops: 5:37am/ 5:49pm 
+- aspirin: 5:50pm
 - DONE ~~call KT about router~~
   - technician coming tomorrow morning 10am-11am
   - CLEAN UP!
