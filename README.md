@@ -2,7 +2,10 @@
 
 ## 9/1/26 - Tuesday
 - Eyedrops: 5:37am
-- 
+- call KT about router 
+- check out other gyms 
+- aliex sale? 
+- clean upnin case they send a technician
 
 ## 8/31/26 - Monday
 - DONE went in the morning at 6amish ~~Gym Set A?~~
