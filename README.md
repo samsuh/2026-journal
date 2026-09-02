@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 9/3/26 - Thursday
-- 100 days of code. continue on day 7. finish watching lectures. 
+- 100 days of code. continue on day 7. finish watching lectures.
+- eyedrops: ~7am
 
 ## 9/2/26 - Wednesday 
 - DONE ~~ISP technician coming at 10am.~~
