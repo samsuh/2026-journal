@@ -4,7 +4,7 @@
 - ISP technician coming at 10am.
   - he came and swapped routers. it took like 5 mins. all that cleaning for that haha. worth tho. 
 - Finish cleaning apartment; mostly done with major rooms except he mega doom pile ive formed from collecting all the other doom piles.
-- eyedrops: around 1230am/ 10:30am
+- eyedrops: around 1230am/ 10:25am
 
 ## 9/1/26 - Tuesday
 - Eyedrops: 5:37am/ 5:49pm 
