@@ -9,7 +9,8 @@
 - DONE ~~gym set B~~
 - looked up gym renewal. current gym will become more expensive by about 20%, or i can do same price for the slightly farther but 24hour gym. ill probably switch. i have to check when my last day is. 
 - put unused stuff up for sale. take picture
-- took a long nap. wow. i guess that's catching up on sleep. 
+- took a long nap. wow. i guess that's catching up on sleep.
+- 100 days of code restarted. Getting through day 7. did the exercise, gotta watch lectures 
 
 ## 9/1/26 - Tuesday
 - Eyedrops: 5:37am/ 5:49pm 
