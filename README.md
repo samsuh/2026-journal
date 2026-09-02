@@ -6,6 +6,8 @@
 - Finish cleaning apartment; mostly done with major rooms except he mega doom pile ive formed from collecting all the other doom piles.
   - rip. knowing me, this is as far as it'll get for months. 
 - eyedrops: around 1230am/ 10:25am
+- DONE ~~gym set B~~
+- looked up gym renewal. current gym will become more expensive by about 20%, or i can do same price for the slightly farther but 24hour gym. ill probably switch. i have to check when my last day is. 
 
 ## 9/1/26 - Tuesday
 - Eyedrops: 5:37am/ 5:49pm 
