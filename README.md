@@ -8,7 +8,9 @@
 - eyedrops: around 1230am/ 10:25am
 - DONE ~~gym set B~~
 - looked up gym renewal. current gym will become more expensive by about 20%, or i can do same price for the slightly farther but 24hour gym. ill probably switch. i have to check when my last day is. 
-- put unused stuff up for sale. take picture 
+- put unused stuff up for sale. take picture
+- took a long nap. wow. i guess that's catching up on sleep. 
+
 ## 9/1/26 - Tuesday
 - Eyedrops: 5:37am/ 5:49pm 
 - aspirin: 5:50pm
