@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 9/3/26 - Thursday
+- 100 days of code. continue on day 7. finish watching lectures. 
+
 ## 9/2/26 - Wednesday 
 - DONE ~~ISP technician coming at 10am.~~
   - he came and swapped routers. it took like 5 mins. all that cleaning for that haha. worth tho. 
