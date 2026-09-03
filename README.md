@@ -2,7 +2,7 @@
 
 ## 9/3/26 - Thursday
 - 100 days of code. continue on day 7. finish watching lectures.
-- eyedrops: ~7am
+- eyedrops: ~7am/ 2:40pm
 
 ## 9/2/26 - Wednesday 
 - DONE ~~ISP technician coming at 10am.~~
