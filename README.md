@@ -3,6 +3,7 @@
 ## 9/3/26 - Thursday
 - 100 days of code. continue on day 7. finish watching lectures.
 - eyedrops: ~7am/ 2:40pm
+- aspirin: 9pm
 - DONE ~~Indoor cycling~~. 45 min intervals. 110w - 190w
 
 ## 9/2/26 - Wednesday 
