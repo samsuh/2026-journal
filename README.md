@@ -1,7 +1,12 @@
 # 2026-journal
 
+## 9/5/26 - Saturday 
+- maybe go for a ride?
+- eyedrops: 505am
+
 ## 9/4/26 - Friday 
-- i must have done eyedrops around 2am. 10am  
+- i must have done eyedrops around 2am. 10am. i didnt track it, but probably around 8pm.
+- aspirin around 8pm i think
 - i feel terrible the morning after eating burgerking. idk if its the food or if it causes me to snack on other stuff which makes me feel full. either way im prob better off not eating it. 
 - DONE ~~Gym Set A~~
 
