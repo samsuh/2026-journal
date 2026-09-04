@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 9/4/26 - Friday 
+- i must have done eyedrops around 2am. 10am  
+
 ## 9/3/26 - Thursday
 - 100 days of code. continue on day 7. finish watching lectures.
 - eyedrops: ~7am/ 2:40pm
