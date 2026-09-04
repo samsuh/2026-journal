@@ -2,7 +2,7 @@
 
 ## 9/4/26 - Friday 
 - i must have done eyedrops around 2am. 10am  
-
+- i feel terrible the morning after eating burgerking. idk if its the food or if it causes me to snack on other stuff which makes me feel full. either way im prob better off not eating it. 
 ## 9/3/26 - Thursday
 - 100 days of code. continue on day 7. finish watching lectures.
 - eyedrops: ~7am/ 2:40pm
