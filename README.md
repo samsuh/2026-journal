@@ -2,7 +2,7 @@
 
 ## 9/5/26 - Saturday 
 - maybe go for a ride?
-- eyedrops: 505am/little before 2pm
+- eyedrops: 505am/little before 2pm/ 10pm
 - aspirin: also 2pm
 
 ## 9/4/26 - Friday 
