@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 9/6/26 - Sunday 
+- eyedrops: 6am
+
 ## 9/5/26 - Saturday 
 - maybe go for a ride?
 - eyedrops: 505am/little before 2pm/ 10pm
