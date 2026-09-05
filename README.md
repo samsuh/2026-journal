@@ -2,7 +2,8 @@
 
 ## 9/5/26 - Saturday 
 - maybe go for a ride?
-- eyedrops: 505am
+- eyedrops: 505am/little before 2pm
+- aspirin: also 2pm
 
 ## 9/4/26 - Friday 
 - i must have done eyedrops around 2am. 10am. i didnt track it, but probably around 8pm.
