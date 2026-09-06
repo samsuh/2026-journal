@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 9/6/26 - Sunday 
-- eyedrops: 6am
+- eyedrops: 6am/1pm
+- aspirin: 1pm
 - DONE ~~Gym set B~~
 
 ## 9/5/26 - Saturday 
