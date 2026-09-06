@@ -1,5 +1,13 @@
 # 2026-journal
 
+## 9/7/26 - Monday 
+- eyedrops: not yet
+- aspirin: not yet
+- ride?
+- decide on which gym to join next; or figure out what to do abt gym situation
+- math
+- try to be social. or make plans to be social. maybe once a week. 
+
 ## 9/6/26 - Sunday 
 - eyedrops: 6am/1pm/10:45pm
 - aspirin: 1pm
