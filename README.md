@@ -2,6 +2,7 @@
 
 ## 9/6/26 - Sunday 
 - eyedrops: 6am
+- DONE ~~Gym set B~~
 
 ## 9/5/26 - Saturday 
 - maybe go for a ride?
