@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 9/7/26 - Monday 
-- eyedrops: not yet
+- eyedrops: 11am. might have done one around 7am idr. 
 - aspirin: not yet
 - ride?
 - decide on which gym to join next; or figure out what to do abt gym situation
