@@ -2,7 +2,7 @@
 
 ## 9/7/26 - Monday 
 - eyedrops: 11am. might have done one around 7am idr. 
-- aspirin: not yet
+- aspirin: 1230pm
 - ride?
 - decide on which gym to join next; or figure out what to do abt gym situation
 - math
