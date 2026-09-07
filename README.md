@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 9/7/26 - Monday 
-- eyedrops: 11am. might have done one around 7am idr. i keep missing writing it down. if i keep missing i need to go back to paper and pen 
+- eyedrops: 11am. might have done one around 7am idr. i keep missing writing it down. if i keep missing i need to go back to paper and pen. i think i did another around 11pm 
 - aspirin: 1230pm
 - ride?
 - decide on which gym to join next; or figure out what to do abt gym situation
