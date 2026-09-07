@@ -6,7 +6,8 @@
 - ride?
 - decide on which gym to join next; or figure out what to do abt gym situation
 - math
-- try to be social. or make plans to be social. maybe once a week. 
+- try to be social. or make plans to be social. maybe once a week.
+- went to dentist to get toothache checked. little soreness; infection maybe. i scheduled redoing fillers and all the other stuff ive been delaying for years, since i have lots of time now. i go in for first session on thursday at 1030am. hopefully wake up
 
 ## 9/6/26 - Sunday 
 - eyedrops: 6am/1pm/10:45pm
