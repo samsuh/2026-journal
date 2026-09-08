@@ -2,6 +2,8 @@
 
 ## 9/8/26 - Tuesday 
 - eyedrops: noon
+- aspirin: 3:50pm
+- DONE ~~Gym Set A~~
 
 ## 9/7/26 - Monday 
 - eyedrops: 11am. might have done one around 7am idr. i keep missing writing it down. if i keep missing i need to go back to paper and pen. i think i did another around 11pm 
