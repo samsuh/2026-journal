@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 9/9/26 - Wednesday 
+- eyedrops:
+- aspirin:
+- meet parents at airport 
+
 ## 9/8/26 - Tuesday 
 - eyedrops: noon/9:40pm
 - aspirin: 3:50pm
