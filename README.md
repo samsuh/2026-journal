@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 9/8/26 - Tuesday 
-- eyedrops: noon
+- eyedrops: noon/9:40pm
 - aspirin: 3:50pm
 - DONE ~~Gym Set A~~
 
