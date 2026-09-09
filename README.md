@@ -4,7 +4,9 @@
 - eyedrops: 5:15am/ ~11am/ ~6pm
 - aspirin: 6pm
 - DONE ~~meet parents at airport~~
-- note: cook the chicken tonight! 
+- note: cook the chicken tonight!
+  - marinated in fridge
+  - rice soaking 10:40pm 
 
 ## 9/8/26 - Tuesday 
 - eyedrops: noon/9:40pm
