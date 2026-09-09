@@ -1,9 +1,10 @@
 # 2026-journal
 
 ## 9/9/26 - Wednesday 
-- eyedrops: 5:15am
-- aspirin:
-- meet parents at airport 
+- eyedrops: 5:15am/ ~11am/ ~6pm
+- aspirin: 6pm
+- DONE ~~meet parents at airport~~
+- note: cook the chicken tonight! 
 
 ## 9/8/26 - Tuesday 
 - eyedrops: noon/9:40pm
