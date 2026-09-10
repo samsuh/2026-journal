@@ -1,7 +1,14 @@
 # 2026-journal
 
+## 9/11/26 - Friday
+- Got destroyed thoroughly in trading. Worst trading day of my life. Got rekt over and over and nothing i did helped, only made it worse. Every move was bad, and immediately punished, and i was left feeling helpless and beaten. rip me. time to take a long break from trading.
+- Dentist at 1030am
+- Maybe good to take a vacation and not touch tech for a while. Maybe do something analog.
+- Eyedrops:
+- Aspirin: 
+
 ## 9/10/26 - Thursday 
-- eyedrops: 1:30pm
+- eyedrops: 1:30pm/ 11:50pm
 - aspirin: 1:30pm 
 - DONE ~~goto gym last day~~
   - try not to let too much time go by without resigning up at gym 
