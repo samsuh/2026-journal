@@ -3,7 +3,8 @@
 ## 9/10/26 - Thursday 
 - eyedrops: 1:30pm
 - aspirin: 1:30pm 
-- goto gym last day 
+- DONE ~~goto gym last day~~
+  - try not to let too much time go by without resigning up at gym 
 
 ## 9/9/26 - Wednesday 
 - eyedrops: 5:15am/ ~11am/ ~6pm
