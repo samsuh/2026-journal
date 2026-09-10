@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 9/10/26 - Thursday 
+- eyedrops: 1:30pm
+- aspirin: 1:30pm 
+- goto gym last day 
+
 ## 9/9/26 - Wednesday 
 - eyedrops: 5:15am/ ~11am/ ~6pm
 - aspirin: 6pm
