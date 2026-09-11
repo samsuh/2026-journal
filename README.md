@@ -6,6 +6,7 @@
 - Maybe good to take a vacation and not touch tech for a while. Maybe do something analog.
 - Eyedrops: ~9:30am/ 6pm
 - Aspirin: 6pm
+- Gotta prep to go to jeju for a little while. Have to take care of some paperwork. dont forget to bring seals. 
 
 ## 9/10/26 - Thursday 
 - eyedrops: 1:30pm/ 11:50pm
