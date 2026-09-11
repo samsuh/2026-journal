@@ -1,5 +1,18 @@
 # 2026-journal
 
+## 9/12/26 - Saturday 
+- Eyedrops: 2:25am
+- Aspirin
+- Go for a ride finally!
+- prep jeju docs
+- find a place to store:
+  - cycling apparel
+  - cycling tools and maintenance
+  - cleaning for cycling and motorcycle
+  - tool kit; pretty substantial amt of stuff. need to dedicate proper space.
+- put motorcycle armor back together
+- motorcycle ride too? 
+
 ## 9/11/26 - Friday
 - Got destroyed thoroughly in trading. Worst trading day of my life. Got rekt over and over and nothing i did helped, only made it worse. Every move was bad, and immediately punished, and i was left feeling helpless and beaten. rip me. time to take a long break from trading.
 - Dentist at 1030am
