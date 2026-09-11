@@ -4,7 +4,7 @@
 - Got destroyed thoroughly in trading. Worst trading day of my life. Got rekt over and over and nothing i did helped, only made it worse. Every move was bad, and immediately punished, and i was left feeling helpless and beaten. rip me. time to take a long break from trading.
 - Dentist at 1030am
 - Maybe good to take a vacation and not touch tech for a while. Maybe do something analog.
-- Eyedrops:
+- Eyedrops: ~9:30am
 - Aspirin: 
 
 ## 9/10/26 - Thursday 
