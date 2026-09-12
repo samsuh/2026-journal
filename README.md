@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 9/12/26 - Saturday 
-- Eyedrops: 2:25am
-- Aspirin
+- Eyedrops: 2:25am/ 2:22pm
+- Aspirin: 2:25pm
 - Go for a ride finally!
 - prep jeju docs
 - find a place to store:
