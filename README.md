@@ -2,8 +2,8 @@
 
 ## 9/14/26 - Monday 
 slept a lot all of yesterday. i thought it would reset my schedule but it woke me up basically in the middle of my normal schedule haha. offset the wrong way a little. would be fine if i stayed up a lot and made it to tonight. 
-- eyedrops: 2am
-- aspirin:
+- eyedrops: 2am/ 5:30pm
+- aspirin: 5:30pm
 - 
 
 ## 9/13/26 - Sunday
