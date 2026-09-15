@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 9/16/26 - wednesday 
+- haircut 2pm
+- check abt snail mail letter received
+
 ## 9/15/26 - Tuesday
 ive been feeling restless lately. aside from the fked up sleep schedule and difficulty in resetting the sleep schedule, ive been searching for and thinking about purpose. i dont have a purpose and i feel like im just being led around by currents, and im not taking charge of navigating and steering; just drifting. need a destination to steer somewhere.
 - eyedrops: 4:40am/ unknown/ 8:46pm
