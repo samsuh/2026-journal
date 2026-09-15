@@ -2,8 +2,9 @@
 
 ## 9/15/26 - Tuesday
 ive been feeling restless lately. aside from the fked up sleep schedule and difficulty in resetting the sleep schedule, ive been searching for and thinking about purpose. i dont have a purpose and i feel like im just being led around by currents, and im not taking charge of navigating and steering; just drifting. need a destination to steer somewhere.
-- eyedrops: 4:40am
-- aspirin:
+- eyedrops: 4:40am/ unknown/ 8:46pm
+  - i dont think i updated this. the days blurred a bit cuz of the 'sleep a lot to reset sleep cycle' thing. 8:38pm. i apparently woke up around 3 then back to sleep around 8am, then woke up around noon, then killed time til i went for a bike ride around 3. i must have taken something before heading out. 
+- aspirin: maybe i took it around 230pm, maybe i didnt take it at all. unclear today. counted. today should be 5 but theres only 3 taken, so i guess i missed a day at some point, and i did not take today. so ill take one at 8:46
 - bike ride? really, it's been like a week of planning to ride outdoors. i rode indoors a bit but something's holding me back from just riding outside.
   - i was pmuch ready to go then i made a stupid trade. and got sucked into wasting like 2 hours of time watching this dumbass shit. now my attention is drained and my motivation used up after focusing so hard on this shit. 
 
