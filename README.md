@@ -5,7 +5,7 @@ ive been feeling restless lately. aside from the fked up sleep schedule and diff
 - eyedrops: 4:40am
 - aspirin:
 - bike ride? really, it's been like a week of planning to ride outdoors. i rode indoors a bit but something's holding me back from just riding outside.
-  - i was pmuch ready to go then i made a stupid trade. and got sucked into wasting like 2 hours of time watching this dumbass shit. 
+  - i was pmuch ready to go then i made a stupid trade. and got sucked into wasting like 2 hours of time watching this dumbass shit. now my attention is drained and my motivation used up after focusing so hard on this shit. 
 
 ## 9/14/26 - Monday 
 slept a lot all of yesterday. i thought it would reset my schedule but it woke me up basically in the middle of my normal schedule haha. offset the wrong way a little. would be fine if i stayed up a lot and made it to tonight. 
