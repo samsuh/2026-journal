@@ -2,6 +2,7 @@
 
 ## 9/17/26 - Thursday 
 - eyedrops - 12:57am
+- spent a lot of time this morning watching market. took some profit, market left me behind again, meaning i couldnt capture a lot of the rise, but i made a small profit. i should send out some funds to actually take profit, and then relax a while. 
 
 
 ## 9/16/26 - wednesday 
