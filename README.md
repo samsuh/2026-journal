@@ -3,7 +3,7 @@
 ## 9/16/26 - wednesday 
 - DONE ~~haircut 2pm~~. shes getting married in november
 - stopped at decathlon bike store, and walked past chipotle opening, but didnt want to wait in line so got cuchara. was ok. not great. fine. 
-- check abt snail mail letter received
+- DONE. no further action required. ~~check abt snail mail letter received~~
 - i thought i did eyedrops, but now im not sure. i had dry eyes when waking up, but i might not have done drops before showering. ill do it now
 - eyedrops: 415pm
 - aspirin: 415pm
