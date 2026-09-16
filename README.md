@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 9/17/26 - Thursday 
+- eyedrops - 12:57am
+
+
 ## 9/16/26 - wednesday 
 - DONE ~~haircut 2pm~~. shes getting married in november
 - stopped at decathlon bike store, and walked past chipotle opening, but didnt want to wait in line so got cuchara. was ok. not great. fine. 
