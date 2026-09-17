@@ -3,7 +3,7 @@
 ## 9/18/26 - Friday
 I was thinking, maybe my purpose is just to be prepared and be open, and be ready to be called to action. 
 - 2:30pm dentist
-- eyedrops:
+- eyedrops: 6:05am
 - aspirin: 
 
 ## 9/17/26 - Thursday 
