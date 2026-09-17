@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 9/18/26 - Friday
+I was thinking, maybe my purpose is just to be prepared and be open, and be ready to be called to action. 
+- 2:30pm dentist
+- eyedrops:
+- aspirin: 
+
 ## 9/17/26 - Thursday 
 - eyedrops - 12:57am/6:20am/2pm/10:25pm
 - aspirin: 2pm
