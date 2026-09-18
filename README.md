@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 9/19/26 - Saturday
+- Early morning, signed up for and went to new 24 hour gym. Surprisingly there were quite a few people working out at 2/3am.
+- Need to get shower stuff together for showering there. Prob gets too crowded during the day.
+  - flip flops, toiletry bag (shampoo, body wash, quick drying scrub thing)
+- Eyedrops: (next should be 7:20am)
+- Aspirin: 
+
 ## 9/18/26 - Friday
 I was thinking, maybe my purpose is just to be prepared and be open, and be ready to be called to action. 
 - DONE ~~2:30pm dentist~~ super quick to get the ceramic whatevers put in. 15 mins. 
