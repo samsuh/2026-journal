@@ -2,9 +2,9 @@
 
 ## 9/18/26 - Friday
 I was thinking, maybe my purpose is just to be prepared and be open, and be ready to be called to action. 
-- 2:30pm dentist
-- eyedrops: 6:05am
-- aspirin: 
+- DONE ~~2:30pm dentist~~ super quick to get the ceramic whatevers put in. 15 mins. 
+- eyedrops: 6:05am/ 3:20pm
+- aspirin: 3:20pm
 
 ## 9/17/26 - Thursday 
 - eyedrops - 12:57am/6:20am/2pm/10:25pm
