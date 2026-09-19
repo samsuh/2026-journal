@@ -4,8 +4,8 @@
 - Early morning, signed up for and went to new 24 hour gym. Surprisingly there were quite a few people working out at 2/3am.
 - Need to get shower stuff together for showering there. Prob gets too crowded during the day.
   - flip flops, toiletry bag (shampoo, body wash, quick drying scrub thing)
-- Eyedrops: 7:45am/ 
-- Aspirin: 
+- Eyedrops: 7:45am/ 4:09pm 
+- Aspirin: 4:09pm
 
 ## 9/18/26 - Friday
 I was thinking, maybe my purpose is just to be prepared and be open, and be ready to be called to action. 
