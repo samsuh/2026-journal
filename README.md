@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 9/20/26 - Sunday
+- Eyedrops: 1am
+- Aspirin:
+- buy a travel sized body wash. 
+
 ## 9/19/26 - Saturday
 - Early morning, signed up for and went to new 24 hour gym. Surprisingly there were quite a few people working out at 2/3am.
 - Need to get shower stuff together for showering there. Prob gets too crowded during the day.
