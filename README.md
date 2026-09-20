@@ -4,7 +4,9 @@
 - Yesterday was a blur. dont think i did anything weird. notes say i missed a bunch of stuff.
 - Eyedrops: 5:30am
 - Aspirin: im not sure if i did yesterday so ill do it now too. 5:30am.
-- usdkrw is currently going up a bit to 1384 from down around 1330 a week ago i think, but dt is going down? wut. 
+- usdkrw is currently going up a bit to 1384 from down around 1330 a week ago i think, but dt is going down? wut.
+- burgerking after working out early in the morning is prob not the best idea. learned their breakfast menu starts from 4am tho. good info. getting this coffee prob wasnt a great idea either. put it away. drink water instead and get ready to get some sleep.
+- oh. send rent. 
 
 ## 9/20/26 - Sunday
 - Eyedrops: 1am did i?
