@@ -1,9 +1,14 @@
 # 2026-journal
 
+## 9/21/26 - Monday 
+- Yesterday was a blur. dont think i did anything weird. notes say i missed a bunch of stuff.
+- Eyedrops: 5:30am
+- Aspirin: im not sure if i did yesterday so ill do it now too. 5:30am.
+
 ## 9/20/26 - Sunday
-- Eyedrops: 1am
-- Aspirin:
-- buy a travel sized body wash. 
+- Eyedrops: 1am did i?
+- Aspirin: did i?
+- buy a travel sized body wash. did it. 
 
 ## 9/19/26 - Saturday
 - Early morning, signed up for and went to new 24 hour gym. Surprisingly there were quite a few people working out at 2/3am.
