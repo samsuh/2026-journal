@@ -4,6 +4,7 @@
 - Yesterday was a blur. dont think i did anything weird. notes say i missed a bunch of stuff.
 - Eyedrops: 5:30am
 - Aspirin: im not sure if i did yesterday so ill do it now too. 5:30am.
+- usdkrw is currently going up a bit to 1384 from down around 1330 a week ago i think, but dt is going down? wut. 
 
 ## 9/20/26 - Sunday
 - Eyedrops: 1am did i?
