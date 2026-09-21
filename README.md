@@ -1,9 +1,17 @@
 # 2026-journal
 
 ## 9/22/26 - Tuesday 
-To dos: get aspirin from pharmacy/ go to jumin center/ 
-Eyedrops: 1:20am 
-Aspirin: 1:20am
+To dos: 
+- get aspirin from pharmacy/ go to jumin center/ 
+- lets clean up the motorcycle and do some basic maintenance.
+  - gear needed: rear stand, gloves, cleaning spray, cloths, chain cleaner, chain lube. pump. key. 
+  - check everything,
+  - dust it off or wipe it down with some cleaner and cloth/brushes,
+  - 
+- Eyedrops: 1:20am 
+- Aspirin: 1:20am
+- 
+
 
 ## 9/21/26 - Monday 
 - Yesterday was a blur. dont think i did anything weird. notes say i missed a bunch of stuff.
