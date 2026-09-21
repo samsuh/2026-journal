@@ -2,6 +2,8 @@
 
 ## 9/22/26 - Tuesday 
 To dos: get aspirin from pharmacy/ go to jumin center/ 
+Eyedrops: 1:20am 
+Aspirin: 1:20am
 
 ## 9/21/26 - Monday 
 - Yesterday was a blur. dont think i did anything weird. notes say i missed a bunch of stuff.
