@@ -1,5 +1,13 @@
 # 2026-journal
 
+## 9/23/26 - Wednesday 
+- DONE ~~Gym Set A~~ at 10pmish, got out around 11 something and got bk takeout.
+- eyedrops:
+- aspirin:
+- motorcycle cleaning
+- tools organizing
+- study something 
+
 ## 9/22/26 - Tuesday 
 To dos: 
 - get aspirin from pharmacy
@@ -8,7 +16,7 @@ To dos:
   - gear needed: rear stand, gloves, cleaning spray, cloths, chain cleaner, chain lube. pump. key. 
   - check everything,
   - dust it off or wipe it down with some cleaner and cloth/brushes,
-- Eyedrops: 1:20am/ 3:05pm
+- Eyedrops: 1:20am/ 3:05pm/ 10pm
 - Aspirin: 1:20am
 - 
 
