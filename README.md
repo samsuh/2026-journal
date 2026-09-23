@@ -7,6 +7,7 @@
 - tools organizing
 - study something
 - went for a bike ride, 63km
+  - washed bicycle, but not motorcycle. lots of mosquitos out there at dusk. 
   - had a pretty bad headache afterwards. even though i had water and food and extra carbs and powerade and snickers at the end, and ate pizza after. more water + multivitamin + egg with excessive salt helped. idk which one helped. 
 
 ## 9/22/26 - Tuesday 
