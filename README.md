@@ -1,11 +1,12 @@
 # 2026-journal
 
 ## 9/23/26 - Wednesday 
-- eyedrops: 11:20am
+- eyedrops: 11:20am/ 5:35pm 
 - aspirin: 11:20am
 - motorcycle cleaning
 - tools organizing
-- study something 
+- study something
+- went for a bike ride, 63km 
 
 ## 9/22/26 - Tuesday 
 To dos: 
