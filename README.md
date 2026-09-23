@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 9/23/26 - Wednesday 
-- eyedrops:
-- aspirin:
+- eyedrops: 11:20am
+- aspirin: 11:20am
 - motorcycle cleaning
 - tools organizing
 - study something 
