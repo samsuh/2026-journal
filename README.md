@@ -2,10 +2,11 @@
 
 ## 9/24/26 - Thursday
 - eyedrops: 3:14am/ 12:07pm
-- buy more aspirin. 12:08pm
+- aspirin. 12:08pm
+  - bought more aspirin, but the pharmacist was not as nice as i thought. before, they sold me 2 sheets cuz of the prescription, but this time she said they dont sell sheets and only has the 98count for sale. thats fine. just cost double what all the aspirin plus two eye medicine cost before. maybe insurance covered some of the cost last time from the prescription. 
 - replace cables 
-clean motorcycle
-tool reorg 
+- clean motorcycle
+- tool reorg 
 
 ## 9/23/26 - Wednesday 
 - eyedrops: 11:20am/ 5:35pm 
