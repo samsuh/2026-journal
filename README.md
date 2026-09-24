@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 9/25/26 - Friday
+- wow friday already. went to gym super early in the morning at 2:40ish am. got breakfast at bk after since it was like 430.
+- eyedrops: 6:46am 
+- aspirin: wait longer for noonish? nah. itll be fine. 6:48am. 
+
 ## 9/24/26 - Thursday
 - eyedrops: 3:14am/ 12:07pm/ 10:05pm
 - aspirin. 12:08pm
