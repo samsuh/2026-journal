@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 9/24/26 - Thursday
-- eyedrops: 3:14am
-- buy more aspirin
+- eyedrops: 3:14am/ 12:07pm
+- buy more aspirin. 12:08pm
 - replace cables 
 clean motorcycle
 tool reorg 
