@@ -2,7 +2,7 @@
 
 ## 9/25/26 - Friday
 - wow friday already. went to gym super early in the morning at 2:40ish am. got breakfast at bk after since it was like 430.
-- eyedrops: 6:46am 
+- eyedrops: 6:46am/ 2:55pm
 - aspirin: wait longer for noonish? nah. itll be fine. 6:48am. 
 
 ## 9/24/26 - Thursday
