@@ -1,9 +1,15 @@
 # 2026-journal
 
+## 9/26/26 - Saturday 
+- eyedrops: did i do last night at 11pmish also? or did i just do aspirin? hmm...
+- aspirin: last night 11pm. so fine all day.
+- 
+
 ## 9/25/26 - Friday
 - wow friday already. went to gym super early in the morning at 2:40ish am. got breakfast at bk after since it was like 430.
 - eyedrops: 6:46am/ 2:55pm
 - aspirin: wait longer for noonish? nah. itll be fine. 6:48am. again at 11pmish.
+- rainy day, but that should be it for a while
 
 ## 9/24/26 - Thursday
 - eyedrops: 3:14am/ 12:07pm/ 10:05pm
