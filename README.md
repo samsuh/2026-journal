@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 9/27/26 - Sunday
+- eyedrops: 2:25am
+- aspirin: 2:30am
 
 ## 9/26/26 - Saturday 
 - eyedrops: did i do last night at 11pmish also? i havent been good about tracking this the past few days. 7:13pm
