@@ -2,7 +2,7 @@
 
 
 ## 9/26/26 - Saturday 
-- eyedrops: did i do last night at 11pmish also? or did i just do aspirin? hmm...
+- eyedrops: did i do last night at 11pmish also? i havent been good about tracking this the past few days. 7:13pm
 - aspirin: last night 11pm. so fine all day.
 - followed one math video doing basic linear algebra. i can feel my brain trying to use muscles it hasnt used in a very long time. i understood it, but it was very rusty, and it would take a lot of practice to dust off this machinery. 
 
