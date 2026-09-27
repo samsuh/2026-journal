@@ -3,6 +3,7 @@
 ## 9/27/26 - Sunday
 - eyedrops: 2:25am/ 3:29pm
 - aspirin: 2:30am
+- started organizing tools and storage stuff. 
 
 ## 9/26/26 - Saturday 
 - eyedrops: did i do last night at 11pmish also? i havent been good about tracking this the past few days. 7:13pm
