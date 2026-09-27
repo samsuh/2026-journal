@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 9/28/26 - Monday 
+- made plans to go be social today. whenever i wake up in the afternoon
+- eyedrops: 2:22am
+- aspirin: 2:22am
+
 ## 9/27/26 - Sunday
 - eyedrops: 2:25am/ 3:29pm
 - aspirin: 2:30am
