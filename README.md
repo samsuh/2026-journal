@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 9/29/26 - Tuesday
+- Eye appt at 2pm
+- eyedrops: 3:07am
+- aspirin: 
+- went to gym, set b, around 130am. 
+
 ## 9/28/26 - Monday 
 - made plans to go be social today. whenever i wake up in the afternoon
 - eyedrops: 2:22am/ 3:29pm
