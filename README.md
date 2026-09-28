@@ -3,7 +3,7 @@
 ## 9/29/26 - Tuesday
 - Eye appt at 2pm
 - eyedrops: 3:07am
-- aspirin: 
+- aspirin: 3:09am
 - went to gym, set b, around 130am. 
 
 ## 9/28/26 - Monday 
