@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 9/30/26 - Wednesday 
-- eyedrops: 12:07am
+- eyedrops: 12:07am/ 7:17am
 - aspirin: 12:09am
 - try to go for a ride today
 
