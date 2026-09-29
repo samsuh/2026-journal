@@ -1,7 +1,12 @@
 # 2026-journal
 
+## 9/30/26 - Wednesday 
+- eyedrops: 12:07am
+- aspirin: 12:09am
+- try to go for a ride today
+
 ## 9/29/26 - Tuesday
-- done ~~Eye appt at 2pm~~
+- done ~~Eye appt at 2pm~~ it got a little worse, but is pretty stable. one more month of trying, and then go in to get it taken care of via needle. 
 - eyedrops: 3:07am/ 1:22pm
 - aspirin: 3:09am
 - went to gym, set b, around 130am. 
