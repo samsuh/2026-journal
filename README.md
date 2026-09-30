@@ -3,7 +3,8 @@
 ## 9/30/26 - Wednesday 
 - eyedrops: 12:07am/ 7:17am/ 6:05pm
 - aspirin: 12:09am
-- nope, didnt happen. try to go for a ride today. 
+- nope, didnt happen. try to go for a ride today.
+- gym - set a?
 
 ## 9/29/26 - Tuesday
 - done ~~Eye appt at 2pm~~ it got a little worse, but is pretty stable. one more month of trying, and then go in to get it taken care of via needle. 
