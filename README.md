@@ -2,7 +2,7 @@
 ## 10/1/26 - Thursday 
 - DONE ~~Gym Set A~~
 - DONE ~~meet mom and dad at gimpo at 1030am~~
-- eyedrops: 1:55am
+- eyedrops: 1:55am/ 12:24pm
 - aspirin: 1:55am
 
 ## 9/30/26 - Wednesday 
