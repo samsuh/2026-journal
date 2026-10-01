@@ -1,9 +1,13 @@
 # 2026-journal
+
+## 10/2/26 - Friday
+
 ## 10/1/26 - Thursday 
 - DONE ~~Gym Set A~~
 - DONE ~~meet mom and dad at gimpo at 1030am~~
 - eyedrops: 1:55am/ 12:24pm/10:40pm 
 - aspirin: 1:55am
+- went on a date with YN. went well. second date monday daytime. 
 
 ## 9/30/26 - Wednesday 
 - eyedrops: 12:07am/ 7:17am/ 6:05pm
