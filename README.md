@@ -1,7 +1,7 @@
 # 2026-journal
 ## 10/1/26 - Thursday 
 - DONE ~~Gym Set A~~
-- meet mom and dad at gimpo at 1030am
+- DONE ~~meet mom and dad at gimpo at 1030am~~
 - eyedrops: 1:55am
 - aspirin: 1:55am
 
