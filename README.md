@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 10/3/26 - Saturday 
+- eyedrops: 
+- aspirin:
+- gym set B eventually. 
+
 ## 10/2/26 - Friday
 - eyedrops: 8am/ 9pm
 - aspirin: 3:43am
