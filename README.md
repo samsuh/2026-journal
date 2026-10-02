@@ -1,8 +1,9 @@
 # 2026-journal
 
 ## 10/2/26 - Friday
-- eyedrops: 8am
+- eyedrops: 8am/ 9pm
 - aspirin: 3:43am
+- went for a ride. 58km
 
 ## 10/1/26 - Thursday 
 - DONE ~~Gym Set A~~
