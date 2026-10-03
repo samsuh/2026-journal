@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 10/3/26 - Saturday 
-- eyedrops: 5:19am
-- aspirin: im pretty sure i took one around 1am, but i didnt write it down. play it safe, and wait til afternoon i guess and split the difference. 
+- eyedrops: 5:19am/ 5:39pm
+- aspirin: im pretty sure i took one around 1am, but i didnt write it down. play it safe, and wait til afternoon i guess and split the difference. 5:41pm
 - gym set B eventually. 
 
 ## 10/2/26 - Friday
