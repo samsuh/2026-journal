@@ -2,8 +2,8 @@
 
 @@ 10/4/26 - Sunday
 - DONE ~~gym Set B~~ 2-4am
-- eyedrops: 4:57am
-- aspirin:
+- eyedrops: 4:57am/ 5:35pm
+- aspirin: 5:36pm
 - 
 
 ## 10/3/26 - Saturday 
