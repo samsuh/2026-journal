@@ -1,6 +1,11 @@
 # 2026-journal
 
-@@ 10/4/26 - Sunday
+## 10/5/26 - Monday 
+- eyedrops: 1:42am
+- aspirin:
+- date with YN at seoul forest at 2pm
+
+## 10/4/26 - Sunday
 - DONE ~~gym Set B~~ 2-4am
 - eyedrops: 4:57am/ 5:35pm
 - aspirin: 5:36pm
