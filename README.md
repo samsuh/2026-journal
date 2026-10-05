@@ -2,8 +2,8 @@
 
 ## 10/5/26 - Monday 
 - eyedrops: 1:42am/ 9:10pm
-- aspirin: 0:10pm
-- date with YN at seoul forest at 2pm
+- aspirin: 9:10pm
+- date with YN at seoul forest at 2pm, we took hangang river bus to jamsil, then ate in jamsil. my voice ended up going out lol. 
 
 ## 10/4/26 - Sunday
 - DONE ~~gym Set B~~ 2-4am
