@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 10/8/26 - thursday 
+- eyedrops: 10:50am
+- aspirin: 
+- prob good to cycle keys when i have time
+
 ## 10/7/26 - Wednesday
 - eyedrops: 12:43am/ 5:43pm
 - aspirin: 5:45pm
