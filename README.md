@@ -10,6 +10,7 @@
 - eyedrops: 10:50am/ 8:06pm
 - aspirin: 8:06pm
 - prob good to cycle keys when i have time
+  - learned that post-ride headaches might be from my eye problem in left eye, which does cause blurriness and warping, but that plus strain for hours and dry windy conditions might be causing the headaches. take more breaks, rest eyes more, eyedrops more. 
 - went for a bike ride
 - broke it off with YN
 
