@@ -1,5 +1,11 @@
 # 2026-journal
 
+
+## 10/9/26 - Friday 
+- eyedrops: 2:23am
+- aspirin:
+- got rocked by market. rip.
+
 ## 10/8/26 - thursday 
 - eyedrops: 10:50am/ 8:06pm
 - aspirin: 8:06pm
