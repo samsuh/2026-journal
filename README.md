@@ -1,9 +1,11 @@
 # 2026-journal
 
 ## 10/8/26 - thursday 
-- eyedrops: 10:50am
-- aspirin: 
+- eyedrops: 10:50am/ 8:06pm
+- aspirin: 8:06pm
 - prob good to cycle keys when i have time
+- went for a bike ride
+- broke it off with YN
 
 ## 10/7/26 - Wednesday
 - eyedrops: 12:43am/ 5:43pm
