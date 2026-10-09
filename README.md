@@ -2,8 +2,8 @@
 
 
 ## 10/9/26 - Friday 
-- eyedrops: 2:23am
-- aspirin:
+- eyedrops: 2:23am/ 9:40am
+- aspirin: 9:40am
 - got rocked by market. rip.
 
 ## 10/8/26 - thursday 
