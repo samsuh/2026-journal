@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 10/11/26 - Sunday
+happy birthday! 
+- eyedrops: 7:20am
+- aspirin: 7:20am
+
 ## 10/10/26 - Saturday 
 - eyedrops: 5:40am/ 8pm
 - aspirin: 8:26am
