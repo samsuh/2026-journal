@@ -3,6 +3,7 @@
 ## 10/10/26 - Saturday 
 - eyedrops: 5:40am
 - aspirin: 8:26am
+- got haircut. shes getting married 11/21 in wonju. honeymoon in bali. maybe find a gift or something 
 
 ## 10/9/26 - Friday 
 - eyedrops: 2:23am/ 9:40am/ 6:15pm
