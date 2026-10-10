@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 10/10/26 - Saturday 
-- eyedrops: 5:40am
+- eyedrops: 5:40am/ 8pm
 - aspirin: 8:26am
 - got haircut. shes getting married 11/21 in wonju. honeymoon in bali. maybe find a gift or something 
 
