@@ -4,6 +4,7 @@
 happy birthday! 
 - eyedrops: 7:20am
 - aspirin: 7:20am
+- went for a ride about 60km. testing whether the headache happens after not using headphones.
 
 ## 10/10/26 - Saturday 
 - eyedrops: 5:40am/ 8pm
