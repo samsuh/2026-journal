@@ -2,7 +2,7 @@
 
 ## 10/13/26 - Tuesday
 - eyedrops: 1:21am
-- aspirin: 
+- aspirin: 6:34am
 
 ## 10/12/26 - Monday 
 - eyedrops: 8am/ 3:30pm
