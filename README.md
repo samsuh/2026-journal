@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 10/14/26 - Wednesday 
+- eyedrops:
+- aspirin:
+- gym: set B?
+
 ## 10/13/26 - Tuesday
 - eyedrops: 1:21am/ 2:31pm/ 10pm
 - aspirin: 6:34am
@@ -7,6 +12,7 @@
 ## 10/12/26 - Monday 
 - eyedrops: 8am/ 3:30pm
 - aspirin: 8am
+- forgot to log gym at 22:49pm 
 
 ## 10/11/26 - Sunday
 happy birthday! 
@@ -17,7 +23,8 @@ happy birthday!
 ## 10/10/26 - Saturday 
 - eyedrops: 5:40am/ 8pm
 - aspirin: 8:26am
-- got haircut. shes getting married 11/21 in wonju. honeymoon in bali. maybe find a gift or something 
+- got haircut. shes getting married 11/21 in wonju. honeymoon in bali. maybe find a gift or something
+- forgot to log gym at 3:20am
 
 ## 10/9/26 - Friday 
 - eyedrops: 2:23am/ 9:40am/ 6:15pm
