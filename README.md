@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 10/18/26 - sunday 
+- eyedrops: 1:51pm
+- aspirin: 1:52pm
+- date with S
+
 ## 10/17/26 - saturday
 - eyedrops: 4:06am/ 7:07pm
 - aspirin: 6am
