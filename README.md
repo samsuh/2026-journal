@@ -1,12 +1,13 @@
 # 2026-journal
 
 ## 10/19/26 - Monday
-- eyedrops: 7:53am
+- eyedrops: 7:53am/ 5pm
+- aspirin: 5pm
 
 ## 10/18/26 - sunday 
 - eyedrops: 1:51pm/ 11:27pm
 - aspirin: 1:52pm
-- date with S
+- date with S. went pretty well. started rough cuz she showed up like 35 mins late. 
 
 ## 10/17/26 - saturday
 - eyedrops: 4:06am/ 7:07pm
