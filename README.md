@@ -7,7 +7,7 @@
 ## 10/18/26 - sunday 
 - eyedrops: 1:51pm/ 11:27pm
 - aspirin: 1:52pm
-- date with S. went pretty well. started rough cuz she showed up like 35 mins late. 
+- date with S. went pretty well. started rough cuz she showed up like 35 mins late. and we changed dinner venues, i chose vietnamese food, but shes allergic to shrimp, and chose not to share that piece of info until after we got our food lol. apparently it's mostly a preference or intolerance not a "die if i touch it" allergy. the rest of the date went well though, and i hope to see her again. 
 
 ## 10/17/26 - saturday
 - eyedrops: 4:06am/ 7:07pm
