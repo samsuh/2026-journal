@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 10/21/26 - Wednesday 
+- eyedrops:
+- aspirin:
+- bike ride?
+
 ## 10/20/26 - Tuesday
 - eyedrops: 5:24am/ 730pm
 - aspirin: 7:31pm
