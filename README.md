@@ -1,5 +1,14 @@
 # 2026-journal
 
+## 10/22/26 - Thursday 
+- eyedrops: 
+- aspirin:
+- activity:
+- chores:
+- food:
+- sleep:
+- woke: 
+
 ## 10/21/26 - Wednesday 
 - eyedrops: 3:20am/ 5:45pm
 - aspirin: 5:46pm
