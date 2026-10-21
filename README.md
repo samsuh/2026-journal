@@ -7,6 +7,7 @@
 - woke up: around 430pm
 
 spending all day online and on discord chats has broken its hold. they dont gaf about me. im just a random anon. theyre there for themselves, not to build community or care for others. all the time and energy i invest into the community is not worth it. nobody wants it and nobody asked. im just doing it cuz i want to be wanted and i want to be included in the community. i should find a community that's more real and actually matters to my life. 
+i think discord is giving me a false sense of community and interaction, but it's all fake. i should figure out a way to plug into society. maybe use the next apartment move to establish community somewhere, plug in and start building. 
 
 ## 10/20/26 - Tuesday
 - eyedrops: 5:24am/ 730pm
