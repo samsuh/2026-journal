@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 10/22/26 - Thursday 
-- eyedrops: 
+- eyedrops: 2:07am
 - aspirin:
 - activity:
 - chores:
