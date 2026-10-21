@@ -6,6 +6,8 @@
 - bike ride? woke up too late. also cold, need to prep for cold riding
 - woke up: around 430pm
 
+spending all day online and on discord chats has broken its hold. they dont gaf about me. im just a random anon. theyre there for themselves, not to build community or care for others. all the time and energy i invest into the community is not worth it. nobody wants it and nobody asked. im just doing it cuz i want to be wanted and i want to be included in the community. i should find a community that's more real and actually matters to my life. 
+
 ## 10/20/26 - Tuesday
 - eyedrops: 5:24am/ 730pm
 - aspirin: 7:31pm
