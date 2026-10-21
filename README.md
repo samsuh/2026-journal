@@ -1,9 +1,10 @@
 # 2026-journal
 
 ## 10/21/26 - Wednesday 
-- eyedrops: 3:20am
-- aspirin:
-- bike ride?
+- eyedrops: 3:20am/ 5:45pm
+- aspirin: 5:46pm
+- bike ride? woke up too late. also cold, need to prep for cold riding
+- woke up: around 430pm
 
 ## 10/20/26 - Tuesday
 - eyedrops: 5:24am/ 730pm
