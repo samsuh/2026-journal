@@ -6,8 +6,10 @@
 - activity:
 - chores:
 - food:
-- sleep:
+- sleep: 7amish
 - woke: 
+todos 
+look into formal dissolution of bcf 
 
 ## 10/21/26 - Wednesday 
 - eyedrops: 3:20am/ 5:45pm
