@@ -8,10 +8,12 @@
 - food: cooked chicken with rice and some side salad w balsamic
 - sleep: 8am-ish
 - woke: 12:30ish
+
 todos 
 - look into formal dissolution of bcf
 - check what these utility visits are about, schedule one.
 - gym set A?
+- schedule something with SJ
 
 ## 10/21/26 - Wednesday 
 - eyedrops: 3:20am/ 5:45pm
