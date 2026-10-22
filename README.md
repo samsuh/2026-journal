@@ -10,7 +10,8 @@
 - woke: 12:30ish
 todos 
 - look into formal dissolution of bcf
-- check what these utility visits are about, schedule one. 
+- check what these utility visits are about, schedule one.
+- gym set A?
 
 ## 10/21/26 - Wednesday 
 - eyedrops: 3:20am/ 5:45pm
