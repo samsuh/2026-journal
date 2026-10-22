@@ -1,12 +1,12 @@
 # 2026-journal
 
 ## 10/22/26 - Thursday 
-- eyedrops: 2:07am/ 1:17pm
+- eyedrops: 2:07am/ 1:17pm/ 10:46pm
 - aspirin: 1:17pm
 - activity: gym set a. tried the sadang1 branch. it was pretty much the same. i dont like how you have to walk upstairs with your shoes in the public area. 
 - chores: did dishes, mopped the floor, doing laundry
 - food: cooked chicken with rice and some side salad w balsamic, eating pizza, bought some apples and tomatoes. will cook the tomatoes into the chicken next. the chicken from earlier made me feel a little off. check it before consuming the rest. 
-- sleep: 8am-ish
+- sleep: 8am-ish/ nap from like 8pmish to 10ish. 
 - woke: 12:30ish
 
 todos 
