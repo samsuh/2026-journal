@@ -1,15 +1,16 @@
 # 2026-journal
 
 ## 10/22/26 - Thursday 
-- eyedrops: 2:07am
-- aspirin:
+- eyedrops: 2:07am/ 1:17pm
+- aspirin: 1:17pm
 - activity:
 - chores:
-- food:
-- sleep: 7amish
-- woke: 
+- food: cooked chicken with rice and some side salad w balsamic
+- sleep: 8am-ish
+- woke: 12:30ish
 todos 
-look into formal dissolution of bcf 
+- look into formal dissolution of bcf
+- check what these utility visits are about, schedule one. 
 
 ## 10/21/26 - Wednesday 
 - eyedrops: 3:20am/ 5:45pm
