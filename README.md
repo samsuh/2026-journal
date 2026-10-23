@@ -1,5 +1,12 @@
 # 2026-journal
 
+## 10/23/26 - Friday
+- eyedrops: 2:26pm
+- aspirin: 2:28pm
+- go be social. hanging out with D and S in jongno at 4pm
+- woke up at 12:30pm
+- went to get pizza and coffee
+
 ## 10/22/26 - Thursday 
 - eyedrops: 2:07am/ 1:17pm/ 10:46pm
 - aspirin: 1:17pm
