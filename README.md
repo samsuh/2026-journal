@@ -2,8 +2,8 @@
 
 ## 10/24/26 - Saturday 
 - got home at 6:20ish am from a night out being social. was fun though.
-- eyedrops: 6:38am
-- aspirin:
+- eyedrops: 6:38am/ 4:52pm
+- aspirin: 4:53pm
 - 
 
 ## 10/23/26 - Friday
