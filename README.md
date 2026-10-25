@@ -4,7 +4,8 @@
 - slept all day yesterday after drinking so much and staying out til early morning.
 - woke up around 3am and doomscrolled til about 5am. went to gym around 630
 - went to get breakfast after at bk.
-- got home and messed with ultrasonic cleaner, and bike parts a bit. waiting on cleaning fluid and the induction heater to get delivered. i think wax pot is gonna be a little too big. maybe itll be ok if chain lies in more of a single layer along the bottom. need a wire hangar or something. looked at the gym and they only use plastic. rip. maybe i need to go get something drycleaned. 
+- got home and messed with ultrasonic cleaner, and bike parts a bit. waiting on cleaning fluid and the induction heater to get delivered. i think wax pot is gonna be a little too big. maybe itll be ok if chain lies in more of a single layer along the bottom. need a wire hangar or something. looked at the gym and they only use plastic. rip. maybe i need to go get something drycleaned.
+- prob gonna nap, it's noon. 
 
 ## 10/24/26 - Saturday 
 - got home at 6:20ish am from a night out being social. was fun though.
