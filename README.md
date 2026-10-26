@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 10/27/26 - Tuesday 
+- eyedrops:
+- aspirin:
+- waiting on bike fitter's recommendation for frame size. im compelled by the aethos 1 offering. but im pretty close to the max system weight limit. if i take weight+bike+gear+waterbottle into account im prob pushing the 120kg limit on the wheelset, and not too far off the 125kg limit on the frame. 
+  - i need to lose some weight. not just for the bike, but i've been putting it off for a long time now. letting myself go too much. lets get this under control. 
+
 ## 10/26/26 - Monday 
 - eyedrops: 12:07am/ 9:39am
 - aspirin: 12:10ish am
