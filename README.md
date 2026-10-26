@@ -1,8 +1,9 @@
 # 2026-journal
 
 ## 10/27/26 - Tuesday 
-- eyedrops:
+- eyedrops: 6:37am
 - aspirin:
+- my internal calendar was off. i thought it was tuesday for most of yesterday. 
 - waiting on bike fitter's recommendation for frame size. im compelled by the aethos 1 offering. but im pretty close to the max system weight limit. if i take weight+bike+gear+waterbottle into account im prob pushing the 120kg limit on the wheelset, and not too far off the 125kg limit on the frame. 
   - i need to lose some weight. not just for the bike, but i've been putting it off for a long time now. letting myself go too much. lets get this under control.
   - lets set a target weight. if i make a wish, id want to be around 85kg ideally, so lets set a goal for 89kg by next summer. that's 18kg by next summer, june 21, 2027. that's actually a great date cuz that's move-out day at this place. so the rest of my time in this place can be dedicated to getting fit and losing weight.
