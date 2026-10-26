@@ -4,7 +4,10 @@
 - eyedrops:
 - aspirin:
 - waiting on bike fitter's recommendation for frame size. im compelled by the aethos 1 offering. but im pretty close to the max system weight limit. if i take weight+bike+gear+waterbottle into account im prob pushing the 120kg limit on the wheelset, and not too far off the 125kg limit on the frame. 
-  - i need to lose some weight. not just for the bike, but i've been putting it off for a long time now. letting myself go too much. lets get this under control. 
+  - i need to lose some weight. not just for the bike, but i've been putting it off for a long time now. letting myself go too much. lets get this under control.
+  - lets set a target weight. if i make a wish, id want to be around 85kg ideally, so lets set a goal for 89kg by next summer. that's 18kg by next summer, june 21, 2027. that's actually a great date cuz that's move-out day at this place. so the rest of my time in this place can be dedicated to getting fit and losing weight.
+    - i dont have good systems in place for weight loss. i think simple changes would be exercising more, and being more structured about meal planning.
+- two big areas of improvement: cooking healthy meals at home and working out more with more cardio days, maybe even mixing in cardio on the lifting days as well. you've got the time. lets use it to be productive for health. 
 
 ## 10/26/26 - Monday 
 - eyedrops: 12:07am/ 9:39am
