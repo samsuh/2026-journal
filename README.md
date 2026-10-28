@@ -4,6 +4,19 @@
 - eyedrops: 1:10am
 - aspirin:
 
+tasks:
+- bike maintenance/repair
+  - reassemble:
+    - chainring
+    - crankset
+  - reinstall
+    - crankset
+    - cassette to rear wheel
+    - wheels onto bike
+    - waxed chain
+      - wax chain!
+        - awaiting wax pot delivery. hopefully today. 
+
 
 ## 10/28/26 - Wednesday 
 - eyedrops: around 11am
