@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 10/28/26 - Wednesday 
+- eyedrops: around 11am
+- aspirin: around 11am too
+- should goto gym today.
+- cooked tomato/egg over rice for breakfast. cooking smell so persistent. heated oil too hot and it flambe'ed. so maybe dont do that, assuming it sprays oil droplets everywhere.
+
 ## 10/27/26 - Tuesday 
 - eyedrops: 6:37am
 - aspirin:
