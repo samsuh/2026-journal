@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 10/30/26 - Friday
+Got destroyed in the markets again. time to unplug and just stay offline for a while. 
+- eyedrops: 6:55am
+
 ## 10/29/26 - Thursday 
 - eyedrops: 1:10am/ 7:49pm
 - aspirin:  7:50pm
