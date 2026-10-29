@@ -14,7 +14,7 @@ tasks:
     - chainring
       - i sheared one of the bolts. ordered a replacement. 
     - crankset
-      - look up torque spec
+      - look up torque spec. 12-14 lets go in the middle now? 13. 
   - reinstall
     - crankset
     - cassette to rear wheel
