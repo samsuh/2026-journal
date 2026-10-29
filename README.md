@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 10/29/26 - Thursday 
-- eyedrops: 1:10am
-- aspirin:
+- eyedrops: 1:10am/ 7:49pm
+- aspirin:  7:50pm
 
 tasks:
 - bike maintenance/repair
