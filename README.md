@@ -12,7 +12,9 @@ tasks:
 - bike maintenance/repair
   - reassemble:
     - chainring
+      - i sheared one of the bolts. ordered a replacement. 
     - crankset
+      - look up torque spec
   - reinstall
     - crankset
     - cassette to rear wheel
