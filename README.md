@@ -2,7 +2,8 @@
 
 ## 10/30/26 - Friday
 Got destroyed in the markets again. time to unplug and just stay offline for a while. 
-- eyedrops: 6:55am
+- eyedrops: 6:55am/ 9:17pm
+- aspirin: 9:18pm
 
 ## 10/29/26 - Thursday 
 - eyedrops: 1:10am/ 7:49pm
