@@ -1,5 +1,11 @@
 # 2026-journal
 
+## 10/31/26 - Saturday 
+- eyedrops:
+- aspirin:
+- gym set b
+- 
+
 ## 10/30/26 - Friday
 Got destroyed in the markets again. time to unplug and just stay offline for a while. 
 - eyedrops: 6:55am/ 9:17pm
@@ -23,7 +29,6 @@ tasks:
     - waxed chain
       - wax chain!
         - awaiting wax pot delivery. hopefully today. 
-
 
 ## 10/28/26 - Wednesday 
 - eyedrops: around 11am
