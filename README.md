@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 10/31/26 - Saturday 
-- eyedrops:
+- eyedrops: 9:49am
 - aspirin:
 - gym set b
 - saw this tribute to patrick stewart. makes me want to live a fuller life, a more vibrant life. chronicling the moments i feel most alive is the goal of all those videos and pictures. https://www.facebook.com/share/v/1EyeYBQ3KK/
