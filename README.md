@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 11/1/26 - Sunday 
-- eyedrops: 5:06am
-- aspirin:
+- eyedrops: 5:06am/ 1:30pm/ 8:17pm
+- aspirin: 8:17pm
 - went to gym in the morning, set B. 
 
 ## 10/31/26 - Saturday 
