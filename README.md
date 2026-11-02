@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 11/2/26 - Monday 
-- eyedrops: 3:55pm 
+- eyedrops: 3:55pm/ 10:30pm 
 - aspirin: 3:56pm 
 
 ## 11/1/26 - Sunday 
