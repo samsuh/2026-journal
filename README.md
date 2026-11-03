@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 11/3/26 - Tuesday
-- eyedrops: 11amish 
+- eyedrops: 11amish/ 5:17pm
 - aspirin: 11amish
 - eye appt today. doing all the eyedrops and aspirin for.
   - thought it would be surgery today, but it's getting better, so theyre gonna wait and see for another couple months. 
