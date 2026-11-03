@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/3/26 - Tuesday
+- eyedrops: 11amish 
+- aspirin: 11amish
+- eye appt today. doing all the eyedrops and aspirin for
+
 ## 11/2/26 - Monday 
 - eyedrops: 3:55pm/ 10:30pm 
 - aspirin: 3:56pm 
