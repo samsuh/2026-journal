@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/5/26 - THursday 
+- did gym set B
+- eyedrops: 12:04am
+- date with St at noon in hannam 
+
 ## 11/4/26 - Wednesday 
 - eyedrops: 7:04am/ 3:50pm
 - aspirin: 3:50pm 
