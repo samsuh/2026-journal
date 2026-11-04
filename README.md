@@ -2,7 +2,8 @@
 
 ## 11/5/26 - THursday 
 - did gym set B
-- eyedrops: 12:04am
+- eyedrops: 12:04am/ 7:41am
+- aspirin: 7:41am
 - date with St at noon in hannam 
 
 ## 11/4/26 - Wednesday 
