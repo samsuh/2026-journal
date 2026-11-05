@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 11/6/26 - Friday
+- eyedrops: 3:32am 
+
 ## 11/5/26 - THursday 
 - did gym set B
 - eyedrops: 12:04am/ 7:41am/ 8:25pm
