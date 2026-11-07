@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/7/26 - Saturday 
+- went hiking. was nice. spent all day together, got home around 7-something pm. 
+- eyedrops: 10:20am/ 7:45pm
+- aspirin 10:20am
+
 ## 11/6/26 - Friday
 - eyedrops: 3:32am/ 9:41am/ 6:15pm
 - aspirin: 9:32am
