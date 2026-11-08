@@ -2,6 +2,7 @@
 
 ## 11/8/26 - Sunday 
 - eyedrops: 4am
+- should update el 
 
 ## 11/7/26 - Saturday 
 - went hiking. was nice. spent all day together, got home around 7-something pm. 
