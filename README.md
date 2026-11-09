@@ -2,7 +2,8 @@
 
 ## 11/9/26 - Monday 
 - eyedrops: 7am/ 630pm
-- look up movie theatre and shows. look up bookstore nearby 
+- aspirin: 10:17pm
+- look up movie theatre and shows. look up bookstore nearby. meeting near koryo at 6ish. 
 
 ## 11/8/26 - Sunday 
 - eyedrops: 4am/ 8pm
