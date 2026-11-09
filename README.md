@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 11/9/26 - Monday 
-- eyedrops: 7am
-- look up movie thewatre ans shows. look up bookstore nearby 
+- eyedrops: 7am/ 630pm
+- look up movie theatre and shows. look up bookstore nearby 
 
 ## 11/8/26 - Sunday 
 - eyedrops: 4am/ 8pm
