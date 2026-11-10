@@ -2,7 +2,8 @@
 
 ## 11/10/26 - Tuesday 
 - eyedrops: 12:35am/ 9:33am/ 5:53pm
-- aspirin: 9:23pm 
+- aspirin: 9:23pm
+- watched a video about using exercises for strenghting throat muscles to reduce sleep apnea; open ahh/ tongue press front to back of roof/ tongue tip bottom teeth and rear tongue down/ sinus resonance humming
 
 ## 11/9/26 - Monday 
 - eyedrops: 7am/ 630pm
