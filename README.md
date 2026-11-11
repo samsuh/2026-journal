@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 11/11/26 - Wednesday
+- eyedrops: 4pm
+- meet St in gangnam. bring hotpack, mangoes, oranges?, pepero
+
 ## 11/10/26 - Tuesday 
 - eyedrops: 12:35am/ 9:33am/ 5:53pm
 - aspirin: 9:23pm
