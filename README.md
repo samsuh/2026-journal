@@ -1,7 +1,7 @@
 # 2026-journal
 
 ## 11/13/26 - Friday
-- eyedrops: 4:29am
+- eyedrops: 4:29am/ 7:39pm
 
 ## 11/12/26 - Thursday 
 - eyedrops: 7:12am/ 8:39pm
