@@ -7,7 +7,8 @@
 
 ## 11/13/26 - Friday
 - eyedrops: 4:29am/ 7:39pm
-- aspirin: i think i took one around 10am 
+- aspirin: i think i took one around 10am
+- met St for hiking, gwanaksan. started SNU side, peaked, and went gwacheon side.
 
 ## 11/12/26 - Thursday 
 - eyedrops: 7:12am/ 8:39pm
