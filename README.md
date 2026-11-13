@@ -1,5 +1,10 @@
 # 2026-journal
 
+
+## 11/14/26 - Saturday 
+- eyedrops: 6:55am
+- aspirin: 6:55am 
+
 ## 11/13/26 - Friday
 - eyedrops: 4:29am/ 7:39pm
 - aspirin: i think i took one around 10am 
