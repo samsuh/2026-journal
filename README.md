@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 11/15/26 - Sunday 
+- haircut today at 230pm
+- eyedrops: 7am
+- aspirin: 7am
 
 ## 11/14/26 - Saturday 
 - eyedrops: 6:55am/ 11:11pm
