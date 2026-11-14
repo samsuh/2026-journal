@@ -2,7 +2,7 @@
 
 
 ## 11/14/26 - Saturday 
-- eyedrops: 6:55am
+- eyedrops: 6:55am/ 11:11pm
 - aspirin: 6:55am 
 
 ## 11/13/26 - Friday
