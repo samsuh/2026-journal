@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/16/26 - Monday 
+- eyedrops: 5:31am
+- aspirin: 5:32am
+- gym set a
+
 ## 11/15/26 - Sunday 
 - haircut today at 230pm
 - eyedrops: 7am/ probably 1pm
