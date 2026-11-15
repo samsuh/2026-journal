@@ -2,7 +2,7 @@
 
 ## 11/15/26 - Sunday 
 - haircut today at 230pm
-- eyedrops: 7am
+- eyedrops: 7am/ probably 1pm
 - aspirin: 7am
 
 ## 11/14/26 - Saturday 
