@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/17/26 - Tuesday
+- eyedrops: 1:08am
+- aspirin:
+- meet St at ediya lab at 2pm 
+
 ## 11/16/26 - Monday 
 - eyedrops: 5:31am
 - aspirin: 5:32am
