@@ -1,8 +1,8 @@
 # 2026-journal
 
 ## 11/18/26 - Wednesday 
-- eyedrops: 12:38am 
-- aspirin:
+- eyedrops: 12:38am/ 11:04pm
+- aspirin: 10:05pm
 - prob go visit m&d at hospital
 - call about alarmingly high water bill. 10x normal. 
 
