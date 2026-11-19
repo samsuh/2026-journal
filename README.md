@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/19/26 - Thursday 
+- eyedrops: 10amish
+- aspirin:
+- getting bagels with D and their friend around insadong at 4
+
 ## 11/18/26 - Wednesday 
 - eyedrops: 12:38am/ 11:04pm
 - aspirin: 10:05pm
