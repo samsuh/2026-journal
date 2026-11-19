@@ -4,7 +4,8 @@
 - eyedrops: 10amish
 - aspirin:
 - getting bagels with D and their friend around insadong at 4
-- signed up for a Forward Development Engineer course; basically ai course to learn more about ai-deployments in production. basically how to have agents deploy themselves securely. my main goal there is to deploy something, and get the workflow of deploying (ADLC agentic development lifecycle) and get a few projects deployed. open that pathway up so i can deploy some other stuff later. 
+- signed up for a Forward Development Engineer course; basically ai course to learn more about ai-deployments in production. basically how to have agents deploy themselves securely. my main goal there is to deploy something, and get the workflow of deploying (ADLC agentic development lifecycle) and get a few projects deployed. open that pathway up so i can deploy some other stuff later.
+- inspiration: korea travel insurance, or concierge/buddy/helper/troubleshooter/assistant. target travelers coming to korea; optimize the visitor workflow, and take a deposit to give them the option to troubleshoot for them while theyre here. additional service to help plan their trip in advance.
 
 ## 11/18/26 - Wednesday 
 - eyedrops: 12:38am/ 11:04pm
