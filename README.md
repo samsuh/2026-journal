@@ -1,7 +1,8 @@
 # 2026-journal
 
 ## 11/20/26 - Friday 
-- eyedrops: 2:40pm 
+- eyedrops: 2:40pm
+- working on getting through ai fde course.
 
 ## 11/19/26 - Thursday 
 - eyedrops: 10amish/ 11:51pm
