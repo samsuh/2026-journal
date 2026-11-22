@@ -1,7 +1,9 @@
 # 2026-journal
 
 ## 11/22/26 - Sunday 
-- eyedrops: 3:30am
+- eyedrops: 3:30am/ noon
+- aspirin: noon
+- H arrives to korea today.
 
 ## 11/21/26 - Saturday
 - eyedrops: 5:12pm
