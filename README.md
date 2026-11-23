@@ -2,6 +2,7 @@
 
 ## 11/23/26 - Monday
 - arrived jeju
+- eyedrops: 9amish/ 10pmish
 - didnt take aspirin today
 
 ## 11/22/26 - Sunday 
