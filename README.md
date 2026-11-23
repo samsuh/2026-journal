@@ -1,5 +1,9 @@
 # 2026-journal
 
+## 11/23/26 - Monday
+- arrived jeju
+- didnt take aspirin today
+
 ## 11/22/26 - Sunday 
 - eyedrops: 3:30am/ noon
 - aspirin: noon
