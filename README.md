@@ -1,9 +1,12 @@
 # 2026-journal
 
 ## 11/25/26 - Wednesday 
+idea: what if instead of worrying about delivering the responses, i first focus on building a system to intake common questions and answers, and focus on the training aspect of it. if the focus is korean tourism and travel, actively build a system that can intake approved questions and answers that seem right, and use it to first build up a sizeable specialized knowledge base for this unique topic first, and then have the tool self-improve on its own time, while using the 'core' verified and approved messages intact; maybe have it also occasionally check for currency of the info. im thinking have a system that asks 'knowledgeable people' to answer simple questions, and maybe have it connected to some reward, like gift cards or free stuff. 
+
 
 ## 11/24/26 - Tuesday 
-- i think i missed updating today. i didnt do much. 
+- i think i missed updating today. i didnt do much. hung out with family. slept a lot, caught up on sleep and feel good.
+- eyedrops twice throughout the day, but no aspirin. 
 
 ## 11/23/26 - Monday
 - arrived jeju
