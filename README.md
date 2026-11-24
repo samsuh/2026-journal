@@ -1,5 +1,10 @@
 # 2026-journal
 
+## 11/25/26 - Wednesday 
+
+## 11/24/26 - Tuesday 
+- i think i missed updating today. i didnt do much. 
+
 ## 11/23/26 - Monday
 - arrived jeju
 - eyedrops: 9amish/ 10pmish
