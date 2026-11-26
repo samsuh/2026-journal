@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 11/26/26 - Thursday 
+- hung out with family. nothing too productive 
+
 ## 11/25/26 - Wednesday 
 idea: what if instead of worrying about delivering the responses, i first focus on building a system to intake common questions and answers, and focus on the training aspect of it. if the focus is korean tourism and travel, actively build a system that can intake approved questions and answers that seem right, and use it to first build up a sizeable specialized knowledge base for this unique topic first, and then have the tool self-improve on its own time, while using the 'core' verified and approved messages intact; maybe have it also occasionally check for currency of the info. im thinking have a system that asks 'knowledgeable people' to answer simple questions, and maybe have it connected to some reward, like gift cards or free stuff. 
 - eyedrops a couple of times
