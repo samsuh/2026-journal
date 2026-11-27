@@ -1,5 +1,8 @@
 # 2026-journal
 
+## 11/27/26 - friday 
+- its not srtificial intelligence, it's intelligence expressing itself through a new medium
+
 ## 11/26/26 - Thursday 
 - hung out with family. nothing too productive 
 
