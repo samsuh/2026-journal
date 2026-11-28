@@ -2,6 +2,7 @@
 
 ## 11/28/26 - Saturday 
 - H leaves Korea
+- back home
 
 ## 11/27/26 - friday 
 - its not srtificial intelligence, it's intelligence expressing itself through a new medium
